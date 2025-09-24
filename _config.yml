@@ -9,23 +9,23 @@ permalink:        pretty
 # Setup
 title:            "Robotics: Science and Systems"
 tagline:          'A Robotics Conference'
-description:      'RSS 2025, June 21, 2025 - June 25, 2025, Los Angeles, California'
+description:      'RSS 2026, July 13, 2026 - July 17, 2026, Sydney, Australia'
 url:              "https://roboticsconference.org"
 baseurl:          ""
 include:          ['_pages']
 exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'GRTAGS', 'GPATH', 'GTAGS', 'deploy.sh']
-logo:             "/images/RSS2025-logo.png"
+logo:             "/images/RSS2026-logo.jpg"
 favpng:           "/public/RSS2025-favicon-516x516.png"
 favicon:          "/public/RSS2025-favicon-256x256.ico"
 apple_touch_icon: "/public/apple-touch-icon-144-precomposed.png"
-startdate:        "2025-06-21"
-enddate:          "2025-06-25"
-location:         "Los Angeles, California"
+startdate:        "2026-07-13"
+enddate:          "2026-07-17"
+location:         "Sydney, Australia"
 
 
 author:
-  name:           'Jared Strader'
-  url:            https://jaredstrader.github.io/
+  name:           'Zehao Wang'
+  url:            https://zehaowang983.github.io/
 
 gems:             [jekyll-paginate]
 paginate:         5

@@ -7,20 +7,20 @@ title: Home
 </div> -->
 
 <!-- <div style="margin-top: 20px; background-color: #ffcc00; padding: 12px 10px 8px 10px; text-align: center; font-weight: bold; font-size: 18px; line-height: 1.2; vertical-align: middle;">
-  Getting ready for your RSS 2025 trip? Please find important <a href="{{ site.baseurl }}/attending/travel/" style="color: #0000EE; text-decoration: underline;">travel information here</a>.
+  Getting ready for your RSS 2026 trip? Please find important <a href="{{ site.baseurl }}/attending/travel/" style="color: #0000EE; text-decoration: underline;">travel information here</a>.
 </div> -->
 
 
 <h1 class="page-title">{{ site.title }}<br>
-June 21 &ndash; June 25, 2025<br>Los Angeles, California</h1>
+Julu 13 &ndash; July 17, 2026<br>Sydney, Australia</h1>
 
 
 <!-- recording -->
-<div class="rss-hero">
+<!-- <div class="rss-hero">
   <div class="rss-embed-wrap">
     <iframe
       id="rss-yt"
-      title="RSS 2025 Recording"
+      title="RSS 2026 Recording"
       src="https://www.youtube.com/embed/QqK0IKINJEQ?rel=0&modestbranding=1"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -29,12 +29,12 @@ June 21 &ndash; June 25, 2025<br>Los Angeles, California</h1>
   </div>
 
   <div id="dayselector" class="rss-daybar">
-    <button class="daybutton active" data-yt="QqK0IKINJEQ">Jun 22</button>
-    <button class="daybutton" data-yt="qJgmmudGrY8">Jun 23</button>
-    <button class="daybutton" data-yt="b6SVm8zuUcc">Jun 24</button>
-    <button class="daybutton" data-yt="74EDmPwbOYc">Jun 25</button>
+    <button class="daybutton active" data-yt="QqK0IKINJEQ">July 13</button>
+    <button class="daybutton" data-yt="qJgmmudGrY8">July 14</button>
+    <button class="daybutton" data-yt="b6SVm8zuUcc">July 15</button>
+    <button class="daybutton" data-yt="74EDmPwbOYc">July 16</button>
   </div>
-</div>
+</div> -->
 
 <style>
   .rss-hero { max-width: 1080px; margin: 0 auto 24px; }
@@ -79,10 +79,10 @@ June 21 &ndash; June 25, 2025<br>Los Angeles, California</h1>
 
 <!-- ### Important Announcements -->
 
-<div class="alert alert-info" style="border: 1px solid #bee5eb; padding: 12px 10px; margin-top: 20px; background-color: #d1ecf1; color: #0c5460;">
+<!-- <div class="alert alert-info" style="border: 1px solid #bee5eb; padding: 12px 10px; margin-top: 20px; background-color: #d1ecf1; color: #0c5460;">
   <p>We sincerely thank all participants—in-person and virtual—for joining us at <i>Robotics: Science and Systems 2025</i>. From inspiring keynotes and technical sessions to vibrant discussions and demos, we hope RSS 2025 was a valuable and memorable experience for everyone.</p>
   <p><strong>Need a Certificate of Attendance?</strong> Participants who require a certificate can access and download it via their PheedLoop mobile app. Once you open the app, please click on the top-left menu icon and then click “Certificate” to download the digital certificate of attendance.</p>
-</div>
+</div> -->
 
 <!-- <div class="alert alert-warning" style="border: 1px solid #f0ad4e; padding: 10px; margin-top: 20px; background-color: #fcf8e3;">
   <strong>Weekend Vehicle Access:</strong> On weekends, the only open entrance to the USC campus is the <a href="https://maps.app.goo.gl/QPxY2eyPfaPqxFKQ8" style="color: #721c24; text-decoration: underline;">North Gate at 1064–1000 W Jefferson Blvd</a>. Pedestrian entrances remain open.
@@ -100,16 +100,15 @@ ocial Program
 
 ### News and Updates
 
-- Registration portal is open [here]({{ site.baseurl }}/attending/registration/).
+<!-- - Registration portal is open [here]({{ site.baseurl }}/attending/registration/).
 - Travel Information is available [here]({{ site.baseurl }}/attending/travel/).
-- Explore the Social Program [here]({{ site.baseurl }}/attending/social/).
+- Explore the Social Program [here]({{ site.baseurl }}/attending/social/). -->
 
 ---
 
 ### Call for Participation
 
-We are pleased to announce the 21st edition of the “Robotics: Science and Systems” (RSS) conference to be held at the [University of Southern California](https://www.usc.edu/){:target="_blank"}, Los Angeles, California from June 21-25, 2025. 
-After being hosted at the University of Southern California in 2011, the organizers are excited to bring RSS back to this iconic venue in 2025.
+We are pleased to announce the 22nd edition of the “Robotics: Science and Systems” (RSS) conference to be held at the [University of Technology Sydney](https://www.uts.edu.au/){:target="_blank"}, Sydney, Australia from June 13-17, 2026.
 
 RSS has a long history of bringing together researchers in all areas of robotics from around the world for an engaging and focused week of single-track presentations, workshops, poster sessions, and tutorials. This year, as always, we solicit your best work.
 
@@ -131,12 +130,12 @@ RSS has a long history of bringing together researchers in all areas of robotics
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td><s>January 17, 2025</s></td>
+      <!-- <tr> -->
+        <!-- <td><s>January 17, 2025</s></td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Abstract/Title Submission Deadline</td>
-      </tr>
-      <tr>
+      </tr> -->
+      <!-- <tr>
         <td><s>January 24, 2025</s></td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Initial Paper and Demo Submission Deadline (this requires a semi-complete pdf of the paper, final title and abstract)</td>
@@ -190,23 +189,23 @@ RSS has a long history of bringing together researchers in all areas of robotics
         <td><s>April 25, 2025</s></td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Final Camera Ready Paper Submission</td>
-      </tr>
-      <tr>
-        <td>June 20, 2025</td>
+      </tr> -->
+      <!-- <tr>
+        <td>July 13, 2026</td>
         <td>—</td>
         <td class="wrap"><a href="https://sites.google.com/view/rsspioneers2025/" target="_blank">RSS Pioneers</a> Workshop</td>
-      </tr>
+      </tr> -->
       <tr>
-        <td>June 21 &ndash; June 25, 2025</td>
+        <td>July 13 &ndash; July 17, 2026</td>
         <td>—</td>
-        <td class="wrap">RSS 2025, Los Angeles, California</td>
+        <td class="wrap">RSS 2026, Sydney, Australia</td>
       </tr>
     </tbody>
 </table>
 
 <p class="img-container" style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/rss2025_usc1.jpg" alt="University of Southern California (USC) venue" class="img-responsive img-same-height" />
-  <img src="{{ site.baseurl }}/images/rss2025_usc2.jpg" alt="University of Southern California (USC) venue" class="img-responsive img-same-height" />
+  <img src="{{ site.baseurl }}/images/rss2026_uts1.jpg" alt="University of Technology Sydney venue" class="img-responsive img-same-height" />
+  <img src="{{ site.baseurl }}/images/rss2026_uts2.jpg" alt="University of Technology Sydney venue" class="img-responsive img-same-height" />
 </p>
 
 <br/>
@@ -216,29 +215,29 @@ RSS has a long history of bringing together researchers in all areas of robotics
 <h3 id="sponsors">Sponsors</h3>
 
 <!-- Row 1 -->
-<p style="text-align: center;">
+<!-- <p style="text-align: center;">
   <img alt="Amazon Robotics" src="images/sponsors2025/1_amazon_robotics.png"
        style="height: auto; width: auto; max-width: 425px; margin: 10px;" />
-</p>
+</p> -->
 
 <!-- Row 2 -->
-<div style="height: 10px;"></div>
+<!-- <div style="height: 10px;"></div>
 <p style="text-align: center;">
   <img alt="Toyota Research Institute" src="images/sponsors2025/2_tri.png"
        style="height: auto; width: auto; max-width: 225px; margin: 10px;" />
-</p>
+</p> -->
 
 <!-- Row 3 -->
-<div style="height: 10px;"></div>
+<!-- <div style="height: 10px;"></div>
 <p style="text-align: center;">
   <img alt="Google" src="images/sponsors2025/3a_google.png"
        style="height: auto; width: auto; max-width: 225px; margin: 10px; margin-right: 40px;" />
   <img alt="Unitree" src="images/sponsors2025/3b_unitree.png"
        style="height: auto; width: auto; max-width: 250px; margin: 10px;" />
-</p>
+</p> -->
 
 <!-- Row 4 -->
-<div style="height: 10px;"></div>
+<!-- <div style="height: 10px;"></div>
 <p style="text-align: center;">
   <img alt="MaxInsights" src="images/sponsors2025/4a_maxinsights.png"
        style="height: auto; width: auto; max-width: 200px; margin: 10px; margin-right: 40px;" />
@@ -246,10 +245,10 @@ RSS has a long history of bringing together researchers in all areas of robotics
        style="height: auto; width: auto; max-width: 200px; margin: 10px; margin-right: 40px;" />
   <img alt="Vinmotion" src="images/sponsors2025/4c_vinmotion.png"
        style="height: auto; width: auto; max-width: 200px; margin: 10px;" />
-</p>
+</p> -->
 
 <!-- Row 5 -->
-<div style="height: 10px;"></div>
+<!-- <div style="height: 10px;"></div>
 <p style="text-align: center;">
   <img alt="Semio" src="images/sponsors2025/5a_semio.png"
        style="height: auto; width: auto; max-width: 200px; margin: 10px; margin-right: 40px; vertical-align: -42px;" />
@@ -257,10 +256,10 @@ RSS has a long history of bringing together researchers in all areas of robotics
        style="height: auto; width: auto; max-width: 200px; margin: 10px; margin-right: 40px;" />
   <img alt="Lightwheel Robotics" src="images/sponsors2025/5c_lightwheel.png"
        style="height: auto; width: auto; max-width: 200px; margin: 10px;" />
-</p>
+</p> -->
 
 <!-- Row 6 -->
-<div style="height: 10px;"></div>
+<!-- <div style="height: 10px;"></div>
 <p style="text-align: center;">
   <img alt="Fourier Intelligence" src="images/sponsors2025/6a_fourier.png"
        style="height: auto; width: auto; max-width: 200px; margin: 10px; margin-right: 40px; vertical-align: -25px;" />
@@ -268,10 +267,10 @@ RSS has a long history of bringing together researchers in all areas of robotics
        style="height: auto; width: auto; max-width: 200px; margin: 10px;" />
   <img alt="High Torque" src="images/sponsors2025/6c_high_torque.jpg"
        style="height: auto; width: auto; max-width: 200px; margin: 10px; margin-right: 40px; vertical-align: -25px;" />
-</p>
+</p> -->
 
 <!-- Row 7 -->
-<div style="height: 10px;"></div>
+<!-- <div style="height: 10px;"></div>
 <p style="text-align: center;">
   <img alt="Booster" src="images/sponsors2025/7a_booster_robotics.png"
        style="height: auto; width: auto; max-width: 190px; margin: 10px;" />
@@ -279,25 +278,25 @@ RSS has a long history of bringing together researchers in all areas of robotics
        style="height: auto; width: auto; max-width: 190px; margin: 10px;" />
   <img alt="Lockheed Martin" src="images/sponsors2025/7c_lockheed.png"
        style="height: auto; width: auto; max-width: 250px; margin: 10px;" />
-</p>
+</p> -->
 
 <!-- Row 7.5 -->
-<p style="text-align: center;">
+<!-- <p style="text-align: center;">
   <img alt="Rainier" src="images/sponsors2025/rainier_labs_bw.png"
        style="height: auto; width: auto; max-width: 250px; margin: 5px;" />
-</p>
+</p> -->
 
 <!-- Row 8 -->
-<div style="height: 10px;"></div>
+<!-- <div style="height: 10px;"></div>
 <p style="text-align: center;">
   <img alt="USC Engineering" src="images/sponsors2025/8a_usc_engineering.png"
        style="height: auto; width: auto; max-width: 177px; margin: 10px; vertical-align: -37px;" />
   <img alt="USC Computing" src="images/sponsors2025/8b_usc_computing.png"
        style="height: auto; width: auto; max-width: 500px; margin: 10px;" />
-</p>
+</p> -->
 
 ---
-The website of the RSS 2024 conference can be found [here]({{ site.url }}/2024/).
+The website of the RSS 2025 conference can be found [here]({{ site.url }}/2025/).
 
 <br/>
 <br/>
