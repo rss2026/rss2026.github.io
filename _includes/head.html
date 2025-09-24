@@ -1,0 +1,75 @@
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/public/css/navbar.css">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/public/css/style.css">
+
+  <!-- Bootstrap -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}{{ site.apple_touch_icon }}">
+  <link rel="shortcut icon" href="{{ site.baseurl }}{{ site.favicon }}">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <meta name="description" content="{{ site.description }}" />
+  <meta property="og:type" content="event" />
+  <meta property="og:title" content="{{ page.title | truncate: 100 }} | {{ site.title }}" />
+  <meta property="og:description" content="{{ site.description }}" />
+  <meta property="og:url" content="{{ site.url }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta name="twitter:card" content="{{ site.url }}{{ site.logo }}" />
+  <meta name="twitter:description" content="{{ site.description }}" />
+  <meta name="twitter:title" content="{{ page.title | truncate: 100 }} | {{ site.title }}" />
+  <meta property="og:image" content="{{ site.url }}{{ site.logo }}" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Event",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}",
+    "image": "{{ site.url }}{{ site.logo }}",
+    "logo": "{{ site.url }}{{ site.logo }}",
+    "sameAs": [
+      "https://twitter.com/RoboticsSciSys",
+      "https://www.facebook.com/RoboticsSciSys",
+      "https://www.linkedin.com/in/rss-conference-99b28823b",
+      "http://www.roboticsproceedings.org/"
+    ],
+    "about": {
+      "@type": "Thing",
+      "name": "{{ site.tagline }}"
+    },
+    "keywords": "robotics, academic conference",
+    "description": "{{ site.description }}",
+    "startDate": "{{ site.startdate }}",
+    "endDate": "{{ site.enddate }}",
+    "location": "{{ site.location }}"
+  }
+  </script>
+
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+
+</head>

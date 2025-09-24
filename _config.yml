@@ -1,0 +1,65 @@
+# Dependencies
+kramdown:
+  input: GFM
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "Robotics: Science and Systems"
+tagline:          'A Robotics Conference'
+description:      'RSS 2025, June 21, 2025 - June 25, 2025, Los Angeles, California'
+url:              "https://roboticsconference.org"
+baseurl:          ""
+include:          ['_pages']
+exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'GRTAGS', 'GPATH', 'GTAGS', 'deploy.sh']
+logo:             "/images/RSS2025-logo.png"
+favpng:           "/public/RSS2025-favicon-516x516.png"
+favicon:          "/public/RSS2025-favicon-256x256.ico"
+apple_touch_icon: "/public/apple-touch-icon-144-precomposed.png"
+startdate:        "2025-06-21"
+enddate:          "2025-06-25"
+location:         "Los Angeles, California"
+
+
+author:
+  name:           'Jared Strader'
+  url:            https://jaredstrader.github.io/
+
+gems:             [jekyll-paginate]
+paginate:         5
+paginate_path:    "blog/page:num"
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:
+
+google_analytics: G-RCJTV6PJZC
+
+collections:
+    attending:
+       output: true
+       permalink: /attending/:path/
+       priority: 2
+    program:
+       output: true
+       permalink: /program/:path/
+       priority: 2
+    committees:
+       output: true
+       permalink: /committees/:path/
+       priority: 4
+    information:
+       output: true
+       permalink: /information/:path/
+       priority: 3
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      priority: 0
