@@ -14,7 +14,7 @@ published: true
   <table style="margin-left:auto;margin-right:auto;">
     <tr>
       <td style="width:200px;vertical-align:top;">
-        <a target="_blank" href="http://lucacarlone.mit.edu/">Luca Carlone</a><br>
+        <a target="_blank" href="https://lucacarlone.mit.edu/">Luca Carlone</a><br>
         <i>Massachusetts Institute of Technology, USA</i><br>
       </td>
     </tr>
