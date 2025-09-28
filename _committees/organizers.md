@@ -14,7 +14,7 @@ published: true
   <table style="margin-left:auto;margin-right:auto;">
     <tr>
       <td style="width:200px;vertical-align:top;">
-        <a target="_blank" href="https://www.me.columbia.edu/faculty/matei-ciocarlie">Luca Carlone</a><br>
+        <a target="_blank" href="http://lucacarlone.mit.edu/">Luca Carlone</a><br>
         <i>Massachusetts Institute of Technology, USA</i><br>
       </td>
     </tr>
@@ -25,7 +25,7 @@ published: true
   <table style="margin-left:auto;margin-right:auto;">
     <tr>
       <td style="width:200px;vertical-align:top;">
-        <a target="_blank" href="https://www.cs.columbia.edu/~matei/">Matei Ciocarlie</a><br>
+        <a target="_blank" href="https://www.me.columbia.edu/faculty/matei-ciocarlie">Matei Ciocarlie</a><br>
         <i>Columbia University, USA</i><br>
       </td>
     </tr>
