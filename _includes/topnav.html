@@ -47,7 +47,12 @@
                                 {% for node in priority %}
                                 {% if node.invisible != true %}
                                 {% if node.layout == "page" %}
+                                <!-- <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li> -->
+                                {% if node.title == "Organizing Committee" %}
                                 <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+                                {% else %}
+                                <li><a href="{{ site.baseurl }}">{{ node.title }}</a></li>
+                                {% endif %}
                                 {% endif %}
                                 {% endif %}
                                 {% endfor %}
@@ -57,7 +62,12 @@
                                 {% for node in docs %}
                                 {% if node.invisible != true %}
                                 {% if node.layout == "page" %}
+                                <!-- <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li> -->
+                                {% if node.title == "Organizing Committee" %}
                                 <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+                                {% else %}
+                                <li><a href="{{ site.baseurl }}">{{ node.title }}</a></li>
+                                {% endif %}
                                 {% endif %}
                                 {% endif %}
                                 {% endfor %}
