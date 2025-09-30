@@ -98,7 +98,7 @@ July 13&ndash;17, 2026<br>Sydney, Australia</h1>
 ocial Program
 **Announcement 2:** Submitting an abstract (by the January 17 deadline) or a semi-complete paper (by the January 24 deadline) for a paper that is currently under submission to another conference (e.g. ICRA, ICLR, CVPR) is still considered a double submission and is forbidden by RSS rules. However, if the paper has substantial innovation with respect to the paper that is already in submission (i.e., it would qualify as a different and novel paper and you would not withdraw it even if the paper under review is accepted), you should feel free to submit it to RSS. -->
 
-### News and Updates
+<!-- ### News and Updates -->
 
 <!-- - Registration portal is open [here]({{ site.baseurl }}/attending/registration/).
 - Travel Information is available [here]({{ site.baseurl }}/attending/travel/).
@@ -212,7 +212,7 @@ RSS has a long history of bringing together researchers in all areas of robotics
 
 ---
 
-<h3 id="sponsors">Sponsors</h3>
+<!-- <h3 id="sponsors">Sponsors</h3> -->
 
 <!-- Row 1 -->
 <!-- <p style="text-align: center;">
