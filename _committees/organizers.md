@@ -103,6 +103,10 @@ published: true
         <a target="_blank" href="https://jiachenli94.github.io/">Jiachen Li</a><br>
         <i>University of California, Riverside, USA</i><br>
       </td>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://www.micahcorah.com/">Micah Corah</a><br>
+        <i>Colorado School of Mines, USA</i><br>
+      </td>
     </tr>
   </table>
 
