@@ -12,7 +12,7 @@ title: Home
 
 
 <h1 class="page-title">{{ site.title }}<br>
-Julu 13 &ndash; July 17, 2026<br>Sydney, Australia</h1>
+July 13&ndash;17, 2026<br>Sydney, Australia</h1>
 
 
 <!-- recording -->
@@ -108,9 +108,9 @@ ocial Program
 
 ### Call for Participation
 
-We are pleased to announce the 22nd edition of the “Robotics: Science and Systems” (RSS) conference to be held at the [University of Technology Sydney](https://www.uts.edu.au/){:target="_blank"}, Sydney, Australia from June 13-17, 2026.
+We are pleased to announce the 22nd edition of the “Robotics: Science and Systems” (RSS) conference to be held at the [University of Technology Sydney](https://www.uts.edu.au/){:target="_blank"}, Sydney, Australia from July 13-17, 2026.
 
-RSS has a long history of bringing together researchers in all areas of robotics from around the world for an engaging and focused week of single-track presentations, workshops, poster sessions, and tutorials. This year, as always, we solicit your best work.
+RSS has a long history of bringing together researchers in all areas of robotics from around the world for an engaging and focused week of single-track presentations, workshops, poster sessions, and tutorials. Paper submission deadline is expected to be in mid- to late January. Additional details will be announced in the coming weeks.
 
 ### Important Dates
 
@@ -196,7 +196,7 @@ RSS has a long history of bringing together researchers in all areas of robotics
         <td class="wrap"><a href="https://sites.google.com/view/rsspioneers2025/" target="_blank">RSS Pioneers</a> Workshop</td>
       </tr> -->
       <tr>
-        <td>July 13 &ndash; July 17, 2026</td>
+        <td>July 13&ndash;17, 2026</td>
         <td>—</td>
         <td class="wrap">RSS 2026, Sydney, Australia</td>
       </tr>

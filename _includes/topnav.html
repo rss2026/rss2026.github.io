@@ -37,7 +37,7 @@
                             </ul>
                         </li>
                         {% for coll in site.collections %}
-                        {% if coll.label != "posts" %}
+                        {% if coll.label == "committees" %}
                         <li class="dropdown">
                             <a class="dropdown-toggle" data-toggle="dropdown" href="#">{{coll.label}}<span class="caret"></span></a>
                             <ul class="dropdown-menu">
@@ -50,8 +50,10 @@
                                 <!-- <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li> -->
                                 {% if node.title == "Organizing Committee" %}
                                 <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+                                {% comment %}
                                 {% else %}
                                 <li><a href="{{ site.baseurl }}/">{{ node.title }}</a></li>
+                                {% endcomment %}
                                 {% endif %}
                                 {% endif %}
                                 {% endif %}
@@ -65,8 +67,10 @@
                                 <!-- <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li> -->
                                 {% if node.title == "Organizing Committee" %}
                                 <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+                                {% comment %}
                                 {% else %}
                                 <li><a href="{{ site.baseurl }}/">{{ node.title }}</a></li>
+                                {% endcomment %}
                                 {% endif %}
                                 {% endif %}
                                 {% endif %}

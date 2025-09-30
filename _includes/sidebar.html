@@ -18,7 +18,7 @@
 {% assign sorted = site.collections | sort: 'priority' %}
 
 {% for coll in sorted %}
-{% if coll.label != "posts" %}
+{% if coll.label == "committees" %}
 <b>{{ coll.label }}</b>
 <br>
 
@@ -31,8 +31,10 @@
 <!-- <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a> -->
 {% if node.title == "Organizing Committee" %}
 <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+{% comment %}
 {% else %}
 <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/">{{ node.title }}</a>
+{% endcomment %}
 {% endif %}
 <br>
 {% endif %}
@@ -47,8 +49,10 @@
 <!-- <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a> -->
 {% if node.title == "Organizing Committee" %}
 <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+{% comment %}
 {% else %}
 <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/">{{ node.title }}</a>
+{% endcomment %}
 {% endif %}
 <br>
 {% endif %}
