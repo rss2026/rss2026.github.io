@@ -10,17 +10,7 @@ published: true
   <div class="row text-center">
 
   <br>
-  <b>General Chair</b><br>
-  <table style="margin-left:auto;margin-right:auto;">
-    <tr>
-      <td style="width:200px;vertical-align:top;">
-        <a target="_blank" href="https://lucacarlone.mit.edu/">Luca Carlone</a><br>
-        <i>Massachusetts Institute of Technology, USA</i><br>
-      </td>
-    </tr>
-  </table>
 
-  <br>
   <b>Program Chair</b><br>
   <table style="margin-left:auto;margin-right:auto;">
     <tr>
@@ -32,38 +22,19 @@ published: true
   </table>
 
   <br>
-  <b>Local Arrangements Chairs</b><br>
+  
+  <b>General Chair</b><br>
   <table style="margin-left:auto;margin-right:auto;">
     <tr>
       <td style="width:200px;vertical-align:top;">
-        <a target="_blank" href="https://www.uts.edu.au/staff/shoudong.huang">Shoudong Huang</a><br>
-        <i>University of Technology Sydney, Australia</i><br>
-      </td>
-      <td style="width:45px;"></td>
-      <td style="width:200px;vertical-align:top;">
-        <a target="_blank" href="https://profiles.uts.edu.au/Graeme.Best">Graeme Best</a><br>
-        <i>University of Technology Sydney, Australia</i><br>
+        <a target="_blank" href="https://lucacarlone.mit.edu/">Luca Carlone</a><br>
+        <i>Massachusetts Institute of Technology, USA</i><br>
       </td>
     </tr>
   </table>
-
+  
   <br>
-  <b>Sponsorship Chairs</b><br>
-  <table style="margin-left:auto;margin-right:auto;">
-    <tr>
-      <td style="width:200px;vertical-align:top;">
-        <a target="_blank" href="https://sites.gatech.edu/matthew-gombolay/">Matthew Gombolay</a><br>
-        <i>Georgia Institute of Technology, USA</i><br>
-      </td>
-      <td style="width:45px;"></td>
-      <td style="width:200px;vertical-align:top;">
-        <a target="_blank" href="https://people.csiro.au/M/P/peyman-moghadam">Peyman Moghadam</a><br>
-        <i>CSIRO, Australia</i><br>
-      </td>
-    </tr>
-  </table>
-
-  <br>
+  
   <b>Workshop Chairs</b><br>
   <table style="margin-left:auto;margin-right:auto;">
     <tr>
@@ -80,6 +51,24 @@ published: true
   </table>
 
   <br>
+
+  <b>Local Arrangements Chairs</b><br>
+  <table style="margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://www.uts.edu.au/staff/shoudong.huang">Shoudong Huang</a><br>
+        <i>University of Technology Sydney, Australia</i><br>
+      </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://profiles.uts.edu.au/Graeme.Best">Graeme Best</a><br>
+        <i>University of Technology Sydney, Australia</i><br>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
   <b>Publicity Chairs</b><br>
   <table style="margin-left:auto;margin-right:auto;">
     <tr>
@@ -96,6 +85,24 @@ published: true
   </table>
 
   <br>
+
+  <b>Sponsorship Chairs</b><br>
+  <table style="margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://sites.gatech.edu/matthew-gombolay/">Matthew Gombolay</a><br>
+        <i>Georgia Institute of Technology, USA</i><br>
+      </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://people.csiro.au/M/P/peyman-moghadam">Peyman Moghadam</a><br>
+        <i>CSIRO, Australia</i><br>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
   <b>Website Chairs</b><br>
   <table style="margin-left:auto;margin-right:auto;">
     <tr>
