@@ -118,6 +118,22 @@ published: true
   </table>
 
   <br>
+  
+  <b>Submission Chair</b><br>
+  <table style="margin-left:auto;margin-right:auto;">
+    <tr>
+    <td style="width:200px;vertical-align:top;">
+          <a target="_blank" href="https://zhanpenghe.github.io/">Zhanpeng He</a><br>
+          <i>Stanford University, USA</i><br>
+    </td>
+    <td style="width:200px;vertical-align:top;">
+          <a target="_blank" href="https://jxu.ai/">Jingxi Xu</a><br>
+          <i>RAI Institute, USA</i><br>
+    </td>
+    </tr>
+  </table>
+        
+  <br>
   <p><i>Additional Organizing Committee members will be announced soon.</i></p>
 
   </div>
