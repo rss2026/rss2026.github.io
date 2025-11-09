@@ -124,7 +124,7 @@ published: true
     <tr>
     <td style="width:200px;vertical-align:top;">
           <a target="_blank" href="https://zhanpenghe.github.io/">Zhanpeng He</a><br>
-          <i>Stanford University, USA</i><br>
+          <i>Amazon Robotics, USA</i><br>
     </td>
     <td style="width:200px;vertical-align:top;">
           <a target="_blank" href="https://jxu.ai/">Jingxi Xu</a><br>
