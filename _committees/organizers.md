@@ -47,6 +47,11 @@ published: true
         <a target="_blank" href="https://mashaitkina.weebly.com/">Masha Itkina</a><br>
         <i>Toyota Research Institute, USA</i><br>
       </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://profiles.uts.edu.au/Sarath.Kodagoda">Sarath Kodagoda</a><br>
+        <i>University of Technology, Sydney, Australia</i><br>
+      </td>
     </tr>
   </table>
 
