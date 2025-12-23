@@ -13,7 +13,96 @@ RSS 2026 welcomes Science/Systems papers that report on novel scientific and sys
 
 ## Important Dates
 
-We will move here the [Important Dates](https://roboticsconference.org/) that are currently on the landing page.
+<!-- We will move here the [Important Dates](https://roboticsconference.org/) that are currently on the landing page. -->
+
+<style>
+  .nowrap {
+    white-space: nowrap;
+  }
+  .wrap {
+    white-space: normal;
+  }
+</style>
+
+<table class="table">
+    <thead>
+      <tr>
+        <th colspan="3">Timeline</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>January 23, 2026</td>
+        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td class="wrap">Abstract/Title Submission Deadline</td>
+      </tr>
+      <!-- <tr>
+        <td><s>January 30, 2025</s></td>
+        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td class="wrap">Initial Paper and Demo Submission Deadline (this requires a semi-complete pdf of the paper, final title and abstract)</td>
+      </tr> -->
+      <tr>
+        <td>January 30, 2026</td>
+        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td class="wrap">Paper Submission Deadline</td>
+      </tr>
+      <tr>
+        <td>February 6, 2026</td>
+        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td class="wrap">Supplementary Material Submission Deadline</td>
+      </tr>
+      <!-- <tr>
+        <td><s>February 11, 2025</s></td>
+        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td class="wrap"><a href="https://sites.google.com/view/rsspioneers2025/" target="_blank">RSS Pioneers</a> Application Deadline</td>
+      </tr> -->
+      <!-- <tr>
+        <td><s>February 16, 2025</s></td>
+        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td class="wrap">Workshop Proposal Deadline</td>
+      </tr> -->
+      <tr>
+        <td>March 27, 2026</td>
+        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td class="wrap">Reviews Released and Rebuttal Invitations</td>
+      </tr>
+      <!-- <tr>
+        <td><s>March 22, 2025</s></td>
+        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td class="wrap">Workshop Decisions Announcement</td>
+      </tr> -->
+      <tr>
+        <td>April 3, 2026</td>
+        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td class="wrap">Rebuttal Submission Deadline</td>
+      </tr>
+      <tr>
+        <td>April 27, 2026</td>
+        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td class="wrap">Paper and Demo Acceptance Notification</td>
+      </tr>
+      <!-- <tr>
+        <td><s>April 20, 2025</s></td>
+        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td class="wrap"><a href="https://sites.google.com/view/rsspioneers2025/" target="_blank">RSS Pioneers</a> Notification of Acceptance</td>
+      </tr>
+      <tr>
+        <td><s>April 25, 2025</s></td>
+        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td class="wrap">Final Camera Ready Paper Submission</td>
+      </tr> -->
+      <!-- <tr>
+        <td>July 13, 2026</td>
+        <td>—</td>
+        <td class="wrap"><a href="https://sites.google.com/view/rsspioneers2025/" target="_blank">RSS Pioneers</a> Workshop</td>
+      </tr> -->
+      <tr>
+        <td>July 13&ndash;17, 2026</td>
+        <td>—</td>
+        <td class="wrap">RSS 2026, Sydney, Australia</td>
+      </tr>
+    </tbody>
+</table>
 
 ---
 
@@ -99,7 +188,7 @@ Exceptions to this rule are the following:
 2. It is acceptable to submit to RSS work that has been made available as a technical report (or similar, e.g., in arXiv) without citing it.
 
 <div style="background-color: #fff0a3ff; color: ##8a6f42;">
-<strong style="color: 8a6f42;">Important Submission Policy: Submitting a paper that is currently under submission to another conference (e.g. ICRA, ICLR, CVPR) is considered a double submission and is strictly forbidden by RSS rules. If you have a paper on the same topic currently under review, you should only submit an RSS paper if it has substantial innovation with respect to the paper that is already in submission (i.e., it would qualify as a different and novel paper and you would not withdraw it even if the paper under review is accepted). Submitting to RSS a paper that is already under review, and then withdrawing it in case the other conference accepts it, is a violation of our code of ethics, and will be treated as such by our conference board.</strong>
+<strong style="color: 8a6f42;">Important Submission Policy:</strong> Submitting a paper that is currently under submission to another conference (e.g. ICRA, ICLR, CVPR) is considered a double submission and is strictly forbidden by RSS rules. If you have a paper on the same topic currently under review, you should only submit an RSS paper if it has substantial innovation with respect to the paper that is already in submission (i.e., it would qualify as a different and novel paper and you would not withdraw it even if the paper under review is accepted). Submitting to RSS a paper that is already under review, and then withdrawing it in case the other conference accepts it, is a violation of our code of ethics, and will be treated as such by our conference board.
 </div>
 
 ---
@@ -120,7 +209,7 @@ However, it is important to note that **authors are completely responsible for a
 
 ## Uploading Files for Paper Submissions
 
-Paper submission and review will occur in the [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2026/Conference) system at the following link [link coming soon]: 
+Paper submission and review will occur in the [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2026/Conference) system: 
 
 - **Logging into the system:** All **first** authors require an OpenReview account. If you already have an OpenReview account, use those credentials to login and update your profile. If you do not, sign up as a new user. New OpenReview profiles created without an institutional email will go through a moderation process that **can take up to two weeks**. New OpenReview profiles created with an institutional email will be activated automatically.
 - **Although we use OpenReview, the review process will be private, i.e., the papers will only be public after acceptance and the reviews will not be publicly visible.**
