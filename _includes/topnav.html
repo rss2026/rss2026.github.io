@@ -37,7 +37,7 @@
                             </ul>
                         </li>
                         {% for coll in site.collections %}
-                        {% if coll.label == "committees" or coll.label == "information" %}
+                        {% if coll.label == "committees" or coll.label == "information" or coll.label == "program" %}
                         <li class="dropdown">
                             <a class="dropdown-toggle" data-toggle="dropdown" href="#">{{coll.label}}<span class="caret"></span></a>
                             <ul class="dropdown-menu">
@@ -48,7 +48,7 @@
                                 {% if node.invisible != true %}
                                 {% if node.layout == "page" %}
                                 <!-- <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li> -->
-                                {% if node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" %}
+                                {% if node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" or node.title == "RSS Pioneers" %}
                                 <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
                                 {% comment %}
                                 {% else %}
@@ -65,7 +65,7 @@
                                 {% if node.invisible != true %}
                                 {% if node.layout == "page" %}
                                 <!-- <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li> -->
-                                {% if node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" %}
+                                {% if node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" or node.title == "RSS Pioneers" %}
                                 <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
                                 {% comment %}
                                 {% else %}
