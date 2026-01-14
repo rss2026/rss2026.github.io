@@ -53,7 +53,8 @@ published: true
 }
 </style>
 
-The overview of the conference program is available <a href="{{ site.baseurl }}/program/overview/"><strong>[here]</strong></a>. Please refer to the conference program for additional information. Check the list of paper sessions <a href="{{ site.baseurl }}/program/allsessions/"><strong>[here]</strong></a>.
+<!-- The overview of the conference program is available <a href="{{ site.baseurl }}/program/overview/"><strong>[here]</strong></a>. Please refer to the conference program for additional information. Check the list of paper sessions <a href="{{ site.baseurl }}/program/allsessions/"><strong>[here]</strong></a>. -->
+Check the list of accepted papers for RSS 2025.
 
 <hr>
 
