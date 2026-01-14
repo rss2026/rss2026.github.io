@@ -4,7 +4,7 @@ title: Suggested Activities
 description: Things to do around RSS 2025
 priority: 2
 invisible: false
-published: true
+published: false
 ---
 
 <style>

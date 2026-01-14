@@ -5,7 +5,7 @@ description: Demos times, venues, and details.
 days: ['Mon', 'Fri']
 priority: 7
 invisible: false
-published: true
+published: false
 ---
 
 

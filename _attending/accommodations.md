@@ -4,7 +4,7 @@ title: Accommodations
 description: Where people will stay and what they'll eat.
 priority: 4
 invisible: true
-published: false
+published: true
 ---
 
 ## Oregon State University Dorms

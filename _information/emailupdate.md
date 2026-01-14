@@ -4,7 +4,7 @@ title: LA Wildfires and “Soft” Extension of the RSS 2025 Submission Deadline
 description: Update on submission deadlines for RSS 2025 in response to LA wildfires
 permalink: /updates/la-wildfires/
 invisible: true
-published: true
+published: false
 ---
 
 <!-- ## LA Wildfires and “Soft” Extension of the RSS 2025 Submission Deadline -->
