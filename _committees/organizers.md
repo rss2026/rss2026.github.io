@@ -108,6 +108,22 @@ published: true
 
   <br>
 
+  <b>RSS Pioneers Chairs</b><br>
+  <table style="margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://ndennler.github.io/">Nathan Dennler</a><br>
+        <i>Massachusetts Institute of Technology, USA</i><br>
+      </td>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://schmluk.github.io/">Lukas Schmid</a><br>
+        <i>Massachusetts Institute of Technology, USA</i><br>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
   <b>Website Chairs</b><br>
   <table style="margin-left:auto;margin-right:auto;">
     <tr>
