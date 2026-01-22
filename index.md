@@ -153,7 +153,7 @@ RSS has a long history of bringing together researchers in all areas of robotics
       <tr>
         <td>March 1, 2026</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap">Early Career Nominations (via <a href="https://forms.gle/vU8UFRbt7o3np2cx6">Form</a>)</td>
+        <td class="wrap">Early Career Spotlight Nominations (via <a href="https://forms.gle/vU8UFRbt7o3np2cx6">Form</a>)</td>
       </tr>
       <!-- <tr>
         <td><s>February 11, 2025</s></td>
