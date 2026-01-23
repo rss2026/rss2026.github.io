@@ -20,28 +20,28 @@ Details about the workshop are available at the [workshop website](https://sites
     </thead>
     <tbody>
       <tr>
-        <td>TBD</td>
+        <td>January 1, 2026</td>
         <!-- <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td> -->
         <td>—</td>
         <!-- <td>RSS Pioneers Applications Open</td> -->
         <td><a href="https://sites.google.com/view/rsspioneers2026/" target="_blank">RSS Pioneers</a> Applications Open</td>
       </tr>
       <tr>
-        <td>TBD</td>
-        <td>—</td>
-        <!-- <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td> -->
+        <td>February 20, 2026</td>
+        <!-- <td>—</td> -->
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <!-- <td>RSS Pioneers Applications Deadline</td> -->
         <td><a href="https://sites.google.com/view/rsspioneers2026/" target="_blank">RSS Pioneers</a> Application Deadline</td>
       </tr>
       <tr>
-        <td>TBD</td>
-        <td>—</td>
-        <!-- <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td> -->
+        <td>April 27, 2026</td>
+        <!-- <td>—</td> -->
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <!-- <td>Notification of Acceptance</td> -->
         <td><a href="https://sites.google.com/view/rsspioneers2026/" target="_blank">RSS Pioneers</a> Notification of Acceptance</td>
       </tr>
       <tr>
-        <td>TBD</td>
+        <td>July 12, 2026</td>
         <td>—</td>
         <td><a href="https://sites.google.com/view/rsspioneers2026/" target="_blank">RSS Pioneers</a> Workshop</td>
       </tr>
