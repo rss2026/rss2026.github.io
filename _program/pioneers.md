@@ -20,7 +20,7 @@ Details about the workshop are available at the [workshop website](https://sites
     </thead>
     <tbody>
       <tr>
-        <td>January 1, 2026</td>
+        <td>January 21, 2026</td>
         <!-- <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td> -->
         <td>—</td>
         <!-- <td>RSS Pioneers Applications Open</td> -->
