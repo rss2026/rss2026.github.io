@@ -25,7 +25,7 @@
                     <a class="navbar-brand hidden-xs"
                         href="{{ site.baseurl }}/">RSS 2026</a>
                 </div>
-                
+
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav">
                         <li class="dropdown">
@@ -48,7 +48,7 @@
                                 {% if node.invisible != true %}
                                 {% if node.layout == "page" %}
                                 <!-- <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li> -->
-                                {% if node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" or node.title == "RSS Pioneers" or node.title == "Early Career Spotlight" %}
+                                {% if node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" or node.title == "RSS Pioneers" or node.title == "Early Career Spotlight" or node.title == "Sponsors" %}
                                 <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
                                 {% comment %}
                                 {% else %}
@@ -58,14 +58,14 @@
                                 {% endif %}
                                 {% endif %}
                                 {% endfor %}
-                                
+
                                 {% assign docs = (coll.docs | where_exp: "node", "node.priority == 0")
                                 | sort: "title" %}
                                 {% for node in docs %}
                                 {% if node.invisible != true %}
                                 {% if node.layout == "page" %}
                                 <!-- <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li> -->
-                                {% if node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" or node.title == "RSS Pioneers" or node.title == "Early Career Spotlight" %}
+                                {% if node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" or node.title == "RSS Pioneers" or node.title == "Early Career Spotlight" or node.title == "Sponsors" %}
                                 <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
                                 {% comment %}
                                 {% else %}

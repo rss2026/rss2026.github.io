@@ -2,10 +2,11 @@
 layout: page
 title: Sponsors
 description: Sponsorship information
-invisible: true
-published: false
+invisible: false
+published: true
 ---
 
+{%comment%}
 ### RSS Gold Sponsors
 
 <table width="100%" class="center">
@@ -79,17 +80,16 @@ published: false
 </tr>
 </table>
 
-{%comment%}
-We offer several opportunities for sponsors at RSS 2021:
-
-1. Logos on the pre-recorded video presentations for the accepted papers, which will be uploaded publicly.
-2. An exhibit (~virtual booth) on the central conference platform with integrated chat and video conferencing tool to interact with RSS attendees, and therefore the opportunity to interact with interested attendees directly.
-3. Logos directly on the conference platform and acknowledgements on
-roboticsconference.org
-
-Please contact Alberto Rodriguez <albertor@mit.edu> or Dylan Shell <dshell@tamu.edu> if you are interested in supporting RSS 2021.
-
 {%endcomment%}
+
+We offer several opportunities for sponsors at RSS 2026.
+Please refer to our [partnership prospectus]({{ site.baseurl }}/docs/RSS26-Partnership_Prospectus-compressed.pdf) for detail.
+
+If you are interested in supporting RSS 2026,
+please contact:
+* Matthew Gombolay <matthew.gombolay@cc.gatech.edu> or
+* Peyman Moghadam <peyman.moghadam@csiro.au>
+
 
 
 
