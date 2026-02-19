@@ -163,13 +163,13 @@ Authors may submit supplementary material such as a video or an expanded version
 
 ## Rebuttal Process
 
-A subset of papers will be invited to submit one-page rebuttals that will be considered by reviewers and the Program Committee when making final acceptance decisions. A template for the rebuttal will be made available in due time. Detailed information about the rationale and scope of the rebuttal process can be found in our [Review Guidelines](https://docs.google.com/document/d/1oTToi0_RbChXjt9QeNS30oH3GicHB1opV-GamREmqpI/edit?usp=sharing)
+A subset of papers will be invited to submit one-page rebuttals that will be considered by reviewers and the Program Committee when making final acceptance decisions. A template for the rebuttal will be made available in due time. Detailed information about the rationale and scope of the rebuttal process can be found in our [Rebuttal Guidelines](https://docs.google.com/document/d/1oTToi0_RbChXjt9QeNS30oH3GicHB1opV-GamREmqpI/edit?usp=sharing)
 
 ---
 
 ## Review Guidelines
 
-This year, we are providing a new set of guidelines for reviewers: [Review Guidelines](https://docs.google.com/document/d/1oTToi0_RbChXjt9QeNS30oH3GicHB1opV-GamREmqpI/edit?usp=sharing)
+This year, we are providing a new set of guidelines for reviewers: [Review Guidelines](https://docs.google.com/document/d/1iinlZAhQ4_DrYyLZAQRG4FE5vYTnoJR_EvgjcpQmcig/edit?usp=sharing) and [Rebuttal Guidelines](https://docs.google.com/document/d/1oTToi0_RbChXjt9QeNS30oH3GicHB1opV-GamREmqpI/edit?usp=sharing)
 
 ---
 
