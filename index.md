@@ -217,9 +217,19 @@ RSS has a long history of bringing together researchers in all areas of robotics
 
 ---
 
-<!-- <h3 id="sponsors">Sponsors</h3> -->
+<h3 id="sponsors">Sponsors</h3>
 
 <!-- Row 1 -->
+<div style="height: 10px;"></div>
+<p style="text-align: center;">
+  <img alt="Business Events Sydney" src="images/sponsors_2026/besydney-blue-logo-rgb.png"
+       style="height: auto; width: auto; max-width: 200px; margin: 10px; margin-right: 40px;" />
+  <img alt="Supported by the NSW Government" src="images/sponsors_2026/Supported by the NSW Government.jpg"
+       style="height: auto; width: auto; max-width: 200px; margin: 10px; margin-right: 40px;" />
+  <img alt="Business Events Australia" src="images/sponsors_2026/business_events_australia.png"
+       style="height: auto; width: auto; max-width: 200px; margin: 10px;" />
+</p>
+
 <!-- <p style="text-align: center;">
   <img alt="Amazon Robotics" src="images/sponsors2025/1_amazon_robotics.png"
        style="height: auto; width: auto; max-width: 425px; margin: 10px;" />

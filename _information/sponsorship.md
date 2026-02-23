@@ -82,6 +82,29 @@ published: true
 
 {%endcomment%}
 
+### RSS Sponsors
+
+<table width="100%" class="center">
+
+<tr>
+<td style="width: 20%; text-align: center;">
+  <img alt="Business Events Sydney" src="{{ site.baseurl }}/images/sponsors_2026/besydney-blue-logo-rgb.png"
+       style="height: auto; width: auto; max-width: 200px;" />
+</td>
+<td style="width: 20%; text-align: center;">
+  <img alt="Supported by the NSW Government" src="{{ site.baseurl }}/images/sponsors_2026/Supported by the NSW Government.jpg"
+       style="height: auto; width: auto; max-width: 200px;" />
+</td>
+<td style="width: 20%; text-align: center;">
+  <img alt="Business Events Australia" src="{{ site.baseurl }}/images/sponsors_2026/business_events_australia.png"
+       style="height: auto; width: auto; max-width: 200px;" />
+</td>
+</tr>
+
+</table>
+
+<br>
+
 We offer several opportunities for sponsors at RSS 2026.
 Please refer to our [partnership prospectus]({{ site.baseurl }}/docs/RSS26-Partnership_Prospectus-compressed.pdf) for detail.
 
