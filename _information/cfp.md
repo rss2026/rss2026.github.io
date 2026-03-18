@@ -61,7 +61,7 @@ RSS 2026 welcomes Science/Systems papers that report on novel scientific and sys
         <td class="wrap">Workshop Proposal Deadline</td>
       </tr> -->
       <tr>
-        <td>March 27, 2026</td>
+        <td>March 20, 2026</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Reviews Released and Rebuttal Invitations</td>
       </tr>
@@ -71,7 +71,7 @@ RSS 2026 welcomes Science/Systems papers that report on novel scientific and sys
         <td class="wrap">Workshop Decisions Announcement</td>
       </tr> -->
       <tr>
-        <td>April 3, 2026</td>
+        <td>March 27, 2026</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Rebuttal Submission Deadline</td>
       </tr>
