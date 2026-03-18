@@ -1,276 +1,166 @@
 ---
 layout: page
 title: Registration
-description: Register for the conference.
+description: Register for RSS 2026 in Sydney, Australia.
 priority: 11
 invisible: false
-published: false
+published: true
 ---
 
-<div width="100%" style="border: solid #aaa 3px; background:#990000; padding: 5px; color: #FFCC00; text-align: center;">
- Click <b><a href="https://site.pheedloop.com/event/RSS2025/home" target="_blank" style="color: #FFCC00; text-decoration: underline;">here</a></b> to register.
-</div>  
+We're thrilled to invite you to the **Robotics: Science and Systems Conference (RSS 2026)**, taking place from **Monday 13 July – Friday 17 July 2026** at ICC Sydney and the University of Technology Sydney. Registration is now open — secure your spot today and take advantage of our Early Bird rates.
+
+<div width="100%" style="border: solid #0a35a8 3px; background:#0F4BEA; padding: 10px; color: #ffffff; text-align: center;">
+  Click <b><a href="https://icmsaust.eventsair.com/robotics-science-and-systems-rss-conference/registration-form" target="_blank" style="color: #ffffff; text-decoration: underline;">here</a></b> to register for RSS 2026.
+</div>
+
+<br/>
+
+## Registration Inclusions
+
+Full Registration entitlements include:
+
+* Admission to all RSS 2026 sessions (Monday 13 July – Friday 17 July 2026)
+* Admission to the RSS 2026 Exhibition Hall
+* Admission to the RSS 2026 Workshops
+* Delegate materials
+* Ticket to the Poster Sessions (Monday 13 July – Wednesday 15 July 2026)
+* Ticket to the Gala Dinner (Thursday 16 July 2026)
+* Daily Conference Catering
+
+<br>
+
+## Registration Fees
+
+All fees are quoted in **Australian Dollars (AUD)** and include **10% GST** (Goods and Services Tax). For currency conversion, please use an online currency converter.
+
+### Full Registrations
+
+<table class="table" style="width:100%; border-collapse: collapse; margin-top: 10px;">
+  <thead>
+    <tr style="background-color:#0F4BEA; color:#ffffff;">
+      <th style="padding: 10px 14px; text-align: left; border: 1px solid #0a35a8;">Registration Type</th>
+      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Early Bird (incl. GST)<br/><small>Closes 11 May 2026</small></th>
+      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Standard<br/><small>(incl. GST)</small></th>
+      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Late / Onsite<br/><small>(incl. GST)</small></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#f9f9f9;">
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">Academic – Student</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$750</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$1,050</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$1,350</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">Academic – Postdoc / Researcher / Professor</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$1,250</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$1,650</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$2,050</td>
+    </tr>
+    <tr style="background-color:#f9f9f9;">
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">Industry</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$1,550</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$1,850</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$2,250</td>
+    </tr>
+  </tbody>
+</table>
+
+### Student Registration Eligibility
+
+A student is defined as a holder of a student identification card from a recognised tertiary or secondary educational institution, or an international student card. Students must be currently enrolled in part- or full-time study.
 
 
-### Badge Pick-Up & On-Site Registration
+<br>
+
+## Key Dates
 
 <table style="width: 100%; max-width: 600px; border-collapse: collapse; margin: 10px 0;">
   <thead>
-    <tr style="background-color: #f2f2f2;">
-      <th style="text-align: left; padding: 8px; border: 1px solid #ccc;">Date</th>
-      <th style="text-align: left; padding: 8px; border: 1px solid #ccc;">Time</th>
-      <th style="text-align: left; padding: 8px; border: 1px solid #ccc;">Location</th>
+    <tr style="background-color:#0F4BEA; color:#ffffff;">
+      <th style="text-align: left; padding: 10px 14px; border: 1px solid #0a35a8;">Event</th>
+      <th style="text-align: left; padding: 10px 14px; border: 1px solid #0a35a8;">Date</th>
     </tr>
   </thead>
   <tbody>
-    <!--<tr>
-      <td style="padding: 8px; border: 1px solid #ccc;">June 20</td>
-      <td style="padding: 8px; border: 1px solid #ccc;">All Day</td>
-      <td style="padding: 8px; border: 1px solid #ccc;">TBD</td>
-    </tr>-->
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ccc;">*June 21</td>
-      <td style="padding: 8px; border: 1px solid #ccc;">8am–10am</td>
-      <td style="padding: 8px; border: 1px solid #ccc;"><a href="https://maps.app.goo.gl/p9KCXNDmjfQVQ1W96" target="_blank">Epstein Family Plaza</a></td>
+    <tr style="background-color:#f9f9f9;">
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">Early Bird Registration Opens</td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">13 March 2026</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #ccc;">*June 21</td>
-      <td style="padding: 8px; border: 1px solid #ccc;">11am–8pm</td>
-      <td style="padding: 8px; border: 1px solid #ccc;"><a href="https://maps.app.goo.gl/UqxnUUnbp2FzdH5G7" target="_blank">Bovard Auditorium</a></td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">Early Bird Closes</td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">11 May 2026</td>
+    </tr>
+    <tr style="background-color:#f9f9f9;">
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">Standard Registration Opens</td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">12 May 2026</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #ccc;">June 22–24</td>
-      <td style="padding: 8px; border: 1px solid #ccc;">All Day</td>
-      <td style="padding: 8px; border: 1px solid #ccc;"><a href="https://maps.app.goo.gl/UqxnUUnbp2FzdH5G7" target="_blank">Bovard Auditorium</a></td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">Standard Registration Closes</td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">14 June 2026</td>
+    </tr>
+    <tr style="background-color:#f9f9f9;">
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">Late / Onsite Registration Opens</td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">15 June 2026</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #ccc;">June 25</td>
-      <td style="padding: 8px; border: 1px solid #ccc;">All Day</td>
-      <td style="padding: 8px; border: 1px solid #ccc;"><a href="https://maps.app.goo.gl/p9KCXNDmjfQVQ1W96" target="_blank">Epstein Family Plaza</a></td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">Registration Cancellation Deadline</td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">29 May 2026</td>
+    </tr>
+    <tr style="background-color:#f9f9f9;">
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">Accommodation Payment Deadline</td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">29 May 2026</td>
     </tr>
   </tbody>
 </table>
 
-<small>*Note that the registration desk will be closed between 10am and 11am on June 21st.</small>
 
-### Campus Access for RSS Attendees
+<br>
 
-All RSS 2025 attendees must present a multi-day pass to enter USC. If you plan to walk in and register onsite, download the pass [here]({{ site.baseurl }}/images/usc_pass/062025_Viterbi_SAC_RSS_Conference.pdf) and bring a printed copy with you.
+## Additional Activities
 
+**Poster Sessions** — Monday 13 July – Wednesday 15 July 2026 *(Details TBC)*
 
-
-### Registration Rates
-
-<div>&nbsp;</div>
-<!--
-The registration portal is hosted on PheedLoop at this link: **[site.pheedloop.com/event/RSS2023](https://site.pheedloop.com/event/RSS2023/home/)**-->
-<table class="table" style="margin-top: -10px;">
-<thead>
-  <tr>
-    <th></th>
-    <th>Registration Type</th>
-    <th>Early Rate<hr style="margin-top: 5px; margin-bottom: 5px;"/>Through April 30</th>
-    <th>Standard Rate<hr style="margin-top: 5px; margin-bottom: 5px;"/>May 1 - June 5</th>
-    <th>Late Rate<hr style="margin-top: 5px; margin-bottom: 5px;"/>After June 5</th>
-  </tr>
-</thead>
-
-<tbody>
-    <!-- In-Person Category -->
-    <tr>
-        <td rowspan="7"><b>In-Person</b></td>
-        <td>Student Attendee</td>
-        <td>$500</td>
-        <td>$700</td>
-        <td>$900</td>
-    </tr>
-    <tr>
-        <td>Student Attendee with<br/>On-Campus Lodging</td>
-        <td>$1,000</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>Academic Attendee</td>
-        <td>$850</td>
-        <td>$1,100</td>
-        <td>$1,350</td>
-    </tr>
-    <tr>
-        <td>Industry Attendee</td>
-        <td>$950</td>
-        <td>$1,200</td>
-        <td>$1,450</td>
-    </tr>
-    <tr>
-        <td>Workshop Only Attendee</td>
-        <td>$250</td>
-        <td>$350</td>
-        <td>$400</td>
-    </tr>
-    <tr>
-        <td>Pathways Attendee with<br/>On-Campus Lodging</td>
-        <td>$1,100 (Invitation Only)</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>RSS Pioneers Attendee with<br/>On-Campus Lodging</td>
-        <td>$1,100 (Invitation Only)</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-
-    <!-- Virtual Category -->
-    <tr>
-        <td rowspan="1"><b>Virtual</b></td>
-        <td>Conference Streaming</td>
-        <td>$80</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-</tbody>
-</table>
-
-<small>*The registration rates are in USD and are based on the date (Pacific Time) of registration and payment.</small>
-
-<small>**Except for workshop only attendees, rates for in-person registration include access to all food served during the conference</small>
-
-### Visa and Invitation Letter
-<!-- 
-Check [here](https://travel.state.gov/content/travel/en/us-visas.html) to see if you require a visa to enter the United States. If you need a visa, follow the instructions [here (link for this?)]().
-
-RSS attendees who are required to apply for a visa will need to fill this [form (link for this?)]() after they register at RSS and have received an RSS registration number. Organizers will reach out to you with a signed invitation letter, which you can use to support your United States visa application. -->
-
-<!-- RSS attendees who require a visa and have any questions should contact Junheng Li (<a href='mailto:junhengl@usc.edu'>junhengl@usc.edu</a>). More details will be available soon. -->
-
-RSS attendees who are required to apply for a U.S. visa will need to fill [this form](https://docs.google.com/forms/d/1zjslWcSar9Z0ucuQir5jl9OdOQmA-G08GhWAXVC2RnQ/viewform) after they register at RSS. 
-Organizers will reach out to you with a signed invitation letter, which you can use to support your U.S. visa application. Any additional questions and requests may be directed to Junheng Li (<a href='mailto:junhengl@usc.edu'>junhengl@usc.edu</a>).
-
-### Cancellation and Refund Policy
-
-Participants registered for in-person attendance who are not able to fly to Los Angeles for RSS 2025 due to unexpected circumstances that are not under their control, such as inability to acquire a visa or illness, can cancel their registration by **June 10th** and will be reimbursed for the full cost of their original registration. Alternatively, in this scenario, they can transfer the registration to another person at the same registration level (student/academic/industry). Participants who want to cancel or transfer their registration should communicate with the registration chairs, Quan Nguyen (<a href="mailto:quann@usc.edu">quann@usc.edu</a>) and Graeme Best (<a href="mailto:Graeme.Best@uts.edu.au">Graeme.Best@uts.edu.au</a>), and provide proof for the reason of their cancellation in their communication. Starting from **June 11th**, the conference will not be able to consider cancellation and refund the cost of registration.
-
-### Author Registration Requirement
-
-***At least one author of an accepted paper to be presented during RSS must be registered for the full conference at the in-person rate before the camera-ready deadline of April 25, 2025.***
-
-<div style="background: #f9f9f9; border: 2px solid #ccc; padding: 20px; border-radius: 8px; margin-top: 40px;">
-
-<h3 style="margin-top: 0;">FAQ: On-Campus Dorm Housing for RSS 2025</h3>
-
-<p>When you book on-campus lodging at the time of RSS registration, you are signing up for a private bedroom in a larger multi-person apartment (USC dorms). While the bedroom is private, you will be sharing a bathroom (typically with 1–3 other people depending on which apartment you are assigned). You will also be sharing a kitchen area and common living room.</p>
-
-<p>Pictures of typical apartments are below as are some answers to frequently asked questions.</p>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px auto; max-width: 900px;">
-  <img src="{{ site.baseurl }}/images/usc_dorms/img1.jpg" alt="Dorm Image 1" style="width: 28%; height: auto;" class="img-responsive img-same-height" />
-  <img src="{{ site.baseurl }}/images/usc_dorms/img2.jpg" alt="Dorm Image 2" style="width: 28%; height: auto;" class="img-responsive img-same-height" />
-  <img src="{{ site.baseurl }}/images/usc_dorms/img3.jpg" alt="Dorm Image 3" style="width: 28%; height: auto;" class="img-responsive img-same-height" />
-  <img src="{{ site.baseurl }}/images/usc_dorms/img4.jpg" alt="Dorm Image 4" style="width: 28%; height: auto;" class="img-responsive img-same-height" />
-  <img src="{{ site.baseurl }}/images/usc_dorms/img5.jpg" alt="Dorm Image 5" style="width: 28%; height: auto;" class="img-responsive img-same-height" />
-</div>
-
-<p id="faq-lodging" style="margin-bottom: 0;" class="faq-question"><strong>Is the lodging empty or subleased by current USC students?</strong></p><p>
-USC Housing manages the dorms. They are not subleased, and they are furnished. Each room includes a bed with attached drawers, a closet without hangers, and a desk. The shared kitchen does not come with pots, pans, microwave, or utensils.  Some rooms may contain two beds, however for RSS each room is strictly single occupancy.</p>
-
-<p id="faq-bedding" style="margin-bottom: 0;" class="faq-question"><strong>Do we need to bring bedding like pillows and quilts?</strong></p><p>
-No, you do not need to bring your own bedding as all rooms are provided with a pillow and blanket per person, along with standard linen service. Standard linen service includes a linen packet (two bath towels, facecloth, top and bottom bed sheets, pillowcase) that is placed on the bed. All linens must be left in your room upon check-out to avoid charges for missing items.</p>
-
-<p id="faq-shared" style="margin-bottom: 0;" class="faq-question"><strong>Will the rooms be private or shared? What is the type of the dorm (i.e. single room with public bathrooms, single studio, shared apartment dorm, etc.)?</strong></p><p>
-Each guest will have a private room. Guests should anticipate sharing common areas. </p>
-
-<p id="faq-family" style="margin-bottom: 0;" class="faq-question"><strong>Can the dorms accommodate the spouse/family member of the attendee?</strong></p><p>
-We cannot accommodate more than one person in one room.</p>
-
-<p id="faq-roommates" style="margin-bottom: 0;" class="faq-question"><strong>Are attendees allowed to pick roommates if it is a shared room?</strong></p><p>
-Shared rooms will not be provided. Each guest will have their own private room. Attendees will not be able to pick who is assigned to their apartment. However, the conference will make apartment assignments to people of the same gender.</p>
-
-<p id="faq-dates" style="margin-bottom: 0;" class="faq-question"><strong>What are the check-in and check-out dates for on-campus lodging?</strong></p><p>
-The check-in and check-out dates depend on the registration type:</p>
+**Gala Dinner** — Thursday 16 July 2026 *(Details TBC)*
 
 
-<table style="width: 100%; max-width: 500px; border-collapse: collapse; margin: 10px 0;">
-  <thead>
-    <tr style="background-color: #f2f2f2;">
-      <th style="text-align: left; padding: 8px; border: 1px solid #ccc;">Registration Type</th>
-      <th style="text-align: left; padding: 8px; border: 1px solid #ccc;">Check-in</th>
-      <th style="text-align: left; padding: 8px; border: 1px solid #ccc;">Check-out</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ccc;">Student Attendee</td>
-      <td style="padding: 8px; border: 1px solid #ccc;">June 20</td>
-      <td style="padding: 8px; border: 1px solid #ccc;">June 25</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ccc;">RSS Pioneers Attendee</td>
-      <td style="padding: 8px; border: 1px solid #ccc;">June 19</td>
-      <td style="padding: 8px; border: 1px solid #ccc;">June 25</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ccc;">Pathways Attendee</td>
-      <td style="padding: 8px; border: 1px solid #ccc;">June 20</td>
-      <td style="padding: 8px; border: 1px solid #ccc;">June 26</td>
-    </tr>
-  </tbody>
-</table>
+<br>
 
-<p id="faq-check-in" style="margin-bottom: 0;" class="faq-question"><strong>What are the check-in and check-out hours?</strong></p>
-<p>Check-in is between 8 AM and 12:30 AM the following day, with a 12 PM check-out. If the front desk is unattended (e.g., close to midnight), guests should call the phone number listed in their housing assignment and instructions email. There will be staff onsite to assist with check-in. </p>
-<p>Guests are permitted to check in a day late if needed. In such cases, they should email USC Housing at <a href="mailto:summer.conferences@usc.edu">summer.conferences@usc.edu</a> with their name, email address, and check-in date to inform USC Housing of your situation. USC Housing will follow up with any relevant updates.</p>
-<p>Upon check-in, guests will receive a "HOUSING" access card for their assigned space. Check-out must be completed at the same Customer Service Center where guests check-in. All personal items must be cleared out, and the "HOUSING" access card returned. A replacement fee will be assessed for each unreturned card.</p>
+## Payment Information
 
-<p id="faq-dorms"  style="margin-bottom: 0;" class="faq-question"><strong>Which USC dorms will house RSS attendees and is there additional information on USC housing policy?</strong></p>
-<p>The three dorms are Cale and Irani Residential (UVS), Nemirovsky and Bohnett Residential (NBC/UVE). Click the links to find policy details and a map for the resident housing you will be assigned:<br>
-<a href="https://drive.google.com/file/d/1tcF_yK1Cs-zRxq1QLkYdBWSzds197bPV/view?usp=drive_link" target="_blank">Cale and Irani Residential (UVS)</a>,
-<a href="https://drive.google.com/file/d/1m0eBvLCJVYSL5qKYNRU7PEa3c5D6THuZ/view?usp=drive_link" target="_blank">Nemirovsky and Bohnett Residential (NBC/UVE)</a>.
-</p>
+* All payments must be made in **Australian Dollars (AUD)** and include 10% GST.
+* Full payment is required at the time of registration for credit card payments.
+* Invoice payments must be paid within **7 days**.
+* An invitation letter for visa purposes will be issued **only after full payment is received**.
 
-</div>
 
-<!-- inject anchors in faq -->
-<script>
-  function applyAnchorHighlight(id) {
-    document.querySelectorAll('.anchor-highlight').forEach(el =>
-      el.classList.remove('anchor-highlight')
-    );
-    const el = document.getElementById(id);
-    if (el) {
-      el.classList.add('anchor-highlight');
-    }
-  }
+<br>
 
-  function highlightFromHash() {
-    const hash = window.location.hash;
-    if (hash) applyAnchorHighlight(hash.substring(1));
-  }
+## Cancellation Policy
 
-  function highlightWithoutJump(event, id) {
-    event.preventDefault();
-    history.replaceState(null, '', '#' + id);
-    applyAnchorHighlight(id);
-  }
+### Cancellation Deadline: Friday 29 May 2026
 
-  document.addEventListener("DOMContentLoaded", () => {
-    document.querySelectorAll('.faq-question').forEach(el => {
-      const id = el.id;
-      if (!id) return;
+Cancellations must be notified in writing (e-mail is sufficient) to the [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com). Cancellations made by **Friday 29 May 2026** will result in a full refund less **$150** to cover administration costs. As an alternative to cancellation, your registration may be transferred to another person by **Monday 29 June 2026** without incurring any cost penalty. Refunds for cancellations received after Friday 29 May 2026 will only be made in exceptional circumstances. The host reserves the final decision, on a case-by-case basis, regarding granting a cancellation in extenuating circumstances. It is recommended that travel insurance be secured personally upon registration. The [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com) must be advised in writing of any alterations or transfers of registrations.
 
-      const anchor = document.createElement('a');
-      anchor.href = `#${id}`;
-      anchor.textContent = '#';
-      anchor.style.cssText = "margin-left: 0.25em; font-size: 0.9em; color: #bbb; text-decoration: none; visibility: hidden;";
-      anchor.onclick = (e) => highlightWithoutJump(e, id);
 
-      el.onmouseover = () => anchor.style.visibility = 'visible';
-      el.onmouseout = () => anchor.style.visibility = 'hidden';
+### Disclaimer
 
-      el.appendChild(anchor);
-    });
+All best endeavours will be made to present the program as published on the website. RSS 2026 and its agents reserve the right to alter without prior notice any of the arrangements, timetables, plans, or other items relating to the meeting, for any cause beyond its reasonable control. The host and the RSS 2026 Organisers are not liable for any loss or inconvenience caused as a result of such alteration. In the event of unforeseen circumstances, the host and the RSS 2026 Organisers do not accept responsibility for the loss of monies caused by delays. Participants are advised to take out personal travel insurance and to extend their policy to cover personal possessions. RSS 2026 does not cover individuals against cancellations of bookings, theft, or damage to belongings.
 
-    highlightFromHash();
-    window.addEventListener("hashchange", highlightFromHash);
-  });
-</script>
+<small>*Note: Participants may be photographed or filmed at any time. By attending, you consent to the use, publication, or reproduction of your image or recording in any form of communication material used to promote the event. If you do not wish to have your image photographed or filmed, please contact the secretariat in advance or onsite to advise of your preference.*</small>
+
+
+### RSS 2026 Postponement
+
+In the event of a postponement, all registrations will automatically be transferred to the new RSS 2026 dates. All components of your registration, including accommodation bookings, Poster Sessions, and Gala Dinner tickets, will also be transferred. If you are unable to attend on the new dates, you may contact the [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com) to request a transfer of your registration to a colleague at no cost, or request a cancellation and refund, which will incur a $150 administration fee up until the Registration Cancellation Deadline.
+
+
+### Conference Cancellation
+
+In the event of the cancellation of RSS 2026, all registrations and associated attendance components will be cancelled, and amounts will be refunded in full.
+
+---
+
+**Enquiries:** Please direct all enquiries to the RSS 2026 Secretariat:
+📧 [rssconference.reg@gmail.com](mailto:rssconference.reg@gmail.com)
+📞 (+61 3) 9682 0500

@@ -1,119 +1,277 @@
 ---
 layout: page
 title: Accommodations
-description: Where people will stay and what they'll eat.
+description: Hotel options for RSS 2026 in Sydney, Australia.
 priority: 4
-invisible: true
+invisible: false
 published: true
 ---
 
-## Oregon State University Dorms
+**We've got you covered.** 
+With strong year-round demand, securing quality accommodation at competitive rates becomes increasingly challenging as your visit approaches. The conference team has done the hard work for you, negotiating exclusive rates and securing a curated selection of well-located options within easy reach of the Host Venue, so you can book with confidence.
 
-<img src="{{ site.baseurl }}/images/osu_accomadations.png"
-       alt="OSU Loding" width = "250" /> 
+<div width="100%" style="border: solid #0a35a8 3px; background:#0F4BEA; padding: 10px; color: #ffffff; text-align: center;">
+  <b>Book your accommodation</b><br/>
+  Not yet registered? <a href="https://icmsaust.eventsair.com/robotics-science-and-systems-rss-conference/registration-form" style="color: #ffffff; text-decoration: underline;"><b>Register &amp; Book now</b></a> &nbsp;|&nbsp;
+  Already registered? <a href="mailto:rssconference.reg@gmail.com" style="color: #ffffff; text-decoration: underline;"><b>Contact Us</b></a>
+</div>
 
+<br/>
 
-Lodging on campus is available during the conference and is within walking distance to the conference venue. **Reservations for campus lodging must be made when registering for the conference.**
-<font color="red">PLEASE NOTE:</font> On-campus housing is only for single or double occupancy and is not available for those who are under 18 years of age. For families or others that may have minors in their groups please utilize our hotel options when planning your accommodations.
+**Rest Easy and book your accommodation with us:**
 
-**Halls used for Robotics**
-* Bloss Hall – suite-style
-* Finley Hall – standard
+* **Security** — Book online through our secure booking platform (with no information shared with any third parties)
+* 👍 **Quality** — Our accommodation has been vetted for quality and adherence to the highest standard of guest safety
+* 💲 **Price** — We've negotiated special conference rates that won't be available when the conference starts
+* 👣 **Access** — Our accommodation recommendations are close to the host venue (within walking distance or easy access to public transport)
 
+---
+
+## Hotel Selection
+
+The rates below are available **only to registered RSS 2026 delegates**. All rooms and rates below are held until **26 May 2026** or until sold out. Rooms are available on a first-come, first-served basis, so we recommend booking early to avoid disappointment. If you require accommodation outside the official accommodation dates **(11–18 July 2026)**, please contact the [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com).
+
+---
+
+### Oaks Goldsbrough
+
+<i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i> &nbsp; **9-minute walk to ICC Sydney (450m)**
+
+📍 **Address:** [243 Pyrmont St, Darling Harbour NSW 2009](https://maps.google.com/?q=243+Pyrmont+St,+Darling+Harbour+NSW+2009)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 12px 0;">
+  <img src="{{ site.baseurl }}/images/accommodations/Oaks%20Goldsbrough%20EXTERIOR.jpg" alt="Oaks Goldsbrough Exterior" style="width: 48%; height: 200px; object-fit: cover;" />
+  <img src="{{ site.baseurl }}/images/accommodations/Oaks%20Goldsbrough%20ROOM.webp" alt="Oaks Goldsbrough Room" style="width: 48%; height: 200px; object-fit: cover;" />
+</div>
+
+Oaks Goldsbrough Apartments offer central Sydney accommodation in an architecturally renovated historic landmark building. Situated in the hub of Darling Harbour and combining the charm and elegance of the 1800's with all the modern amenities for your business or leisure stay. With a magnificent neo-classical facade, original tallowwood floors, and exposed ironbark columns featured throughout the hotel, as well as views from many rooms over the Sydney skyline and Darling Harbour.
 
 <table class="table">
-    <thead>
-      <tr>
-        <th colspan="2">Robotics On-Campus Housing Costs</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><div style="font-weight: bold">Room Types</div></td>
-        <td><div style="font-weight: bold">Cost per Night</div></td>
-      </tr>
-      <tr>
-        <td>Standard single-occupancy*</td>
-        <td>$45 per person</td>
-      </tr>
-      <tr>
-        <td>Standard double-occupancy*</td>
-        <td>$35 per person</td>
-      </tr>
-      <tr>
-        <td>Single-occupancy with shared bathroom</td>
-        <td>$55 per person</td>
-      </tr>
-      <tr>
-        <td>Double-occupancy with shared bathroom</td>
-        <td>$42 per person</td>
-      </tr>
-    </tbody>
-  </table>
+  <thead>
+    <tr><th>Room Type</th><th>Rate per Night (AUD)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Studio</td><td>$199</td></tr>
+  </tbody>
+</table>
 
-Rate includes:
-* Bed linens and pillow
-* Towel
-* Shampoo, conditioner, and soap
-* Wireless internet
+---
 
-**Housing accommodation descriptions**
+### Crowne Plaza Darling Harbour
 
-Traditional- or standard-style residence hall accommodations with rooms located along a corridor and community bathrooms. Each room is equipped with twin beds, wardrobes, and desks. A community bathroom is a multi-user bathroom that is shared by multiple residents in a hall. Community bathrooms include multiple sinks in an open area, multiple individual toilet stalls and multiple individual shower stalls.
+<i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i> &nbsp; **6-minute walk to ICC Sydney (500m)**
 
-We also have suite-style buildings, featuring rooms with en suite shared and private bathrooms.  Each room is equipped with a sink, twin beds, wardrobes, and desks. The rooms in the suite are adjoined by a bathroom with a toilet and shower (similar to a “Jack and Jill” bathroom in a home). There are a limited number of rooms with a private bath available.
+📍 **Address:** [58 Bathurst St, Sydney NSW 2000](https://maps.google.com/?q=58+Bathurst+St,+Sydney+NSW+2000)
 
+Enviably located on the corner of Sussex and Bathurst Streets, the Crowne Plaza Sydney Darling Harbour is your sanctuary away from home. Within a 5-minute walk, you can be exploring Town Hall, Queen Victoria Building (QVB), and Sydney's iconic shopping precinct, the waterside pocket of Darling Harbour with entertainment, museums, incredible wildlife centres, and delicious dining options, including neighbouring Chinatown.
 
-## Nearby Hotels
+<table class="table">
+  <thead>
+    <tr><th>Room Type</th><th>Rate per Night (AUD)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>King Bed Standard</td><td>$280</td></tr>
+  </tbody>
+</table>
 
-### Hilton Garden Inn at Oregon State University
+---
 
-<img src="{{ site.baseurl }}/images/hilton.png"
-       alt="Hilton Hotel" width = "250" /> 
+### Four Points by Sheraton
 
-A select number of rooms are available at Oregon State University’s headquarter hotel, down the street from the **CH2M HILL Alumni Center** and **The LaSells Stewart Center**. To reserve a room at the Hilton Garden Inn and receive the special group rate of **$149.00 +tax per night**, call (541) 752-5000 and mention **Group Code RCONF**. Or, [CLICK HERE](https://hiltongardeninn.hilton.com/en/gi/groups/personalized/C/CVOCHGI-RCONF-20200711/index.jhtml?WT.mc_id=POG) to reserve a room online. If you are staying at the Hilton Garden Inn, parking is free in the hotel lot. We recommend leaving your car at the Hilton and walking the short distance between the Hilton and the **CH2M HILL Alumni Center** and **The LaSells Stewart Center**. Conference attendees have until Thursday, June 11th, 2020 to book their reservations.
+<i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i> &nbsp; **19-minute walk to ICC Sydney (1.4 km)**
 
+📍 **Address:** [88 Broadway, Chippendale NSW 2008](https://maps.google.com/?q=88+Broadway,+Chippendale+NSW+2008)
 
-**Hilton Garden Inn Corvallis**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 12px 0;">
+  <img src="{{ site.baseurl }}/images/accommodations/Four%20Points%20by%20Sheraton%20EXTERIOR.jpg" alt="Four Points by Sheraton Exterior" style="width: 48%; height: 200px; object-fit: cover;" />
+  <img src="{{ site.baseurl }}/images/accommodations/Four%20points%20by%20Sheraton%20ROOM.avif" alt="Four Points by Sheraton Room" style="width: 48%; height: 200px; object-fit: cover;" />
+</div>
 
-2500 SW Western Boulevard  
-Corvallis, Oregon 97333  
-Tel: (541) 752-5000  
-Group Code: RCONF  
-[Website](https://hiltongardeninn3.hilton.com/en/hotels/oregon/hilton-garden-inn-corvallis-CVOCHGI/index.html?SEO_id=GMB-HI-CVOCHGI)  
+Stay just steps from Central Station, Chinatown, Darling Harbour, and the CBD. Our contemporary 4-star hotel in Sydney features comfortable rooms, free Wi-Fi, a 24-hour fitness centre, onsite parking, and a casual restaurant and bar. Whether you're visiting for business or leisure, enjoy seamless access to Sydney's top attractions, dining, and shopping all right on your doorstep.
 
-### Courtyard Corvallis by Marriott
+<table class="table">
+  <thead>
+    <tr><th>Room Type</th><th>Rate per Night (AUD)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Standard run of house</td><td>$280</td></tr>
+  </tbody>
+</table>
 
-<img src="{{ site.baseurl }}/images/courtyard.png"
-       alt="Courtyard Hotel" width = "250" /> 
+---
 
-Located 5 minutes from Oregon State in downtown Corvallis. A **Conference Rate** is available for a **20% discount** off rack rate. Discount applied for all standard king and double queen guestroom types based on availability. Go online for reservations; [CLICK HERE](https://www.marriott.com/event-reservations/reservation-link.mi?id=1556824407345&key=CORP&app=resvlink).  
+### Furama Darling Harbour
 
+<i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i> &nbsp; **5-minute walk to ICC Sydney (400m)**
 
-You can also call the front desk at (541) 753-0199 and mention the code “**Conference Rate**” to receive the discount.  
+📍 **Address:** [68 Harbour St, Haymarket NSW 2000](https://maps.google.com/?q=68+Harbour+St,+Haymarket+NSW+2000)
 
-**Courtyard Corvallis**  
-400 SW 1st Street  
-Corvallis, OR 97333  
-Tel: (541) 753-0199  
-[Website](https://www.marriott.com/hotels/travel/eugco-courtyard-corvallis/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2)  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 12px 0;">
+  <img src="{{ site.baseurl }}/images/accommodations/Furama%20Darling%20Harbour%20EXTERIOR.jpg" alt="Furama Darling Harbour Exterior" style="width: 48%; height: 200px; object-fit: cover;" />
+  <img src="{{ site.baseurl }}/images/accommodations/Furama%20Darling%20Harbour%20ROOM.jpg" alt="Furama Darling Harbour Room" style="width: 48%; height: 200px; object-fit: cover;" />
+</div>
 
+Situated adjacent to the bustling Sydney Chinatown and mere steps away from the ICC International Convention & Exhibition Centre, Furama Darling Harbour offers unparalleled accessibility to the city's premier destinations, including Cockle Bay, Sea Life Sydney Aquarium, and Madame Tussaud's Sydney — ensuring that every moment of the stay is filled with excitement and adventure.
 
-### Holiday Inn Express Corvallis  
+<table class="table">
+  <thead>
+    <tr><th>Room Type</th><th>Rate per Night (AUD)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Standard run of house</td><td>$280</td></tr>
+  </tbody>
+</table>
 
-<img src="{{ site.baseurl }}/images/holidayinn.png"
-       alt="Holiday Inn" width = "250" /> 
+---
 
+### Ibis Darling Harbour
 
-The Holiday Inn is a little further from campus and is a cost effective lodging option. You can receive a **20% discount off rack rate** by reserving a room online; [CLICK HERE](https://www.ihg.com/holidayinnexpress/hotels/us/en/corvallis/cvoor/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99502056&icdv=99502056&qSlH=CVOOR&qCpid=100276187&qAAR=ILV2J&qRtP=ILV2J&setPMCookies=true&qSHBrC=EX&qDest=781%20NE%202nd%20Street,%20Corvallis,%20OR,%20US&srb_u=1). Please note the link will take you to the Holiday Inn Express website. **Click on the orange “CHECK AVAILABILITY”** box on the website; you will be directed to the booking page where you can enter your dates and the rate for OSU will automatically be applied to your reservation.  
+<i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star-half-alt" style="color:#f5a623;"></i> &nbsp; **5-minute walk to ICC Sydney (350m)**
 
-You can also call the Holiday Inn Express at (541) 752-0800 and mention the rate called **“Conference Rate”** to book your room and receive the 20% discount.  
+📍 **Address:** [70 Murray St, Pyrmont NSW 2009](https://maps.google.com/?q=70+Murray+St,+Pyrmont+NSW+2009)
 
-**Holiday Inn Express Corvallis**  
-781 NE 2nd Avenue  
-Corvallis, OR 97330  
-Tel: (541) 752-0800  
-[Website](https://www.ihg.com/holidayinnexpress/hotels/us/en/corvallis/cvoor/hoteldetail/events-facilities?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=cvoor&qGrpCd=HSG&setPMCookies=true&qSHBrC=EX&qDest=781%20NE%202nd%20Street,%20Corvallis,%20OR,%20US&srb_u=1)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 12px 0;">
+  <img src="{{ site.baseurl }}/images/accommodations/Ibis%20Darling%20Harbour%20EXTERIOR.jpg" alt="Ibis Darling Harbour Exterior" style="width: 48%; height: 200px; object-fit: cover;" />
+  <img src="{{ site.baseurl }}/images/accommodations/Ibis%20Darling%20Harbour%20ROOM.jpeg" alt="Ibis Darling Harbour Room" style="width: 48%; height: 200px; object-fit: cover;" />
+</div>
 
+Discover modern, affordable accommodation at ibis Sydney Darling Harbour, perfectly positioned in Sydney's vibrant waterfront precinct. Located just 350 meters from ICC Sydney Convention Centre, our hotel offers unbeatable access to Darling Harbour's top attractions, world-class dining, shopping, and public transport connections. Ideal for business travellers attending ICC Sydney events, families exploring Sydney's attractions, and weekend city explorers seeking central accommodation with exceptional value.
 
+<table class="table">
+  <thead>
+    <tr><th>Room Type</th><th>Rate per Night (AUD)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Standard Room</td><td>$290</td></tr>
+  </tbody>
+</table>
 
+---
+
+### Vibe Hotel Darling Harbour
+
+<i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i> &nbsp; **6-minute walk to ICC Sydney (500m)**
+
+📍 **Address:** [319/325 Sussex St, Sydney NSW 2000](https://maps.google.com/?q=319+Sussex+St,+Sydney+NSW+2000)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 12px 0;">
+  <img src="{{ site.baseurl }}/images/accommodations/Vibe%20Darling%20Harbour%20EXTERIOR.jpg" alt="Vibe Hotel Darling Harbour Exterior" style="width: 48%; height: 200px; object-fit: cover;" />
+  <img src="{{ site.baseurl }}/images/accommodations/Vibe%20Darling%20Harbour%20ROOM.jpg" alt="Vibe Hotel Darling Harbour Room" style="width: 48%; height: 200px; object-fit: cover;" />
+</div>
+
+The hotel offers guests a new side to Sydney, one that celebrates an eclectic blend of hole-in-the-wall restaurants and world-class sites in proximity. Once you step foot outside the hotel, Sydney's vibrant CBD will take you on a journey of fantastic flavours and unforgettable moments. Head down to the nearby Darling Quarter for a contemporary vibe that mirrors Vibe Hotel Sydney Darling Harbour's chic brick-and-wood aesthetic.
+
+<table class="table">
+  <thead>
+    <tr><th>Room Type</th><th>Rate per Night (AUD)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Standard run of house</td><td>$290</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Adina Sydney, Town Hall
+
+<i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i> &nbsp; **7-minute walk to ICC Sydney (500m)**
+
+📍 **Address:** [511 Kent St, Sydney NSW 2000](https://maps.google.com/?q=511+Kent+St,+Sydney+NSW+2000)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 12px 0;">
+  <img src="{{ site.baseurl }}/images/accommodations/Adina-town-hall-EXTERIOR.jpg" alt="Adina Sydney Town Hall Exterior" style="width: 48%; height: 200px; object-fit: cover;" />
+  <img src="{{ site.baseurl }}/images/accommodations/Adina-town-hall%20ROOM.jpg" alt="Adina Sydney Town Hall Room" style="width: 48%; height: 200px; object-fit: cover;" />
+</div>
+
+Adina Sydney Town Hall is a stunning, fully refurbished apartment hotel centrally located on Kent Street in Sydney's CBD. Conveniently adjacent to Town Hall Station, the hotel is within walking distance of the Queen Victoria Building, Pitt Street Mall, Chinatown, Darling Harbour, and Barangaroo.
+
+<table class="table">
+  <thead>
+    <tr><th>Room Type</th><th>Rate per Night (AUD)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Studio room – Single Occupancy</td><td>$309</td></tr>
+    <tr><td>One-bedroom apartment – Single Occupancy</td><td>$359</td></tr>
+    <tr><td>Two-bedroom apartment – Double Occupancy</td><td>$529</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Novotel Darling Harbour
+
+<i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star-half-alt" style="color:#f5a623;"></i> &nbsp; **10-minute walk to ICC Sydney (700m)**
+
+📍 **Address:** [100 Murray Street, Darling Harbour, Sydney NSW 2000](https://maps.google.com/?q=100+Murray+Street,+Darling+Harbour,+Sydney+NSW+2000)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 12px 0;">
+  <img src="{{ site.baseurl }}/images/accommodations/Novotel%20Darling%20Harbour%20EXTERIOR.jpg" alt="Novotel Darling Harbour Exterior" style="width: 48%; height: 200px; object-fit: cover;" />
+  <img src="{{ site.baseurl }}/images/accommodations/Novotel%20Darling%20Harbour%20ROOM.jpg" alt="Novotel Darling Harbour Room" style="width: 48%; height: 200px; object-fit: cover;" />
+</div>
+
+Located in the heart of Darling Harbour, Novotel Sydney on Darling Harbour offers a modern and welcoming experience. The spacious lobby and vibrant design reflect the energy of Sydney, while The Ternary — our signature restaurant — brings together the Grill Kitchen, Asian Kitchen, and Wine Bar in one stylish open space with sweeping views of the city skyline.
+
+<table class="table">
+  <thead>
+    <tr><th>Room Type</th><th>Rate per Night (AUD)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Superior Room</td><td>$320</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Sofitel Darling Harbour
+
+<i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i><i class="fas fa-star" style="color:#f5a623;"></i> &nbsp; **1-minute walk to ICC Sydney (directly opposite)**
+
+📍 **Address:** [12 Darling Dr, Sydney NSW 2000](https://maps.google.com/?q=12+Darling+Dr,+Sydney+NSW+2000)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 12px 0;">
+  <img src="{{ site.baseurl }}/images/accommodations/Sofitel%20Darling%20Harbour%20EXTERIOR.webp" alt="Sofitel Darling Harbour Exterior" style="width: 48%; height: 200px; object-fit: cover;" />
+  <img src="{{ site.baseurl }}/images/accommodations/Sofitel%20Darling%20Harbour%20ROOM.webp" alt="Sofitel Darling Harbour Room" style="width: 48%; height: 200px; object-fit: cover;" />
+</div>
+
+Overlooking Darling Harbour, this modern upscale hotel next to the Sydney International Convention Centre is 2 km from the Sydney Tower and a 7-minute walk from the Pyrmont Bay ferry. Relaxed rooms with understated decor and floor-to-ceiling windows offer city or harbour views. Amenities include free Wi-Fi, flat-screen TVs, minifridges, tea and coffee-making facilities, 3 chic bars, a heated outdoor infinity pool, plus a gym and business centre. Room service available 24/7.
+
+<table class="table">
+  <thead>
+    <tr><th>Room Type</th><th>Rate per Night (AUD)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Superior King Jones Bay View Room</td><td>$360</td></tr>
+  </tbody>
+</table>
+
+---
+
+## Terms & Conditions
+
+**Accommodation Deadline: 26 May 2026**
+
+### Cancellations
+
+**NO ACCOMMODATION PAYMENTS WILL BE REFUNDED ON OR AFTER 26 May 2026.** Delegates who confirm an accommodation booking with a credit card or full prepayment and who wish to cancel on or after 26 May 2026 are liable for the full cost of the cancelled accommodation nights. Credit card details or full pre-payments will be held on file as a guarantee of booking and shared with the hotel in case of no-shows or late cancellations. To cancel your reservation, please contact the [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com). Name changes to a reservation can be made at no charge.
+
+### Deposits
+
+Accommodation will not be confirmed until payment for the first night is received by credit card, or full prepayment is received by cheque or electronic funds transfer. Your payment will be forwarded to your hotel and credited to your room account, and credit card details will be retained on file as a guarantee of booking. Delegates must settle the balance of their account with the hotel upon check-in/out, depending on the hotel's policy. If accommodation deposits are not received before **26 May 2026**, your room will be cancelled and released back to the hotel. The [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com) does not take responsibility for accommodation if payment is not received by this date.
+
+### Change of Booking
+
+Any change in booking must be made in writing to the [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com) and **NOT** directly to the hotel before **26 May 2026**. Any changes received after 26 May 2026 will be at the hotel's discretion and subject to availability.
+
+### Early Arrival
+
+As check-in at most hotels is not until 14:00, your room may not be ready for immediate occupancy upon early arrival. Whilst hotels will do everything possible to accommodate early arrivals, if you wish to be guaranteed immediate occupation, you can pay an extra day's tariff for the night before you are due to arrive. Please advise the [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com) so we can notify the hotel that your room is required early.
+
+### No-Show Policy
+
+In the event of a "No Show" on the date of arrival, full cancellation penalties apply to all nights of the stay.
+
+---
+
+**Enquiries:** Please direct all enquiries to the RSS 2026 Secretariat:
+📧 [rssconference.reg@gmail.com](mailto:rssconference.reg@gmail.com)
+📞 03 9682 0500
