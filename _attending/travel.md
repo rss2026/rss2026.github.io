@@ -15,7 +15,7 @@ Situated at the intersection of Sydney’s academic, cultural and technology pre
 
 ICC Sydney is easily accessible by public transport, including light rail, ferry and train and is only a 10-minute walk from Central and Town Hall train stations. Secure parking is available and conveniently located within the Darling Harbour precinct.
 
-See information on ICC Sydney accessibility here: [Transport \& Parking Options \| Getting Here \| ICC Sydney](https://iccsydney.com.au/visitors/getting-here/).
+See information on ICC Sydney accessibility here: [Transport & Parking Options \| Getting Here \| ICC Sydney](https://iccsydney.com.au/visitors/getting-here/).
 
 ![][image4]
 
