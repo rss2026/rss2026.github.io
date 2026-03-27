@@ -233,7 +233,7 @@ RSS has a long history of bringing together researchers in all areas of robotics
   <a href="https://www.spirit-ai.com/en/" class="sponsor-card sponsor-card-platinum">
     <img alt="Spirit" src="{{ site.baseurl }}/images/sponsors_2026/Spirit.png" />
   </a>
-  <a href="https://www.nvidia.com/en-us/research/" class="sponsor-card sponsor-card-gold">
+  <a href="https://www.nvidia.com/en-us/" class="sponsor-card sponsor-card-gold">
     <img alt="NVIDIA" src="{{ site.baseurl }}/images/sponsors_2026/nvidia.png" />
   </a>
   <a href="https://www.limxdynamics.com/en" class="sponsor-card sponsor-card-silver">

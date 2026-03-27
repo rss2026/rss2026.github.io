@@ -102,7 +102,7 @@ published: true
 ### Gold Sponsors
 
 <div class="sponsor-grid">
-  <a href="https://www.nvidia.com/en-us/research/" class="sponsor-card">
+  <a href="https://www.nvidia.com/en-us/" class="sponsor-card">
     <img alt="NVIDIA" src="{{ site.baseurl }}/images/sponsors_2026/nvidia.png" />
   </a>
 </div>
