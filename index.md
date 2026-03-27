@@ -220,16 +220,41 @@ RSS has a long history of bringing together researchers in all areas of robotics
 
 <h3 id="sponsors">Sponsors</h3>
 
-<!-- Row 1 -->
-<div style="height: 10px;"></div>
-<p style="text-align: center;">
-  <img alt="Business Events Sydney" src="images/sponsors_2026/besydney-blue-logo-rgb.png"
-       style="height: auto; width: auto; max-width: 200px; margin: 10px; margin-right: 40px;" />
-  <img alt="Supported by the NSW Government" src="images/sponsors_2026/Supported by the NSW Government.jpg"
-       style="height: auto; width: auto; max-width: 200px; margin: 10px; margin-right: 40px;" />
-  <img alt="Business Events Australia" src="images/sponsors_2026/business_events_australia.png"
-       style="height: auto; width: auto; max-width: 200px; margin: 10px;" />
-</p>
+<div class="sponsor-grid">
+  <a href="http://www.tri.global/" class="sponsor-card sponsor-card-platinum">
+    <img alt="Toyota Research Institute" src="{{ site.baseurl }}/images/sponsors_2026/TRI.png" />
+  </a>
+  <a href="https://www.agibot.com/" class="sponsor-card sponsor-card-platinum">
+    <img alt="AGIBOT" src="{{ site.baseurl }}/images/sponsors_2026/AGIBOT.png" />
+  </a>
+  <a href="https://www.sharpa.com/" class="sponsor-card sponsor-card-platinum">
+    <img alt="Sharpa" src="{{ site.baseurl }}/images/sponsors_2026/Sharpa.png" />
+  </a>
+  <a href="https://www.spirit-ai.com/en/" class="sponsor-card sponsor-card-platinum">
+    <img alt="Spirit" src="{{ site.baseurl }}/images/sponsors_2026/Spirit.png" />
+  </a>
+  <a href="https://www.nvidia.com/en-us/research/" class="sponsor-card sponsor-card-gold">
+    <img alt="NVIDIA" src="{{ site.baseurl }}/images/sponsors_2026/nvidia.png" />
+  </a>
+  <a href="https://www.limxdynamics.com/en" class="sponsor-card sponsor-card-silver">
+    <img alt="LimX Dynamics" src="{{ site.baseurl }}/images/sponsors_2026/LimX_Dynamics.png" />
+  </a>
+  <a href="https://www.booster.tech/" class="sponsor-card sponsor-card-silver">
+    <img alt="Booster Robotics" src="{{ site.baseurl }}/images/sponsors_2026/Booster_Robotics.png" />
+  </a>
+  <a href="https://rai-inst.com/" class="sponsor-card sponsor-card-bronze">
+    <img alt="RAI" src="{{ site.baseurl }}/images/sponsors_2026/rai.png" />
+  </a>
+  <a href="https://www.besydney.com.au/" class="sponsor-card sponsor-card-rss">
+    <img alt="Business Events Sydney" src="{{ site.baseurl }}/images/sponsors_2026/besydney-blue-logo-rgb.png" />
+  </a>
+  <a href="https://www.nsw.gov.au/" class="sponsor-card sponsor-card-rss">
+    <img alt="Supported by the NSW Government" src="{{ site.baseurl }}/images/sponsors_2026/Supported by the NSW Government.jpg" />
+  </a>
+  <a href="https://businessevents.australia.com/en" class="sponsor-card sponsor-card-rss">
+    <img alt="Business Events Australia" src="{{ site.baseurl }}/images/sponsors_2026/business_events_australia.png" />
+  </a>
+</div>
 
 <!-- <p style="text-align: center;">
   <img alt="Amazon Robotics" src="images/sponsors2025/1_amazon_robotics.png"

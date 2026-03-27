@@ -82,26 +82,63 @@ published: true
 
 {%endcomment%}
 
+### Platinum Sponsors
+
+<div class="sponsor-grid">
+  <a href="http://www.tri.global/" class="sponsor-card">
+    <img alt="Toyota Research Institute" src="{{ site.baseurl }}/images/sponsors_2026/TRI.png" />
+  </a>
+  <a href="https://www.agibot.com/" class="sponsor-card">
+    <img alt="AGIBOT" src="{{ site.baseurl }}/images/sponsors_2026/AGIBOT.png" />
+  </a>
+  <a href="https://www.sharpa.com/" class="sponsor-card">
+    <img alt="Sharpa" src="{{ site.baseurl }}/images/sponsors_2026/Sharpa.png" />
+  </a>
+  <a href="https://www.spirit-ai.com/en/" class="sponsor-card">
+    <img alt="Spirit" src="{{ site.baseurl }}/images/sponsors_2026/Spirit.png" />
+  </a>
+</div>
+
+### Gold Sponsors
+
+<div class="sponsor-grid">
+  <a href="https://www.nvidia.com/en-us/research/" class="sponsor-card">
+    <img alt="NVIDIA" src="{{ site.baseurl }}/images/sponsors_2026/nvidia.png" />
+  </a>
+</div>
+
+### Silver Sponsors
+
+<div class="sponsor-grid">
+  <a href="https://www.limxdynamics.com/en" class="sponsor-card">
+    <img alt="LimX Dynamics" src="{{ site.baseurl }}/images/sponsors_2026/LimX_Dynamics.png" />
+  </a>
+  <a href="https://www.booster.tech/" class="sponsor-card">
+    <img alt="Booster Robotics" src="{{ site.baseurl }}/images/sponsors_2026/Booster_Robotics.png" />
+  </a>
+</div>
+
+### Bronze Sponsors
+
+<div class="sponsor-grid">
+  <a href="https://rai-inst.com/" class="sponsor-card">
+    <img alt="RAI" src="{{ site.baseurl }}/images/sponsors_2026/rai.png" />
+  </a>
+</div>
+
 ### RSS Sponsors
 
-<table width="100%" class="center">
-
-<tr>
-<td style="width: 20%; text-align: center;">
-  <img alt="Business Events Sydney" src="{{ site.baseurl }}/images/sponsors_2026/besydney-blue-logo-rgb.png"
-       style="height: auto; width: auto; max-width: 200px;" />
-</td>
-<td style="width: 20%; text-align: center;">
-  <img alt="Supported by the NSW Government" src="{{ site.baseurl }}/images/sponsors_2026/Supported by the NSW Government.jpg"
-       style="height: auto; width: auto; max-width: 200px;" />
-</td>
-<td style="width: 20%; text-align: center;">
-  <img alt="Business Events Australia" src="{{ site.baseurl }}/images/sponsors_2026/business_events_australia.png"
-       style="height: auto; width: auto; max-width: 200px;" />
-</td>
-</tr>
-
-</table>
+<div class="sponsor-grid">
+  <a href="https://www.besydney.com.au/" class="sponsor-card">
+    <img alt="Business Events Sydney" src="{{ site.baseurl }}/images/sponsors_2026/besydney-blue-logo-rgb.png" />
+  </a>
+  <a href="https://www.nsw.gov.au/" class="sponsor-card">
+    <img alt="Supported by the NSW Government" src="{{ site.baseurl }}/images/sponsors_2026/Supported by the NSW Government.jpg" />
+  </a>
+  <a href="https://businessevents.australia.com/en" class="sponsor-card">
+    <img alt="Business Events Australia" src="{{ site.baseurl }}/images/sponsors_2026/business_events_australia.png" />
+  </a>
+</div>
 
 <br>
 

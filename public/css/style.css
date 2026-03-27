@@ -217,7 +217,57 @@ a.social-media:active {color:#333333}
     text-align: center;
 }
 
-/* Sponsorships */
+/* Sponsorships 2026 */
+
+
+.sponsor-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    margin-bottom: 10px;
+}
+
+.sponsor-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    width: 260px;
+    height: 160px;
+    padding: 10px;
+    transition: box-shadow 0.2s;
+    text-decoration: none;
+}
+
+.sponsor-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.sponsor-card img {
+    max-width: 100%;
+    max-height: 120px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+}
+
+.sponsor-card-platinum { width: 260px; height: 160px; }
+.sponsor-card-platinum img { max-height: 120px; }
+
+.sponsor-card-gold { width: 260px; height: 130px; }
+.sponsor-card-gold img { max-height: 95px; }
+
+.sponsor-card-silver { width: 210px; height: 130px; }
+.sponsor-card-silver img { max-height: 95px; }
+
+.sponsor-card-bronze { width: 210px; height: 130px; }
+.sponsor-card-bronze img { max-height: 95px; }
+
+.sponsor-card-rss { width: 210px; height: 130px; }
+.sponsor-card-rss img { max-height: 95px; }
+
+/* Sponsorships (legacy) */
 
 #ss-square img {
   max-width:  8%;

@@ -69,6 +69,23 @@ published: true
         <a target="_blank" href="https://profiles.uts.edu.au/Graeme.Best">Graeme Best</a><br>
         <i>University of Technology Sydney, Australia</i><br>
       </td>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://profiles.uts.edu.au/Teresa.VidalCalleja">Teresa Vidal-Calleja</a><br>
+        <i>University of Technology Sydney, Australia</i><br>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <b>Registration Chair</b><br>
+  <table style="margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://profiles.uts.edu.au/Gavin.Paul-1">Gavin Paul</a><br>
+        <i>University of Technology Sydney, Australia</i><br>
+      </td>
+      <td style="width:45px;"></td>
     </tr>
   </table>
 
@@ -118,6 +135,28 @@ published: true
       <td style="width:200px;vertical-align:top;">
         <a target="_blank" href="https://schmluk.github.io/">Lukas Schmid</a><br>
         <i>Massachusetts Institute of Technology, USA</i><br>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <b>RSS Pathways Chairs</b><br>
+  <table style="margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://profiles.uts.edu.au/Marc.Carmichael">Marc Carmichael</a><br>
+        <i>University of Technology Sydney, Australia</i><br>
+      </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://research.unsw.edu.au/people/dr-mohammad-deghat">Mohammad Deghat</a><br>
+        <i>University of New South Wales, Sydney, Australia</i><br>
+      </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://profiles.sydney.edu.au/viorela.ila">Viorela Ila</a><br>
+        <i>University of Sydney, Australia</i><br>
       </td>
     </tr>
   </table>
