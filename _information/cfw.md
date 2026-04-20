@@ -85,7 +85,7 @@ Reviewers will be asked to rate workshops on the four criteria below.
     </thead>
     <tbody>
       <tr>
-        <td>February 12, 2026</td>
+        <td><s>February 12, 2026</s></td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Workshop/Tutorial  Proposal Submission Deadline</td>
       </tr>

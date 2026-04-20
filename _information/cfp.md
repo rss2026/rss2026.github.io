@@ -31,7 +31,7 @@ RSS 2026 welcomes Science/Systems papers that report on novel scientific and sys
     </thead>
     <tbody>
       <tr>
-        <td>January 23, 2026</td>
+        <td><s>January 23, 2026</s></td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Abstract/Title Submission Deadline</td>
       </tr>
@@ -41,12 +41,12 @@ RSS 2026 welcomes Science/Systems papers that report on novel scientific and sys
         <td class="wrap">Initial Paper and Demo Submission Deadline (this requires a semi-complete pdf of the paper, final title and abstract)</td>
       </tr> -->
       <tr>
-        <td>January 30, 2026</td>
+        <td><s>January 30, 2026</s></td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Paper Submission Deadline</td>
       </tr>
       <tr>
-        <td>February 6, 2026</td>
+        <td><s>February 6, 2026</s></td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Supplementary Material Submission Deadline</td>
       </tr>
@@ -61,7 +61,7 @@ RSS 2026 welcomes Science/Systems papers that report on novel scientific and sys
         <td class="wrap">Workshop Proposal Deadline</td>
       </tr> -->
       <tr>
-        <td>March 20, 2026</td>
+        <td><s>March 20, 2026</s></td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Reviews Released and Rebuttal Invitations</td>
       </tr>
@@ -71,7 +71,7 @@ RSS 2026 welcomes Science/Systems papers that report on novel scientific and sys
         <td class="wrap">Workshop Decisions Announcement</td>
       </tr> -->
       <tr>
-        <td>March 27, 2026</td>
+        <td><s>March 27, 2026</s></td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Rebuttal Submission Deadline</td>
       </tr>
