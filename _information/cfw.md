@@ -90,7 +90,7 @@ Reviewers will be asked to rate workshops on the four criteria below.
         <td class="wrap">Workshop/Tutorial  Proposal Submission Deadline</td>
       </tr>
       <tr>
-        <td>April 17, 2026</td>
+        <td>April 23, 2026 <s>April 17</s></td>
         <td></td>
         <td class="wrap">Proposal Acceptance Notification</td>
       </tr>
