@@ -76,20 +76,20 @@ RSS 2026 welcomes Science/Systems papers that report on novel scientific and sys
         <td class="wrap">Rebuttal Submission Deadline</td>
       </tr>
       <tr>
-        <td>April 27, 2026</td>
+        <td><s>April 27, 2026</s></td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap">Paper and Demo Acceptance Notification</td>
+        <td class="wrap">Paper Acceptance Notification</td>
       </tr>
       <!-- <tr>
         <td><s>April 20, 2025</s></td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap"><a href="https://sites.google.com/view/rsspioneers2025/" target="_blank">RSS Pioneers</a> Notification of Acceptance</td>
-      </tr>
+      </tr> -->
       <tr>
-        <td><s>April 25, 2025</s></td>
+        <td>May 11, 2026</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Final Camera Ready Paper Submission</td>
-      </tr> -->
+      </tr>
       <!-- <tr>
         <td>July 13, 2026</td>
         <td>—</td>
