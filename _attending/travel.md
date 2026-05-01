@@ -47,6 +47,16 @@ Australia often evokes images of golden beaches, outback landscapes, quirky crea
 
 While you are here for RSS2026 we encourage you to take the chance to visit some of the amazing sites that Australia has to offer. From sweeping sand dunes, to tropical rainforests, to bushland creatures and turquoise coastlines filled with wonder, there is sure to be something for everyone here.
 
+## Discount for RSS Delegates
+
+<a href="https://besydney.experienceoz.com.au/en/new-south-wales" target="_blank">
+  <img src="{{ site.baseurl }}/images/visit_sydney/Banner_400x130.gif" alt="BESydney x ExperienceOz - Discount for RSS Delegates">
+</a>
+
+BESydney has partnered with ExperienceOz to offer delegates attending the Robotics Science and Systems (RSS) Conference 2026 access to a wide range of experiences and attractions at special rates during their time in Sydney, New South Wales. Delegates can enjoy an exclusive 10% discount when they book via the [Sydney Experiences website](https://besydney.experienceoz.com.au/en/new-south-wales).
+
+Whether it's a cruise on Sydney Harbour, an Aussie animal encounter at a Sydney zoo, a performance at the Sydney Opera House, or exploring the mountains, coast, and wine regions beyond the city, visitors will have plenty of options to choose from. These special offers are available for booking from two weeks before the conference until one week after. The unique code for registered conference attendees is **RSS10**.
+
 # **Transport**
 
 Sydney (Kingsford Smith) International Airport (SYD) is one of the busiest airports in Australia and one of the world’s oldest continuously operated commercial airports.
