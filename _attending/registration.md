@@ -39,7 +39,7 @@ All fees are quoted in **Australian Dollars (AUD)** and include **10% GST** (Goo
   <thead>
     <tr style="background-color:#0F4BEA; color:#ffffff;">
       <th style="padding: 10px 14px; text-align: left; border: 1px solid #0a35a8;">Registration Type</th>
-      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Early Bird (incl. GST)<br/><small>Closes 11 May 2026</small></th>
+      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Early Bird (incl. GST)<br/><small>Closes 15 May 2026</small></th>
       <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Standard<br/><small>(incl. GST)</small></th>
       <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Late / Onsite<br/><small>(incl. GST)</small></th>
     </tr>
@@ -89,11 +89,11 @@ A student is defined as a holder of a student identification card from a recogni
     </tr>
     <tr>
       <td style="padding: 10px 14px; border: 1px solid #ddd;">Early Bird Closes</td>
-      <td style="padding: 10px 14px; border: 1px solid #ddd;">11 May 2026</td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">15 May 2026</td>
     </tr>
     <tr style="background-color:#f9f9f9;">
       <td style="padding: 10px 14px; border: 1px solid #ddd;">Standard Registration Opens</td>
-      <td style="padding: 10px 14px; border: 1px solid #ddd;">12 May 2026</td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">16 May 2026</td>
     </tr>
     <tr>
       <td style="padding: 10px 14px; border: 1px solid #ddd;">Standard Registration Closes</td>
