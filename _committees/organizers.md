@@ -187,8 +187,8 @@ published: true
           <i>Amazon Robotics, USA</i><br>
     </td>
     <td style="width:200px;vertical-align:top;">
-          <a target="_blank" href="https://jxu.ai/">Jingxi Xu</a><br>
-          <i>RAI Institute, USA</i><br>
+          <a target="_blank" href="https://jxu.ai/">James (Jingxi) Xu</a><br>
+          <i>Ant Group & Stanford, USA</i><br>
     </td>
     </tr>
   </table>
