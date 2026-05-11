@@ -6,9 +6,9 @@ invisible: false
 published: true
 ---
 
-The Robotics: Science and Systems (RSS) community recognizes the importance of supporting early-career researchers and students in robotics. Such efforts are essential for fostering innovation, strengthening research capacity, and broadening the impact of robotics on society. To that end, [Pathways@RSS](https://sites.google.com/uts.edu.au/pathwaysrss2026/home){:target="_blank"} will be a key part of RSS 2026, focusing on initiatives that help prospective and early-career researchers develop their skills and thrive within the robotics community. These initiatives will include co-located events and dedicated activities throughout the main conference.
+The Robotics: Science and Systems (RSS) community is dedicated to fostering the next generation of robotics scientists and engineers. This program aims to increase participation, especially among students early in their studies and careers, by providing guidance and inspiration for pursuing a future in robotics. We welcome students who are eager to explore the vast opportunities in robotics, whether in research, industry, or entrepreneurship. Through interactive discussions, mentorship, and insights from experts, participants will gain a clearer understanding of the pathways leading to a successful career in robotics.
 
-A major component of [Pathways@RSS](https://sites.google.com/uts.edu.au/pathwaysrss2026/home){:target="_blank"} is the [Pathways Fellowship Program](https://sites.google.com/uts.edu.au/pathwaysrss2026/home#h.9k5jcvbajbml){:target="_blank"}, designed to help selected participants attend and succeed at RSS 2026. Fellowships will be awarded to BSc, MSc, and first- or second-year PhD students, with priority given to those who have not previously attended RSS or who are new to the robotics research community.
+The [Pathways@RSS 2026](https://sites.google.com/uts.edu.au/pathwaysrss2026/home){:target="_blank"} program will award [fellowships](https://sites.google.com/uts.edu.au/pathwaysrss2026/home#h.9k5jcvbajbml){:target="_blank"} to selected High school, BSc and MSc students to attend RSS, and offer a dedicated program and mentorship, to help support their journey towards a career in robotics. Priority will be given to students who have not previously attended RSS and/or are new to the robotics research community.
 
 To learn more about [Pathways@RSS](https://sites.google.com/uts.edu.au/pathwaysrss2026/home){:target="_blank"} or to [apply for the Fellowship Program](https://sites.google.com/uts.edu.au/pathwaysrss2026/apply?authuser=0){:target="_blank"}, please visit the event's [website](https://sites.google.com/uts.edu.au/pathwaysrss2026/home){:target="_blank"}. We look forward to supporting the next generation of robotics researchers and helping them chart their paths in this exciting field.
 
@@ -21,12 +21,12 @@ To learn more about [Pathways@RSS](https://sites.google.com/uts.edu.au/pathwaysr
     </thead>
     <tbody>
       <tr>
-        <td>May 10, 2026</td>
+        <td>May 15, 2026</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td><a href="https://sites.google.com/uts.edu.au/pathwaysrss2026/apply?authuser=0" target="_blank">Pathways@RSS Application</a> Deadline</td>
       </tr>
       <tr>
-        <td>May 18, 2026</td>
+        <td>May 25, 2026</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Notification of Acceptance</td>
       </tr>
