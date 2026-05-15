@@ -100,7 +100,7 @@ ocial Program
 
 ### News and Updates
 
-- **ATTENTION:** Early bird [registration]({{ site.baseurl }}/attending/registration/) closes May 18.
+- **ATTENTION:** [Early bird registration]({{ site.baseurl }}/attending/registration/) closes May 18.
 
 <!-- - Travel Information is available [here]({{ site.baseurl }}/attending/travel/).
 - Explore the Social Program [here]({{ site.baseurl }}/attending/social/). -->
