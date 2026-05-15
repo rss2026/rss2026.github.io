@@ -43,7 +43,7 @@ Although this is a separate process to lodging your visa application, when asses
 
 Confirmation of registration, or a copy of your letter of invitation, should accompany visa applications. For online subclass 400 and subclass 600 applications, information about documents that need to be attached will be provided as part of the application process.
 
-To request a letter of invitation please contact the secretariat.
+To request a letter of invitation please contact the secretariat: [rssconference.reg@gmail.com](mailto:rssconference.reg@gmail.com)
 
 ## Visa Application Process and Processing Times
 
