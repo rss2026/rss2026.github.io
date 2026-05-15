@@ -10,7 +10,7 @@ published: true
 We're thrilled to invite you to the **Robotics: Science and Systems Conference (RSS 2026)**, taking place from **Monday 13 July – Friday 17 July 2026** at ICC Sydney and the University of Technology Sydney. Registration is now open — secure your spot today and take advantage of our Early Bird rates.
 
 <div width="100%" style="border: solid #0a35a8 3px; background:#0F4BEA; padding: 10px; color: #ffffff; text-align: center;">
-  Click <b><a href="https://icmsaust.eventsair.com/robotics-science-and-systems-rss-conference/registration-form" target="_blank" style="color: #ffffff; text-decoration: underline;">here</a></b> to register for RSS 2026.
+  Click <b><a href="https://icmsaust.eventsair.com/robotics-science-and-systems-rss-conference/registration-form" target="_blank" style="color: #ffffff; text-decoration: underline;">here</a></b> to register for RSS 2026 and <b><a href="https://icmsaust.eventsair.com/robotics-science-and-systems-rss-conference/workshop-registration-form/Site/Register" target="_blank" style="color: #ffffff; text-decoration: underline;">here</a></b> for RSS 2026 Workshop Only.
 </div>
 
 <br/>
@@ -39,7 +39,7 @@ All fees are quoted in **Australian Dollars (AUD)** and include **10% GST** (Goo
   <thead>
     <tr style="background-color:#0F4BEA; color:#ffffff;">
       <th style="padding: 10px 14px; text-align: left; border: 1px solid #0a35a8;">Registration Type</th>
-      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Early Bird (incl. GST)<br/><small>Closes 15 May 2026</small></th>
+      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Early Bird (incl. GST)<br/><small>Closes 18 May 2026</small></th>
       <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Standard<br/><small>(incl. GST)</small></th>
       <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Late / Onsite<br/><small>(incl. GST)</small></th>
     </tr>
@@ -62,6 +62,33 @@ All fees are quoted in **Australian Dollars (AUD)** and include **10% GST** (Goo
       <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$1,550</td>
       <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$1,850</td>
       <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$2,250</td>
+    </tr>
+  </tbody>
+</table>
+
+### Workshop Only Registrations
+
+<table class="table" style="width:100%; border-collapse: collapse; margin-top: 10px;">
+  <thead>
+    <tr style="background-color:#0F4BEA; color:#ffffff;">
+      <th style="padding: 10px 14px; text-align: left; border: 1px solid #0a35a8;">Registration Type</th>
+      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Early Bird (incl. GST)<br/><small>Closes 18 May 2026</small></th>
+      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Standard<br/><small>(incl. GST)</small></th>
+      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Late / Onsite<br/><small>(incl. GST)</small></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#f9f9f9;">
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">One Day Workshop Pass (Monday or Friday)</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$375</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$525</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$600</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">Two Day Workshop Pass (Monday and Friday)</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$575</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$725</td>
+      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$900</td>
     </tr>
   </tbody>
 </table>
@@ -89,11 +116,11 @@ A student is defined as a holder of a student identification card from a recogni
     </tr>
     <tr>
       <td style="padding: 10px 14px; border: 1px solid #ddd;">Early Bird Closes</td>
-      <td style="padding: 10px 14px; border: 1px solid #ddd;">15 May 2026</td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">18 May 2026</td>
     </tr>
     <tr style="background-color:#f9f9f9;">
       <td style="padding: 10px 14px; border: 1px solid #ddd;">Standard Registration Opens</td>
-      <td style="padding: 10px 14px; border: 1px solid #ddd;">16 May 2026</td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">19 May 2026</td>
     </tr>
     <tr>
       <td style="padding: 10px 14px; border: 1px solid #ddd;">Standard Registration Closes</td>
