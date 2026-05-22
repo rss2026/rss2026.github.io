@@ -152,15 +152,15 @@ published: true
               <td style="background-color: #E2F0D950;">10:00AM</td>
               <td rowspan="1" class="event-block">
               Early Career Spotlight<br>
-              <a href="https://lihongyang.info/">Hongyang Li</a> (HKU)
+              <a href="https://lihongyang.info/">Hongyang Li</a>
               </td>
               <td rowspan="1" class="event-block">
               Early Career Spotlight<br>
-              <a href="https://people.csail.mit.edu/pulkitag/">Pulkit Agrawal</a> (MIT)
+              <a href="https://people.csail.mit.edu/pulkitag/">Pulkit Agrawal</a>
               </td>
               <td rowspan="1" class="event-block">
               Early Career Spotlight<br>
-              <a href="https://robotics.illinois.edu/people/wenzhen-yuan/">Wenzhen Yuan</a> (UIUC)
+              <a href="https://robotics.illinois.edu/people/wenzhen-yuan/">Wenzhen Yuan</a>
               </td>
        </tr>
        <!-- Row 5: 10:30 AM -->
@@ -227,8 +227,7 @@ published: true
               <td style="background-color: #E2F0D950;">1:30PM</td>
               <td rowspan="2" class="keynote-block">
               Closing Keynote<br>
-              <a href="https://cs.stanford.edu/people/karenliu/Home.html">Karen Liu</a><br>
-              Stanford University
+              <a href="https://cs.stanford.edu/people/karenliu/Home.html">Karen Liu</a>
               </td>
        </tr>
        <!-- Row 12: 2:00 PM -->
@@ -241,7 +240,7 @@ published: true
               <td rowspan="4" class="session-block">
               Session 7<br><br>
               Early Career Spotlight<br>
-              <a href="https://marco-tognon-robotics.com/">Marco Tognon</a> (INRIA)<br><br>
+              <a href="https://marco-tognon-robotics.com/">Marco Tognon</a><br><br>
               Session 8
               </td>
               <td rowspan="4" class="session-block">
@@ -297,8 +296,7 @@ published: true
               <td style="background-color: #E2F0D950;">4:30PM</td>
               <td rowspan="2" class="keynote-block">
               Opening Keynote<br>
-              <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/salah-sukkarieh.html">Salah Sukkarieh</a><br>
-              University of Sydney
+              <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/salah-sukkarieh.html">Salah Sukkarieh</a>
               </td>
        </tr>
        <!-- Row 18: 5:00 PM -->
