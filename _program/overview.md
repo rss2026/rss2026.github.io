@@ -324,7 +324,7 @@ published: true
        <tr>
               <td style="background-color: #E2F0D950;">6:00PM</td>
               <td rowspan="1" class="event-block">Walk to banquet</td>
-              <td rowspan="4" style="box-shadow: none;"></td>
+              <td rowspan="9" style="box-shadow: none;"></td>
        </tr>
        <!-- Row 21: 6:30 PM -->
        <tr>
@@ -341,7 +341,7 @@ published: true
               "NVIDIA" Poster Session<br><br>
               "Connect with NVIDIA" talk
               </td>
-              <td rowspan="3" class="break-block">Banquet</td>
+              <td rowspan="8" class="break-block">Banquet</td>
        </tr>
        <!-- Row 22: 7:00 PM -->
        <tr>
@@ -350,8 +350,31 @@ published: true
        <!-- Row 23: 7:30 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">7:30PM</td>
-              <td rowspan="1" class="break-block">Dinner (catered)</td>
-              <td rowspan="1" class="break-block">Dinner (catered)</td>
-              <td rowspan="1" class="break-block">Dinner (catered)</td>
+              <td rowspan="2" class="break-block">Dinner (catered)</td>
+              <td rowspan="2" class="break-block">Dinner (catered)</td>
+              <td rowspan="2" class="break-block">Dinner (catered)</td>
+       </tr>
+       <!-- Row 24: 8:00 PM -->
+       <tr>
+              <td style="background-color: #E2F0D950;">8:00PM</td>
+       </tr>
+       <!-- Row 25: 8:30 PM -->
+       <tr>
+              <td style="background-color: #E2F0D950;">8:30PM</td>
+              <td rowspan="4" style="box-shadow: none;"></td>
+              <td rowspan="4" style="box-shadow: none;"></td>
+              <td rowspan="4" style="box-shadow: none;"></td>
+       </tr>
+       <!-- Row 26: 9:00 PM -->
+       <tr>
+              <td style="background-color: #E2F0D950;">9:00PM</td>
+       </tr>
+       <!-- Row 27: 9:30 PM -->
+       <tr>
+              <td style="background-color: #E2F0D950;">9:30PM</td>
+       </tr>
+       <!-- Row 28: 10:00 PM -->
+       <tr>
+              <td style="background-color: #E2F0D950;">10:00PM</td>
        </tr>
 </table>
