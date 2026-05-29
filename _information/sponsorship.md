@@ -105,6 +105,9 @@ published: true
   <a href="https://www.nvidia.com/en-us/" class="sponsor-card">
     <img alt="NVIDIA" src="{{ site.baseurl }}/images/sponsors_2026/nvidia.png" />
   </a>
+  <a href="https://www.anduril.com/" class="sponsor-card">
+    <img alt="Anduril" src="{{ site.baseurl }}/images/sponsors_2026/Anduril_Horizontal.svg" />
+  </a>
 </div>
 
 ### Silver Sponsors
