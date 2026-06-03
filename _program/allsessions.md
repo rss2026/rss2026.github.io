@@ -4,7 +4,7 @@ title: Paper Sessions
 description: List of Paper Sessions.
 priority: 11
 invisible: false
-published: false
+published: true
 ---
   
 <style>
