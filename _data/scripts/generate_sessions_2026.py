@@ -133,12 +133,15 @@ def format_time_range(time_range):
         return f"{start.strftime('%-I:%M%p').lower()}–{end.strftime('%-I:%M%p').lower()}"
     except Exception:
         return time_range.strip()
+"""
 
 def normalize_title(title):
     title = title.replace("&", "and").lower()
-    for n in range(1, 21):
-        title = re.sub(rf'\b{n}\b', int_to_roman(n).lower(), title)
+    #for n in range(1, 21):
+        #title = re.sub(rf'\b{n}\b', int_to_roman(n).lower(), title)
     return title.strip()
+
+"""
 
 def int_to_roman(n):
     numerals = [
@@ -257,7 +260,7 @@ for _, row in df_out.iterrows():
 
 for i, row in df_sessions.iterrows():
     number = int(row["Session"])
-    name = row["Session Name"]
+    name = normalize_title(row["Session Name"])
     print("name", name, "number", number)
     session_num_lookup[name] = number
 
@@ -272,8 +275,8 @@ def get_session_key(title):
     return normalize_title(title)
 
 #generate .json file per session
-for session_name, group in df_papers.groupby("Session Name"):
-    key = get_session_key(session_name)
+for session_name, group in df_papers.groupby("Session"):
+    key = normalize_title(session_name)
     session_number = session_num_lookup.get(key)
     if session_number is None:
         print(f"Could not find session number for: {session_name}")
