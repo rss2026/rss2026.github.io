@@ -137,6 +137,10 @@ def format_time_range(time_range):
 
 def normalize_title(title):
     title = title.replace("&", "and").lower()
+
+    # normalize name ambiguity
+    title = title.replace("benchmarking", "benchmarks").lower()
+
     #for n in range(1, 21):
         #title = re.sub(rf'\b{n}\b', int_to_roman(n).lower(), title)
     return title.strip()
