@@ -1,0 +1,22 @@
+Session,Length (min),Papers,Session Name,Rationale
+1,45,9,Manipulation 1,
+2,45,9,World Models & Memory,
+3,60,13,Humanoids,before Unitree Poster Session
+4,60,13,Multi-robot systems,
+5,40,9,Localization & Mapping,
+6,40,9,Manipulation 2,
+7,45,9,Navigation 1,
+8,45,9,Imitation learning 1,
+9,40,9,VLA Models,follows Spirit AI
+10,40,9,Datasets and Benchmarking,follows SHARPA
+11,60,13,Control and Dynamics,"connects to RL (Pulkit, while still contrasting with the EC talk)"
+12,40,9,HRI,
+13,40,9,Manipulation 3,
+14,45,9,Navigation 2,
+15,45,9,Imitation learning 2,
+16,40,9,RL,
+17,40,9,Modeling & Optimization,
+18,60,13,Perception & Estimation,
+19,60,13,Planning,
+20,45,9,Robot & Sensor Design,
+21,45,10,Imitation learning 3,
