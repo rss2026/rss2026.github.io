@@ -29,6 +29,7 @@ output_path = "../rss2026PaperSessions.csv"
 df_papers = pd.read_csv(paper_input_path)
 df_program = pd.read_csv(program_input_path)
 
+"""
 #######################################
 # generate paper sessions .csv files
 #
@@ -90,6 +91,9 @@ for date_col in df_program.columns[3:8]:
                 "Time": f"{min_start.strftime('%-I:%M')} - {max_end.strftime('%-I:%M')}"
             })
 
+"""
+
+"""
 df_program_sessions = pd.DataFrame(program_long)
 df_program_sessions["Title"] = df_program_sessions["SessionDisplayName"].apply(
     lambda x: re.sub(r"^\d+\s*[.-]\s*", "", x).strip())
@@ -158,7 +162,9 @@ for _, row in df_program_sessions.iterrows():
 print("\n=== Session Time Map ===")
 for k, v in session_time_map.items():
     print(f"{k:40} -> {v}")
+"""
 
+"""
 #generate rows for sessions
 session_rows = []
 for original in df_papers["Session Name"].dropna().unique():
@@ -224,6 +230,7 @@ print(df_out.to_string(index=False))
 
 df_out.to_csv(output_path, index=False)
 print(f"\nSaved to {output_path}")
+"""
 
 ########################################
 # generate sessions .json files
@@ -236,12 +243,14 @@ os.makedirs(session_json_dir, exist_ok=True)
 
 #mapping of session name to session number
 session_num_lookup = {}
+"""
 for _, row in df_out.iterrows():
     match = re.match(r"(\d+)\.", row["SessionName"])
     if match:
         number = int(match.group(1))
         key = normalize_title(row["SessionName"].split(". ", 1)[1])
         session_num_lookup[key] = number
+"""
 
 #quick fix not finding normalized session name
 session_num_lookup["vla"] = 2
