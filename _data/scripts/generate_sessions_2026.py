@@ -141,6 +141,9 @@ def normalize_title(title):
         #title = re.sub(rf'\b{n}\b', int_to_roman(n).lower(), title)
     return title.strip()
 
+def session_number_to_link(num):
+    return f"session{num}"
+
 """
 
 def int_to_roman(n):
@@ -291,7 +294,7 @@ for session_name, group in df_papers.groupby("Session"):
             "pdf": paper.get("PDF_Link", ""),
         })
 
-    session_link = df_out[df_out["SessionName"].str.startswith(f"{session_number}.")]["SessionLink"].values[0]
+    session_link = session_number_to_link(session_number)
     out_path = os.path.join(session_json_dir, f"{session_link}.json")
     with open(out_path, "w") as f:
         json.dump(papers, f, indent=2)
