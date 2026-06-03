@@ -24,10 +24,13 @@ USE_PROGRAM_SESSION_NAMES = True  #toggle this flag to switch naming source
 #load csvs
 paper_input_path = "../RSS 2026 Accepted Papers Papers vs Sessions.csv"
 program_input_path = "../RSS 2026 Program - Detailed.csv"
+sessions_input_path = "../RSS 2026 Accepted Papers - Sessions.csv"
+
 output_path = "../rss2026PaperSessions.csv"
 
 df_papers = pd.read_csv(paper_input_path)
 df_program = pd.read_csv(program_input_path)
+df_sessions = pd.read_csv(sessions_input_path)
 
 """
 #######################################
@@ -252,8 +255,14 @@ for _, row in df_out.iterrows():
         session_num_lookup[key] = number
 """
 
+for i, row in df_sessions.iterrows():
+    number = int(row["Session"])
+    name = row["Session Name"]
+    print("name", name, "number", number)
+    session_num_lookup[name] = number
+
 #quick fix not finding normalized session name
-session_num_lookup["vla"] = 2
+# session_num_lookup["vla"] = 2
 
 #normalize the session title for matching
 def get_session_key(title):
