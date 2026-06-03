@@ -1,6 +1,6 @@
 """
 This script generates the sessions .csv and .json files for the session
-page and the individual session pages for the RSS 2025 conference.
+page and the individual session pages for the RSS 2026 conference.
 
 The list of papers (extracted from google sheet) are parsed to determine
 which papers are in which sessions. Then, the session names are replaced
@@ -22,9 +22,9 @@ import json
 USE_PROGRAM_SESSION_NAMES = True  #toggle this flag to switch naming source
 
 #load csvs
-paper_input_path = "../RSS 2026 Accepted Papers Papers vs Sessions.csv"
-program_input_path = "../RSS 2026 Program - Detailed.csv"
-sessions_input_path = "../RSS 2026 Accepted Papers - Sessions.csv"
+paper_input_path = "../RSS2026PapersVsSessions.csv"
+program_input_path = "../RSS2026ProgramDetailed.csv"
+sessions_input_path = "../RSS2026Sessions.csv"
 
 output_path = "../rss2026PaperSessions.csv"
 
