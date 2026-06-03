@@ -40,7 +40,7 @@ df_program = pd.read_csv(program_input_path)
 program_long = []
 time_slots = df_program["Unnamed: 0"].fillna("").tolist()
 
-for date_col in df_program.columns[1:-1]:
+for date_col in df_program.columns[3:8]:
     date = date_col.strip()
     seen = {}
 
