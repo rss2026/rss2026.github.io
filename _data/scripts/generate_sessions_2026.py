@@ -22,9 +22,9 @@ import json
 USE_PROGRAM_SESSION_NAMES = True  #toggle this flag to switch naming source
 
 #load csvs
-paper_input_path = "../rss2025PaperSessions_data_v3.csv"
-program_input_path = "../rss2025Program_data.csv"
-output_path = "../rss2025PaperSessions.csv"
+paper_input_path = "../RSS 2026 Accepted Papers Papers vs Sessions.csv"
+program_input_path = "../RSS 2026 Program - Detailed.csv"
+output_path = "../rss2026PaperSessions.csv"
 
 df_papers = pd.read_csv(paper_input_path)
 df_program = pd.read_csv(program_input_path)
