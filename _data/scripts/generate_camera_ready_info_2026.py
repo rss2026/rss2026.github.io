@@ -517,6 +517,7 @@ next_id: "{next_id}"
   </div>
 </div>
 
+<!--
 <div class="paper-pdf">
   <div>
     <a href="{pdf_url}" title="Download PDF" target="_blank">
@@ -524,6 +525,7 @@ next_id: "{next_id}"
     </a>
   </div>
 </div>
+-->
 
 ### Paper ID {paper_id}
 {{: style="margin-top: 10px; text-align: center;" }}
@@ -581,6 +583,8 @@ camera_ready_df["AbstractHTML"] = camera_ready_df["AbstractHTML"].apply(
 camera_ready_df["AuthorNamesSemicol"] = camera_ready_df["AuthorNames"].str.replace(", ", "; ", regex=False)
 
 # Write with '#' delimiter, no header
+# Cancel writing for now because causing problems with jekyll
+"""
 with open(integration_path, "w", encoding="utf-8", newline="") as f:
     writer = csv.writer(f, delimiter="#", quoting=csv.QUOTE_MINIMAL)
     for r in camera_ready_df.itertuples(index=False):
@@ -591,5 +595,6 @@ with open(integration_path, "w", encoding="utf-8", newline="") as f:
             r.AuthorNamesSemicol,
             first_author_last_plus_initial(r.AuthorNames),
         ])
+"""
 
 print(f"Saved to {integration_path}")
