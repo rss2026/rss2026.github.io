@@ -75,14 +75,14 @@ published: true
     <!--
     <td width="5%" height="100px">-1</td>
     -->
-    <!-- comment this for now to disable paper links -->
-    <!-- <td width="45%" height="100px" ><a href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
-}}/"><b>{{paper.PaperTitle}}</b></a></td> -->
-    <!-- <td width="45%" height="100px"><b>{{ paper.PaperTitle }}</b></td> -->
     <td width="45%" height="100px">
+      <!-- comment this for now to disable paper links -->
+      <!--
       <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperID }}/">
         <b>{{ paper.Title }}</b>
       </a>
+      -->
+      <b>{{ paper.Title }}</b>
     </td>
     <td width="40%" height="100px">{{ paper.Authors | replace: ';', ',' | truncatewords: 40, "&nbsp;<button type='button' class='collapsible' style='border:none;background:none;font-size:smaller;color:#222299;'>...more&gt;</button>"}}
       <div class="content" style="display:none; padding-top:20px;">
