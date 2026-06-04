@@ -23,14 +23,17 @@ USE_PROGRAM_SESSION_NAMES = True  #toggle this flag to switch naming source
 
 #load csvs
 paper_input_path = "../RSS2026PapersVsSessions.csv"
-program_input_path = "../RSS2026ProgramDetailed.csv"
-sessions_input_path = "../RSS2026Sessions.csv"
+#program_input_path = "../RSS2026ProgramDetailed.csv"
+sessions_input_path = "../RSS2026SessionsHackyTime.csv"
 
 output_path = "../rss2026PaperSessions.csv"
 
 df_papers = pd.read_csv(paper_input_path)
-df_program = pd.read_csv(program_input_path)
+#df_program = pd.read_csv(program_input_path)
 df_sessions = pd.read_csv(sessions_input_path)
+
+print(df_papers)
+#print(df_program)
 
 """
 #######################################
@@ -256,20 +259,15 @@ os.makedirs(session_json_dir, exist_ok=True)
 
 #mapping of session name to session number
 session_num_lookup = {}
-"""
-for _, row in df_out.iterrows():
-    match = re.match(r"(\d+)\.", row["SessionName"])
-    if match:
-        number = int(match.group(1))
-        key = normalize_title(row["SessionName"].split(". ", 1)[1])
-        session_num_lookup[key] = number
-"""
+session_duration_lookup = {}
 
-for i, row in df_sessions.iterrows():
+for _, row in df_sessions.iterrows():
     number = int(row["Session"])
-    name = normalize_title(row["Session Name"])
-    print("name", name, "number", number)
+    name = normalize_title(row["SessionName"])
+    duration = int(row["Length (min)"])
+    print("name", name, "number", number, "duration", duration)
     session_num_lookup[name] = number
+    session_duration_lookup[name] = duration
 
 #quick fix not finding normalized session name
 # session_num_lookup["vla"] = 2
@@ -283,7 +281,9 @@ def get_session_key(title):
 
 #generate .json file per session
 for session_name, group in df_papers.groupby("Session"):
+    #key = get_session_key(session_name)
     key = normalize_title(session_name)
+    print("Session name key: ", key)
     session_number = session_num_lookup.get(key)
     if session_number is None:
         print(f"Could not find session number for: {session_name}")
