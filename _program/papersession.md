@@ -4,7 +4,7 @@ title: Paper Sessions
 description: Paper Sessions
 priority: 11
 invisible: false
-published: false
+published: true
 ---
 
 <div class="page" id="inner-content">
@@ -121,14 +121,15 @@ $(document).ready(function() {
   $(".page-title").text("Session " + sessionName).css("visibility", "visible");
 
   //look up session info from the YAML data
-  var sessions = {{ site.data.rss2025PaperSessions | jsonify }};
+  var sessions = {{ site.data.RSS2026SessionsHackyTime | jsonify }};
   var sessionInfo = sessions.find(s => s.SessionName === sessionName);
 
   //set date, time, location
   if (sessionInfo) {
-    var locationStr = '<a href="https://maps.app.goo.gl/gmsxcUqwNSfjsuHL8" target="_blank">Bovard Auditorium</a>';
-    var dateTimeStr = "<strong>Date:</strong> " + sessionInfo.Day + ", " + sessionInfo.DateVerbose + ", 2025" +
-                      " &nbsp; | &nbsp; <strong>Time:</strong> " + sessionInfo.Time +
+    //var locationStr = '<a href="https://maps.app.goo.gl/gmsxcUqwNSfjsuHL8" target="_blank">Bovard Auditorium</a>';
+    var locationStr = 'Location TBA';
+    var dateTimeStr = "<strong>Date:</strong> " + sessionInfo.Date + ", 2026" +
+                      " &nbsp; | &nbsp; <strong>Time:</strong> " + sessionInfo.StartTime + " - " + sessionInfo.EndTime +
                       " &nbsp; | &nbsp; <strong>Location:</strong> " + locationStr;
     $("#session-datetime").html(dateTimeStr);
 
