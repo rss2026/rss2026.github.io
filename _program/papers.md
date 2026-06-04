@@ -64,33 +64,26 @@ Check the list of accepted papers for RSS 2026.
 
 <table id="myTable">
   <tr class="toprowHeader">
-    <!--
     <th>ID</th>
-    -->
     <th>Session</th>
     <th>Title</th>
     <th>Authors</th>
   </tr>
- {% for paper in site.data.RSS2026PapersVsSessions %}
- <tr session="{{ paper.Session }}">
-    <!--
-    <td width="5%" height="100px">{{ forloop.index }}</td>
-    -->
-    <td width="15%" height="100px"><span style="font-size: smaller;">{{ paper.Session }}</span></td>
+ {% for paper in site.data.RSS2026CameraReadyInfo %}
+ <tr session="{{ paper.SessionName }}">
+    <td width="5%" height="100px">{{ paper.PaperID }}</td>
+    <td width="15%" height="100px"><span style="font-size: smaller;">{{ paper.CleanSessionName }}</span></td>
     <!-- <td width="40%" height="100px"><a href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes }}/"><b>{{ paper.PaperTitle }}</b></a></td> -->
     <!-- <td width="40%" height="100px"><b>{{ paper.PaperTitle }}</b></td> -->
     <td width="40%" height="100px">
-      <!--
-      <a href="{{ site.baseurl }}/program/papers/{{ forloop.index }}/">
-        <b>{{ paper.Title }}</b>
+      <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperID }}/">
+        <b>{{ paper.PaperTitle }}</b>
       </a>
-      -->
-      <b>{{ paper.Title }}</b>
     </td>
     <td width="40%" height="100px">
-      {{ paper.Authors | replace: ';', ',' | truncatewords: 40, "&nbsp;<button type='button' class='collapsible' style='border:none;background:none;font-size:smaller;color:#222299;'>...more&gt;</button>" }}
+      {{ paper.AuthorNames | replace: ';', ',' | truncatewords: 40, "&nbsp;<button type='button' class='collapsible' style='border:none;background:none;font-size:smaller;color:#222299;'>...more&gt;</button>" }}
       <div class="content" style="display:none; padding-top:20px;">
-        {{ paper.Authors | replace: ';', ',' }}
+        {{ paper.AuthorNames | replace: ';', ',' }}
       </div>
     </td>
   </tr>
