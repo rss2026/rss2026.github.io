@@ -1,4 +1,4 @@
-Session,Paper #,Title,Keywords,Authors,Abstract,Forum URL
+Session,PaperOldId,Title,Keywords,Authors,Abstract,Forum URL
 Control & Dynamics,191,FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control,Robot Learning: Reinforcement Learning,"Donghu Kim, Youngdo Lee, Minho Park, Kinam Kim, Takuma Seno, I Made Aswin Nahrendra, Sehee Min, Daniel Palenicek, Florian Vogt, Danica Kragic, Jan Peters, Jaegul Choo, Hojoon Lee","Simulation-based reinforcement learning (RL) is central for robotic control when expert demonstrations are unavailable.
 However, scaling RL to high-dimensional robots remains challenging.
 On-policy methods such as PPO are reliable but require large amounts of simulation because they discard past data. Off-policy methods can reuse experience and are more sample-efficient, but they often become unstable in high-dimensional control due to critic errors that are amplified during bootstrapped updates.
