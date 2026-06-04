@@ -74,9 +74,9 @@ Check the list of accepted papers for RSS 2026.
  {% for paper in site.data.RSS2026PapersVsSessions %}
  <tr session="{{ paper.Session }}">
     <!--
-    <td width="5%" height="100px">{{ forloop.index }}</td>
+    <td width="4%" height="100px">{{ forloop.index }}</td>
     -->
-    <td width="15%" height="100px"><span style="font-size: smaller;">{{ paper.Session }}</span></td>
+    <td width="16%" height="100px"><span style="font-size: smaller;">{{ paper.Session }}</span></td>
     <!-- <td width="40%" height="100px"><a href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes }}/"><b>{{ paper.PaperTitle }}</b></a></td> -->
     <!-- <td width="40%" height="100px"><b>{{ paper.PaperTitle }}</b></td> -->
     <td width="40%" height="100px">
