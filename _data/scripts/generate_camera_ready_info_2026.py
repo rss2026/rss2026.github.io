@@ -455,7 +455,8 @@ if os.path.exists(output_dir):
 else:
     os.makedirs(output_dir)
 
-camera_ready_sorted = camera_ready_df.sort_values(by=["PaperID"]).reset_index(drop=True)
+#camera_ready_sorted = camera_ready_df.sort_values(by=["PaperID"]).reset_index(drop=True)
+camera_ready_sorted = camera_ready_df
 
 #generate the .md files
 for i, row in camera_ready_sorted.iterrows():
