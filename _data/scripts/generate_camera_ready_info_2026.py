@@ -5,16 +5,13 @@ This script generates the following:
 authors, ids, sessions, etc... based on the google sheets for the list of
 papers and the program schedule (as the session names are matched with the
 ones listed in the program schedule)
-2) the .json for the "Demos" page that contains the demo titles, authors,
-ids, etc...
-3) the .md files for the individual paper pages.
-4) the camera ready integration .csv
+2) the .md files for the individual paper pages.
+3) the camera ready integration .csv
 
 Note, the abstracts are modified to fix issues with formatting due to latex
 commands included in the abstracts from the openreview data.
 
 TODO:(jared):
-- generate demo pages
 - add data for dates/times for poster sessions
 """
 import pandas as pd
@@ -368,42 +365,6 @@ print(camera_ready_df.head())
 #save
 camera_ready_df.to_csv(output_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
 print(f"\nSaved to {output_path}")
-
-#######################
-#      DEMOS PAGE
-#######################
-#we can just reuse the accepted papers list (but find the indices
-#based on the rows where paper type == "demo")
-demo_df = df[df["Paper type"].str.lower().str.strip() == "demo"].copy()
-
-#manually add specific papers by paper id
-manual_demo_ids = [93, 129]
-manual_demos = df[df["PaperID"].astype(int).isin(manual_demo_ids)]
-demo_df = pd.concat([demo_df, manual_demos]).drop_duplicates(subset=["PaperID"])
-
-demo_json = []
-# for idx, row in enumerate(demo_df.itertuples(index=False), start=1):
-for _, row in demo_df.iterrows():
-    paper_id = int(row["PaperID"])
-    demo_json.append({
-        "papernumber": paper_id,
-        "papertitle": row.Title,
-        "authors": row.Authors,
-        "link": f"/program/papers/{paper_id}/",
-        "demoday": "",
-        "demolocation": "",
-        "time": ""
-    })
-
-demo_json = sorted(demo_json, key=lambda x: x["papernumber"])
-
-# with open("../demos.json", "w") as f:
-#     import json
-#     json.dump(demo_json, f, indent=2, ensure_ascii=False)
-
-# print("Saved to ../demos.json")
-
-print('Warning skipping generating demos.json due to manualy changes in .md files')
 
 ############################
 #       PAPER PAGES
