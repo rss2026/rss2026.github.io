@@ -67,7 +67,7 @@ published: true
     <th>Title</th>
     <th>Authors</th>
   </tr>
- {% for paper in site.data.rss2025CameraReadyInfo %}
+ {% for paper in site.data.RSS2026PapersVsSessions %}
  <tr session="{{ paper.SessionName }}">
     <td width="5%" height="100px">{{paper.OrderinSession }}</td>
     <!-- comment this for now to disable paper links -->
@@ -76,12 +76,12 @@ published: true
     <!-- <td width="45%" height="100px"><b>{{ paper.PaperTitle }}</b></td> -->
     <td width="45%" height="100px">
       <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperID }}/">
-        <b>{{ paper.PaperTitle }}</b>
+        <b>{{ paper.Title }}</b>
       </a>
     </td>
-    <td width="40%" height="100px">{{ paper.AuthorNames | replace: ';', ',' | truncatewords: 40, "&nbsp;<button type='button' class='collapsible' style='border:none;background:none;font-size:smaller;color:#222299;'>...more&gt;</button>"}}
+    <td width="40%" height="100px">{{ paper.Authors | replace: ';', ',' | truncatewords: 40, "&nbsp;<button type='button' class='collapsible' style='border:none;background:none;font-size:smaller;color:#222299;'>...more&gt;</button>"}}
       <div class="content" style="display:none; padding-top:20px;">
-        {{ paper.AuthorNames | replace: ';', ','}}
+        {{ paper.Authors | replace: ';', ','}}
       </div>
     </td>
   </tr>
@@ -164,7 +164,7 @@ for (i = 0; i < coll.length; i++) {
 <!-- Script #1 to populate back/session/next buttons at top -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const sessions = {{ site.data.rss2025PaperSessions | jsonify }};
+  const sessions = {{ site.data.RSS2026SessionsHackyTime | jsonify }};
   const params = new URLSearchParams(window.location.search);
   const currentSessionName = decodeURIComponent(params.get("session"));
   const navTop = document.getElementById("mini-session-navbar");
@@ -214,7 +214,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <!-- Script #2 to populate back/session/next buttons at bottom -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const sessions = {{ site.data.rss2025PaperSessions | jsonify }};
+  const sessions = {{ site.data.RSS2026SessionsHackyTime | jsonify }};
   const params = new URLSearchParams(window.location.search);
   const currentSessionName = decodeURIComponent(params.get("session"));
   const container = document.getElementById("session-menu-inner");
