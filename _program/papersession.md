@@ -63,13 +63,18 @@ published: true
 
 <table id="myTable">
   <tr class="toprowHeader">
-    <th>Order In Session</th>
+    <!-- <th>Order In Session</th> -->
     <th>Title</th>
     <th>Authors</th>
   </tr>
  {% for paper in site.data.RSS2026PapersVsSessions %}
- <tr session="{{ paper.SessionName }}">
+ <tr session="{{ paper.Session }}">
+    <!--
     <td width="5%" height="100px">{{paper.OrderinSession }}</td>
+    -->
+    <!--
+    <td width="5%" height="100px">-1</td>
+    -->
     <!-- comment this for now to disable paper links -->
     <!-- <td width="45%" height="100px" ><a href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
 }}/"><b>{{paper.PaperTitle}}</b></a></td> -->
