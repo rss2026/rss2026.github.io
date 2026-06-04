@@ -403,6 +403,7 @@ print(f"\nSaved to {output_path}")
 ############################
 #       PAPER PAGES
 ############################
+"""
 morning_str = "Poster Session"
 afternoon_str = "Poster Session"
 poster_session_days = {
@@ -441,6 +442,7 @@ poster_session_info = {
     "16": poster_session_days["day4morn"], # Manipulation III
     "17": poster_session_days["day4after"],# Imitation Learning II
 }
+"""
 
 #output directory for paper .md files
 output_dir = "../../_program/papers"
@@ -473,7 +475,8 @@ for i, row in camera_ready_sorted.iterrows():
 
     #posters session info (hard coded above)
     session_num = str(row.SessionNum)
-    poster_line = poster_session_info.get(str(row.SessionNum))
+    #poster_line = poster_session_info.get(str(row.SessionNum))
+    poster_line = "Poster session details TBA"
 
     # Navigation links
     prev_link = ""
