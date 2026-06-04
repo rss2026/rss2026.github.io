@@ -2,21 +2,21 @@ Session,Length (min),Papers,Date,StartTime,EndTime,SessionName,Rationale
 1,45,9,July 13,14:30,15:15,Manipulation 1,
 2,45,9,July 13,15:15,16:00,World Models & Memory,
 3,60,13,July 13,17:30,18:30,Humanoids,before Unitree Poster Session
-4,60,13,July 14,9:00,10:00,Multi-robot systems,
+4,60,13,July 14,9:00,10:00,Multi-robot Systems,
 5,40,9,July 14,11:00,11:40,Localization & Mapping,
 6,40,9,July 14,11:50,12:30,Manipulation 2,
 7,45,9,July 14,14:00,14:45,Navigation 1,
 8,45,9,July 14,15:15,16:00,Imitation learning 1,
 9,40,9,July 14,17:00,17:40,VLA Models,follows Spirit AI
-10,40,9,July 14,17:50,18:30,Datasets and Benchmarking,follows SHARPA
-11,60,13,July 15,9:00,10:00,Control and Dynamics,"connects to RL (Pulkit, while still contrasting with the EC talk)"
+10,40,9,July 14,17:50,18:30,Datasets and Benchmarks,follows SHARPA
+11,60,13,July 15,9:00,10:00,Control & Dynamics,"connects to RL (Pulkit, while still contrasting with the EC talk)"
 12,40,9,July 15,11:00,11:40,HRI,
 13,40,9,July 15,11:50,12:30,Manipulation 3,
 14,45,9,July 15,14:00,14:45,Navigation 2,
 15,45,9,July 15,15:15,16:00,Imitation learning 2,
 16,40,9,July 15,17:00,17:40,RL,
-17,40,9,July 15,17:50,18:30,Modeling & Optimization,
-18,60,13,July 16,9:00,10:00,Perception & Estimation,
+17,40,9,July 15,17:50,18:30,Modeling and Optimization,
+18,60,13,July 16,9:00,10:00,Perception and Estimation,
 19,60,13,July 16,11:00,12:00,Planning,
 20,45,9,July 16,14:30,15:15,Robot & Sensor Design,
 21,45,10,July 16,15:15,16:00,Imitation learning 3,
