@@ -3,8 +3,8 @@ layout: default
 title: Paper Sessions
 description: Paper Sessions
 priority: 11
-invisible: true
-published: true
+invisible: false
+published: false
 ---
 
 <div class="page" id="inner-content">
