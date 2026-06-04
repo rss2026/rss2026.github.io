@@ -198,7 +198,7 @@ def normalize_author_names(authors_str):
 
 #filepaths
 paper_path = "../RSS2026PapersVsSessions.csv"
-program_path = "../RSS2026SessionsHackyTime.csv"
+sessions_path = "../RSS2026SessionsHackyTime.csv"
 output_path = "../RSS2026CameraReadyInfo.csv"
 
 ################################
@@ -206,7 +206,28 @@ output_path = "../RSS2026CameraReadyInfo.csv"
 ################################
 #load csv papers (from google sheet)
 df = pd.read_csv(paper_path, encoding="utf-8")
-df_program = pd.read_csv(program_path, encoding="utf-8")
+#df_sessions = pd.read_csv(sessions_path, encoding="utf-8")
+df_sessions = pd.read_csv(sessions_path)
+
+
+def normalize_title(title):
+    title = title.replace("&", "and").lower()
+
+    # normalize name ambiguity
+    title = title.replace("benchmarking", "benchmarks").lower()
+
+    return title.strip()
+
+#lookup table of normalized session, e.g., (date, time)
+session_num_lookup = {}
+session_duration_lookup = {}
+for _, row in df_sessions.iterrows():
+    number = int(row["Session"])
+    name = normalize_title(row["SessionName"])
+    duration = int(row["Length (min)"])
+    print("name", name, "number", number, "duration", duration)
+    session_num_lookup[name] = number
+    session_duration_lookup[name] = duration
 
 #load csv papers (from openreview data), we create a mapping here to use
 #titles and abtracts from the openreview data
@@ -269,29 +290,38 @@ def load_and_validate_updated_abstracts(updated_csv, openreview_csv):
 
     return title_map, abstract_map
 
+"""
 title_map, abstract_map = load_and_validate_updated_abstracts(
     "../rss2025_updated_abstracts.csv",
     "../openreview_data_2025.csv",
 )
+"""
 
-df = df.drop_duplicates(subset=["Paper No"])
+df = df.drop_duplicates(subset=["PaperOldId"])
 
 def extract_session_number(session_str):
     match = re.match(r"(\d+)", str(session_str))
     return int(match.group(1)) if match else None
 
-df["SessionNum"] = df["Session Name"].apply(extract_session_number)
-df = df.dropna(subset=["SessionNum", "Order"])
+df["SessionNum"] = df["Session"].apply(lambda x: session_num_lookup[normalize_title(x)])
 df["SessionNum"] = df["SessionNum"].astype(int)
-df["Order"] = df["Order"].astype(int)
-df["Title"] = df["Paper No"].map(title_map).fillna(df["Title"])
+
+# Nominally order via same order on input sheet
+# Later, we will produce canonical ID and ordering by sorting by session order
+#df["NominalOrder"] = range(1,len(df)+1)
+df["NominalOrder"] = df.index+1
+
+"""
+df["Title"] = df["PaperOldId"].map(title_map).fillna(df["Title"])
 
 #apply paper title changes
 df["Title"] = df.apply(
-    lambda row: manual_title_overrides.get(row["Paper No"], row["Title"]),
+    lambda row: manual_title_overrides.get(row["PaperOldId"], row["Title"]),
     axis=1
 )
+"""
 
+"""
 #session name from program
 program_long = []
 time_slots = df_program["Unnamed: 0"].fillna("").tolist()
@@ -315,18 +345,21 @@ for date_col in df_program.columns[1:-1]:
             "Number": number,
             "Title": re.sub(r"^\d+\s*[.-]\s*", "", title_raw).strip()
         })
+"""
 
-df_program_sessions = pd.DataFrame(program_long).drop_duplicates("Number")
-df_program_sessions["SessionName"] = df_program_sessions["Number"].astype(str) + ". " + df_program_sessions["Title"]
+#df_program_sessions = pd.DataFrame(program_long).drop_duplicates("Number")
+#df_program_sessions["SessionName"] = df_program_sessions["Number"].astype(str) + ". " + df_program_sessions["Title"]
 
 #build map from number to canonical title
-canonical_session_map = df_program_sessions.set_index("Number")["SessionName"].to_dict()
-canonical_session_title_map = df_program_sessions.set_index("Number")["Title"].to_dict()
+#canonical_session_map = df_program_sessions.set_index("Number")["SessionName"].to_dict()
+#canonical_session_title_map = df_program_sessions.set_index("Number")["Title"].to_dict()
+canonical_session_map = df_sessions.set_index("Session")["SessionName"].to_dict()
+canonical_session_title_map = df_sessions.set_index("Session")["SessionName"].to_dict()
 
 #assign canonical names to papers
 # df["PaperID"] = df.apply(lambda row: f"S{row['SessionNum']}.{row['OrderinSession']}", axis=1)
 # df = df.sort_values(by=["SessionNum", "OrderinSession"]).reset_index(drop=True)
-df = df.sort_values(by=["SessionNum", "Order"]).reset_index(drop=True)
+df = df.sort_values(by=["SessionNum", "NominalOrder"]).reset_index(drop=True)
 df["PaperID"] = df.index + 1
 df["PaperID"] = df["PaperID"].apply(lambda x: f"{x}")
 
@@ -349,9 +382,10 @@ camera_ready_df = pd.DataFrame({
     "CleanSessionName": df["CleanSessionName"],
     "SessionName": df["SessionNum"].map(canonical_session_map),
     # "OrderinSession": df["OrderinSession"],
-    "OrderinSession": df["Order"],
+    #"OrderinSession": df["Order"],
     "SessionNum": df["SessionNum"],
-    "OriginalPaperID": df["Paper No"],
+    "OriginalPaperID": df["PaperOldId"],
+    "Abstract": df["Abstract"]
 })
 
 #debug print
@@ -419,28 +453,21 @@ if os.path.exists(output_dir):
 else:
     os.makedirs(output_dir)
 
-#add original paper number for use in PDF link
-#we may change this later
-camera_ready_df["OriginalPaperNo"] = df["Paper No"]
-
-
-camera_ready_sorted = camera_ready_df.sort_values(by=["SessionNum", "OrderinSession"]).reset_index(drop=True)
+camera_ready_sorted = camera_ready_df.sort_values(by=["PaperID"]).reset_index(drop=True)
 
 #generate the .md files
 for i, row in camera_ready_sorted.iterrows():
     paper_id = row.PaperID
-    paper_number = int(row.OriginalPaperNo)
-    paper_number_str = f"{paper_number:03d}"
+    original_paper_number = int(row.OriginalPaperID)
     filename = f"{paper_id}.md"
     # filename = f"{int(paper_id):03d}.md"
     filepath = os.path.join(output_dir, filename)
-    # pdf_url = f"https://www.roboticsproceedings.org/rss21/p{paper_number_str}.pdf"
     pdf_url = f"https://www.roboticsproceedings.org/rss21/p{int(paper_id):03d}.pdf"
 
     #we replace common latex symbols and macros with html, and we retain the
     #paragraph formatting as provided in the openreview data (e.g., a blank
     #space between lines represents a paragraph break followed by an indent)
-    raw_abstract = abstract_map.get(paper_number, "Abstract not available.")
+    raw_abstract = row.Abstract
     abstract_text = convert_latex_to_html(raw_abstract).replace("\n\n", "<br>&nbsp;&nbsp;&nbsp;&nbsp;").replace("\n", " ")
     # abstract_text = convert_latex_to_html(raw_abstract).replace("\n", " ").strip()
 
@@ -544,7 +571,8 @@ def first_author_last_plus_initial(authors_str: str) -> str:
     return f"{last}{initial}"
 
 # HTML-formatted abstracts (same transform used for .md files)
-camera_ready_df["AbstractHTML"] = camera_ready_df["OriginalPaperNo"].map(abstract_map)
+#camera_ready_df["AbstractHTML"] = camera_ready_df["OriginalPaperID"].map(abstract_map)
+camera_ready_df["AbstractHTML"] = camera_ready_df["Abstract"]
 camera_ready_df["AbstractHTML"] = camera_ready_df["AbstractHTML"].apply(
     lambda x: convert_latex_to_html(x).replace("\n\n", "<br>&nbsp;&nbsp;&nbsp;&nbsp;").replace("\n", " ").strip()
 )
