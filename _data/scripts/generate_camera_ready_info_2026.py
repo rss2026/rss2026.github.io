@@ -462,7 +462,7 @@ for i, row in camera_ready_sorted.iterrows():
     filename = f"{paper_id}.md"
     # filename = f"{int(paper_id):03d}.md"
     filepath = os.path.join(output_dir, filename)
-    pdf_url = f"https://www.roboticsproceedings.org/rss21/p{int(paper_id):03d}.pdf"
+    pdf_url = f"https://www.roboticsproceedings.org/rss22/p{int(paper_id):03d}.pdf"
 
     #we replace common latex symbols and macros with html, and we retain the
     #paragraph formatting as provided in the openreview data (e.g., a blank
