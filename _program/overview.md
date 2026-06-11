@@ -265,18 +265,8 @@ published: true
               Welcome to Country<br>
               P.C. Opening Remarks
               </td>
-              <td rowspan="4" class="session-block">
-              Navigation 1<br><br>
-              Early Career Spotlight<br>
-              <a href="https://marco-tognon-robotics.com/">Marco Tognon</a> (Inria)<br><br>
-              Imitation learning 1
-              </td>
-              <td rowspan="4" class="session-block">
-              Navigation 2<br><br>
-              <a href="{{ site.baseurl }}/program/testoftimeaward/">Test of Time Award</a><br>
-              Deimel and Brock, RSS 2014<br><br>
-              Imitation learning 2
-              </td>
+              <td rowspan="2" class="session-block">Navigation 1</td>
+              <td rowspan="2" class="session-block">Navigation 2</td>
               <td rowspan="8" class="workshop-block">
               <a class="block-link" href="{{ site.baseurl }}/program/workshops/">Workshops</a>
               </td>
@@ -296,10 +286,20 @@ published: true
        <!-- Row 14: 3:00 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">3:00PM</td>
+              <td rowspan="1" class="keynote-block">
+              Early Career Spotlight<br>
+              <a href="https://marco-tognon-robotics.com/">Marco Tognon</a> (Inria)
+              </td>
+              <td rowspan="1" class="keynote-block">
+              <a href="{{ site.baseurl }}/program/testoftimeaward/">Test of Time Award</a><br>
+              Deimel and Brock, RSS 2014
+              </td>
        </tr>
        <!-- Row 15: 3:30 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">3:30PM</td>
+              <td rowspan="1" class="session-block">Imitation learning 1</td>
+              <td rowspan="1" class="session-block">Imitation learning 2</td>
        </tr>
        <!-- Row 16: 4:00 PM -->
        <tr>
