@@ -101,7 +101,7 @@ ocial Program
 ### News and Updates
 
 - **Registration:**
-[Standard registration]({{ site.baseurl }}/attending/registration/) is open through June 14.
+[Standard registration]({{ site.baseurl }}/attending/registration/) is now open through June 22.
 Early bird registration is closed
 - **Program:** The [preliminary program]({{ site.baseurl }}/program/overview/) is posted
 
