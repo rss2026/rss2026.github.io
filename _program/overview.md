@@ -207,7 +207,7 @@ published: true
               Manipulation 2
               </td>
               <td rowspan="3" class="session-block">
-              HRI<br><br>
+              Human-Robot Interaction<br><br>
               Platinum Sponsor Address<br>Toyota Research Institute<br><br>
               Manipulation 3
               </td>
@@ -332,12 +332,12 @@ published: true
        <tr>
               <td style="background-color: #E2F0D950;">5:00PM</td>
               <td rowspan="3" class="session-block">
-              VLA Models<br><br>
+              Vision-Language Action Models<br><br>
               Platinum Sponsor Address<br>Sharpa<br><br>
               Datasets and Benchmarks
               </td>
               <td rowspan="3" class="session-block">
-              RL<br><br>
+              Reinforcement Learning<br><br>
               Platinum Sponsor Address<br>Spirit AI<br><br>
               Modeling and Optimization
               </td>
@@ -352,7 +352,7 @@ published: true
        <!-- Row 20: 6:00 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">6:00PM</td>
-              <td rowspan="1" class="event-block">Walk to banquet</td>
+              <td rowspan="1" class="no-meal-block">Walk to banquet</td>
               <td rowspan="9" style="box-shadow: none;"></td>
        </tr>
        <!-- Row 21: 6:30 PM -->

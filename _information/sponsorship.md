@@ -108,6 +108,12 @@ published: true
   <a href="https://www.anduril.com/" class="sponsor-card">
     <img alt="Anduril" src="{{ site.baseurl }}/images/sponsors_2026/Anduril_Horizontal.svg" />
   </a>
+  <a href="https://www.robbyant.com/" class="sponsor-card">
+    <img alt="Robbyant" src="{{ site.baseurl }}/images/sponsors_2026/Robbyant.png" />
+  </a>
+  <a href="https://www.unitree.com/" class="sponsor-card">
+    <img alt="Unitree Robotics" src="{{ site.baseurl }}/images/sponsors_2026/Unitree.png" />
+  </a>
 </div>
 
 ### Silver Sponsors
@@ -119,6 +125,9 @@ published: true
   <a href="https://www.booster.tech/" class="sponsor-card">
     <img alt="Booster Robotics" src="{{ site.baseurl }}/images/sponsors_2026/Booster_Robotics.png" />
   </a>
+  <a href="https://noitomrobotics.com/" class="sponsor-card">
+    <img alt="Noitom Robotics" src="{{ site.baseurl }}/images/sponsors_2026/Noitom_Robotics.png" />
+  </a>
 </div>
 
 ### Bronze Sponsors
@@ -126,6 +135,9 @@ published: true
 <div class="sponsor-grid">
   <a href="https://rai-inst.com/" class="sponsor-card">
     <img alt="RAI" src="{{ site.baseurl }}/images/sponsors_2026/rai.png" />
+  </a>
+  <a href="https://www.seeedstudio.com/" class="sponsor-card">
+    <img alt="Seeed Studio" src="{{ site.baseurl }}/images/sponsors_2026/Seeed_Studio.png" />
   </a>
 </div>
 
