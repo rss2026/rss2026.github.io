@@ -139,6 +139,9 @@ published: true
   <a href="https://www.seeedstudio.com/" class="sponsor-card">
     <img alt="Seeed Studio" src="{{ site.baseurl }}/images/sponsors_2026/Seeed_Studio.png" />
   </a>
+  <a href="https://global.agilex.ai/" class="sponsor-card">
+    <img alt="AgileX Robotics" src="{{ site.baseurl }}/images/sponsors_2026/AgileX_Robotics.png" />
+  </a>
 </div>
 
 ### RSS Sponsors

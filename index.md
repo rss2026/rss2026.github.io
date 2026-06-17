@@ -217,7 +217,7 @@ RSS has a long history of bringing together researchers in all areas of robotics
 
 <p class="img-container" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/rss2026_uts1.jpg" alt="University of Technology Sydney venue" class="img-responsive img-same-height" />
-  <img src="{{ site.baseurl }}/images/rss2026_uts2.jpg" alt="University of Technology Sydney venue" class="img-responsive img-same-height" />
+  <img src="{{ site.baseurl }}/images/rss2026_icc.jpg" alt="International Convention Centre (ICC) Sydney venue" class="img-responsive img-same-height" />
 </p>
 
 <br/>
@@ -265,6 +265,9 @@ RSS has a long history of bringing together researchers in all areas of robotics
   </a>
   <a href="https://www.seeedstudio.com/" class="sponsor-card sponsor-card-bronze">
     <img alt="Seeed Studio" src="{{ site.baseurl }}/images/sponsors_2026/Seeed_Studio.png" />
+  </a>
+  <a href="https://global.agilex.ai/" class="sponsor-card sponsor-card-bronze">
+    <img alt="AgileX Robotics" src="{{ site.baseurl }}/images/sponsors_2026/AgileX_Robotics.png" />
   </a>
   <a href="https://www.besydney.com.au/" class="sponsor-card sponsor-card-rss">
     <img alt="Business Events Sydney" src="{{ site.baseurl }}/images/sponsors_2026/besydney-blue-logo-rgb.png" />

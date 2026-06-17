@@ -194,6 +194,22 @@ published: true
   </table>
         
   <br>
+
+  <b>Presentation Chairs</b><br>
+  <table style="margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://schmluk.github.io/">Lukas Schmid</a><br>
+        <i>University of Technology Nuremberg, Germany</i><br>
+      </td>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://www.qut.edu.au/about/our-people/academic-profiles/sg.raine">Scarlett Raine</a><br>
+        <i>Queensland University of Technology, Australia</i><br>
+      </td>
+    </tr>
+  </table>
+
+  <br>
   <p><i>Additional Organizing Committee members will be announced soon.</i></p>
 
   </div>
