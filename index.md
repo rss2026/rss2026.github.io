@@ -14,6 +14,10 @@ title: Home
 <h1 class="page-title">{{ site.title }}<br>
 July 13&ndash;17, 2026<br>Sydney, Australia</h1>
 
+<div style="margin-top: 20px; background-color: #ffcc00; padding: 12px 10px; text-align: center; font-weight: bold; font-size: 18px; line-height: 1.3;">
+  Announcing the RSS 2026 <a href="{{ site.baseurl }}/program/keynotes-spotlights/" style="color: #0000EE; text-decoration: underline;">Keynotes &amp; Early Career Spotlights</a>!
+</div>
+
 
 <!-- recording -->
 <!-- <div class="rss-hero">
@@ -100,6 +104,7 @@ ocial Program
 
 ### News and Updates
 
+- **Keynotes &amp; Early Career Spotlights:** The [speaker lineup and abstracts]({{ site.baseurl }}/program/keynotes-spotlights/) are now online.
 - **Registration:**
 [Standard registration]({{ site.baseurl }}/attending/registration/) is now open through June 22.
 Early bird registration is closed

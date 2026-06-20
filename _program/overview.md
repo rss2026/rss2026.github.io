@@ -188,7 +188,7 @@ published: true
               </td>
               <td rowspan="1" class="event-block">
               Early Career Spotlight<br>
-              <a href="https://robotics.illinois.edu/people/wenzhen-yuan/">Wenzhen Yuan</a> (UIUC)
+              <a href="https://siebelschool.illinois.edu/about/people/all-faculty/yuanwz">Wenzhen Yuan</a> (UIUC)
               </td>
        </tr>
        <!-- Row 5: 10:30 AM -->
