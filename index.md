@@ -270,6 +270,9 @@ RSS has a long history of bringing together researchers in all areas of robotics
   <a href="https://global.agilex.ai/" class="sponsor-card sponsor-card-bronze">
     <img alt="AgileX Robotics" src="{{ site.baseurl }}/images/sponsors_2026/AgileX_Robotics.png" />
   </a>
+  <a href="https://deepmind.google/" class="sponsor-card sponsor-card-silver"> <!-- bronze just looks too small -->
+    <img alt="Google DeepMind" src="{{ site.baseurl }}/images/sponsors_2026/Google_DeepMind_Logo_rgb.png" />
+  </a>
   <a href="https://www.besydney.com.au/" class="sponsor-card sponsor-card-rss">
     <img alt="Business Events Sydney" src="{{ site.baseurl }}/images/sponsors_2026/besydney-blue-logo-rgb.png" />
   </a>
