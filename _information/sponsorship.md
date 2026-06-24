@@ -142,6 +142,9 @@ published: true
   <a href="https://global.agilex.ai/" class="sponsor-card">
     <img alt="AgileX Robotics" src="{{ site.baseurl }}/images/sponsors_2026/AgileX_Robotics.png" />
   </a>
+  <a href="https://deepmind.google/" class="sponsor-card">
+    <img alt="Google DeepMind" src="{{ site.baseurl }}/images/sponsors_2026/Google_DeepMind_Logo_rgb.png" />
+  </a>
 </div>
 
 ### RSS Sponsors

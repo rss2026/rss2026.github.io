@@ -100,10 +100,10 @@ ocial Program
 
 ### News and Updates
 
-- **Keynotes &amp; Early Career Spotlights:** The [speaker lineup and abstracts]({{ site.baseurl }}/program/keynotes-spotlights/) are now online.
 - **Registration:**
 [Standard registration]({{ site.baseurl }}/attending/registration/) is now open through July 10.
 Early bird registration is closed
+- **Keynotes &amp; Early Career Spotlights:** The [speaker lineup and abstracts]({{ site.baseurl }}/program/keynotes-spotlights/) are now online.
 - **Program:** The [preliminary program]({{ site.baseurl }}/program/overview/) is posted
 
 <!-- - Travel Information is available [here]({{ site.baseurl }}/attending/travel/).
@@ -199,7 +199,7 @@ RSS has a long history of bringing together researchers in all areas of robotics
         <td class="wrap"><a href="https://sites.google.com/view/rsspioneers2025/" target="_blank">RSS Pioneers</a> Notification of Acceptance</td>
       </tr> -->
       <tr>
-        <td>May 11, 2026</td>
+        <td><s>May 11, 2026</s></td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Final Camera Ready Paper Submission</td>
       </tr>
@@ -269,6 +269,9 @@ RSS has a long history of bringing together researchers in all areas of robotics
   </a>
   <a href="https://global.agilex.ai/" class="sponsor-card sponsor-card-bronze">
     <img alt="AgileX Robotics" src="{{ site.baseurl }}/images/sponsors_2026/AgileX_Robotics.png" />
+  </a>
+  <a href="https://deepmind.google/" class="sponsor-card sponsor-card-silver"> <!-- bronze just looks too small -->
+    <img alt="Google DeepMind" src="{{ site.baseurl }}/images/sponsors_2026/Google_DeepMind_Logo_rgb.png" />
   </a>
   <a href="https://www.besydney.com.au/" class="sponsor-card sponsor-card-rss">
     <img alt="Business Events Sydney" src="{{ site.baseurl }}/images/sponsors_2026/besydney-blue-logo-rgb.png" />

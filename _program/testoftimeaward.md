@@ -12,6 +12,7 @@ The RSS Test of Time Award is given to highest impact papers published at RSS (a
 With this award, RSS generally wants to foster the discussion of the long term development of our field. The award is an opportunity to reflect on and discuss the past, which is essential to make progress in the future. The awardee’s keynote is therefore complemented with a Test of Time Panel session devoted to this important discussion.
 
 
+<!--
 It is our great pleasure to announce that the 2025 Test of Time Award goes to:
 
 
@@ -26,3 +27,4 @@ It is our great pleasure to announce that the 2025 Test of Time Award goes to:
 
 
 Appraisal by Nikolay Atanasov (University of California, San Diego) and David Saldaña (Lehigh University).
+-->

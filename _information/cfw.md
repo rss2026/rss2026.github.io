@@ -4,7 +4,7 @@ title: Call for Workshops
 description: Request for Participation in Workshops
 invisible: false
 published: true
-priority: 12
+priority: 7
 ---
 
 
