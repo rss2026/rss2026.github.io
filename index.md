@@ -102,7 +102,7 @@ ocial Program
 
 - **Keynotes &amp; Early Career Spotlights:** The [speaker lineup and abstracts]({{ site.baseurl }}/program/keynotes-spotlights/) are now online.
 - **Registration:**
-[Standard registration]({{ site.baseurl }}/attending/registration/) is now open through June 22.
+[Standard registration]({{ site.baseurl }}/attending/registration/) is now open through July 10.
 Early bird registration is closed
 - **Program:** The [preliminary program]({{ site.baseurl }}/program/overview/) is posted
 
