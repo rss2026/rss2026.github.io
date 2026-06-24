@@ -121,7 +121,7 @@ A student is defined as a holder of a student identification card from a recogni
     </tr>
     <tr>
       <td style="padding: 10px 14px; border: 1px solid #ddd;">Standard Registration Closes</td>
-      <td style="padding: 10px 14px; border: 1px solid #ddd;">22 June 2026</td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">10 July 2026</td>
     </tr>
     <tr style="background-color:#f9f9f9;">
       <td style="padding: 10px 14px; border: 1px solid #ddd;">Late / Onsite Registration Opens</td>
