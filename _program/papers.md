@@ -54,7 +54,7 @@ published: true
 </style>
 
 <!-- The overview of the conference program is available <a href="{{ site.baseurl }}/program/overview/"><strong>[here]</strong></a>. Please refer to the conference program for additional information. Check the list of paper sessions <a href="{{ site.baseurl }}/program/allsessions/"><strong>[here]</strong></a>. -->
-Check the list of accepted papers for RSS 2025.
+Check the list of accepted papers for RSS 2026.
 
 <hr>
 
@@ -69,7 +69,7 @@ Check the list of accepted papers for RSS 2025.
     <th>Title</th>
     <th>Authors</th>
   </tr>
- {% for paper in site.data.rss2025CameraReadyInfo %}
+ {% for paper in site.data.RSS2026CameraReadyInfo %}
  <tr session="{{ paper.SessionName }}">
     <td width="5%" height="100px">{{ paper.PaperID }}</td>
     <td width="15%" height="100px"><span style="font-size: smaller;">{{ paper.CleanSessionName }}</span></td>

@@ -4,9 +4,9 @@ title: Paper Sessions
 description: List of Paper Sessions.
 priority: 11
 invisible: false
-published: false
+published: true
 ---
-  
+
 <style>
 * {
   box-sizing: border-box;
@@ -50,13 +50,16 @@ For information about the location of the sessions check out the [venue page]({{
     <th >Time</th>
     <th >Session Name and Chairs</th>
   </tr>
- {% for session in site.data.rss2025PaperSessions %}
+ {% for session in site.data.RSS2026SessionsHackyTime %}
   <tr session="{{ session.SessionName }}" style="border-bottom: none;">
     <td>{{ session.Date }}</td>
     <td>
+      <!--
       <a href="https://maps.app.goo.gl/gmsxcUqwNSfjsuHL8" target="_blank">Bovard Auditorium</a>
+      -->
+      Location TBA
     </td>
-    <td>{{ session.Time }}</td>
+    <td>{{ session.StartTime }} - {{ session.EndTime }}</td>
     <td>
       <a href="{{ site.baseurl }}/program/papersession?session={{ session.SessionName | url_encode }}">
       {{ session.SessionName }}
@@ -70,7 +73,7 @@ For information about the location of the sessions check out the [venue page]({{
     <td style="padding-top: 0px; font-size: smaller;">{{ session.C1 }}<br> <i>{{ session.C1A }}</i></td>
     <td style="padding-top: 0px; font-size: smaller;">{{ session.C2 }}<br> <i>{{ session.C2A }}</i></td>
   </tr>
-  
+
 {% endfor %}
 </table>
 

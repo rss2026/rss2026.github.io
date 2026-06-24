@@ -29,7 +29,7 @@ With strong year-round demand, securing quality accommodation at competitive rat
 
 ## Hotel Selection
 
-The rates below are available **only to registered RSS 2026 delegates**. All rooms and rates below are held until **26 May 2026** or until sold out. Rooms are available on a first-come, first-served basis, so we recommend booking early to avoid disappointment. If you require accommodation outside the official accommodation dates **(11–18 July 2026)**, please contact the [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com).
+The rates below are available **only to registered RSS 2026 delegates**. Hotel special rates have been **extended** and rooms below are now being held until **Thursday, 11 June 2026 at midnight (Sydney time)** or until sold out. Rooms are available on a first-come, first-served basis, so we recommend booking early to avoid disappointment. If you require accommodation outside the official accommodation dates **(11–18 July 2026)**, please contact the [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com).
 
 ---
 
@@ -248,19 +248,19 @@ Overlooking Darling Harbour, this modern upscale hotel next to the Sydney Intern
 
 ## Terms & Conditions
 
-**Accommodation Deadline: 26 May 2026**
+**Accommodation Deadline: 11 June 2026 (midnight Sydney time)**
 
 ### Cancellations
 
-**NO ACCOMMODATION PAYMENTS WILL BE REFUNDED ON OR AFTER 26 May 2026.** Delegates who confirm an accommodation booking with a credit card or full prepayment and who wish to cancel on or after 26 May 2026 are liable for the full cost of the cancelled accommodation nights. Credit card details or full pre-payments will be held on file as a guarantee of booking and shared with the hotel in case of no-shows or late cancellations. To cancel your reservation, please contact the [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com). Name changes to a reservation can be made at no charge.
+**NO ACCOMMODATION PAYMENTS WILL BE REFUNDED ON OR AFTER 11 June 2026.** Delegates who confirm an accommodation booking with a credit card or full prepayment and who wish to cancel on or after 11 June 2026 are liable for the full cost of the cancelled accommodation nights. Credit card details or full pre-payments will be held on file as a guarantee of booking and shared with the hotel in case of no-shows or late cancellations. To cancel your reservation, please contact the [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com). Name changes to a reservation can be made at no charge.
 
 ### Deposits
 
-Accommodation will not be confirmed until payment for the first night is received by credit card, or full prepayment is received by cheque or electronic funds transfer. Your payment will be forwarded to your hotel and credited to your room account, and credit card details will be retained on file as a guarantee of booking. Delegates must settle the balance of their account with the hotel upon check-in/out, depending on the hotel's policy. If accommodation deposits are not received before **26 May 2026**, your room will be cancelled and released back to the hotel. The [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com) does not take responsibility for accommodation if payment is not received by this date.
+Accommodation will not be confirmed until payment for the first night is received by credit card, or full prepayment is received by cheque or electronic funds transfer. Your payment will be forwarded to your hotel and credited to your room account, and credit card details will be retained on file as a guarantee of booking. Delegates must settle the balance of their account with the hotel upon check-in/out, depending on the hotel's policy. If accommodation deposits are not received before **11 June 2026**, your room will be cancelled and released back to the hotel. The [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com) does not take responsibility for accommodation if payment is not received by this date.
 
 ### Change of Booking
 
-Any change in booking must be made in writing to the [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com) and **NOT** directly to the hotel before **26 May 2026**. Any changes received after 26 May 2026 will be at the hotel's discretion and subject to availability.
+Any change in booking must be made in writing to the [RSS 2026 Secretariat](mailto:rssconference.reg@gmail.com) and **NOT** directly to the hotel before **11 June 2026**. Any changes received after 11 June 2026 will be at the hotel's discretion and subject to availability.
 
 ### Early Arrival
 

@@ -8,6 +8,19 @@ published: true
 ---
 
 <style>
+.schedule {
+  width: calc(100% + 80px);
+  margin-left: 0;
+  font-size: 0.95em;
+}
+
+@media (max-width: 991px) {
+  .schedule {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+
 @media (max-width: 600px) {
   .schedule {
     display: table !important;
@@ -54,6 +67,21 @@ published: true
 
   .break-block {
     background-color: var(--modern-soft-gold);
+    color: var(--modern-charcoal);
+  }
+
+  .poster-block {
+    background-color: var(--modern-sky-blue);
+    color: var(--modern-charcoal);
+  }
+
+  .no-meal-block {
+    background-color: #ffffff;
+    color: var(--modern-charcoal);
+  }
+
+  .meal-block {
+    background-color: var(--modern-soft-orange);
     color: var(--modern-charcoal);
   }
 
@@ -116,12 +144,12 @@ published: true
 
 <table class="schedule" cellspacing="0" border="0">
        <tr>
-              <td style="width: 5em; border: none; background-color: #E2F0D9;"></td>
-              <td class="date-block" style="width: 19%;">July 13<br>Monday</td>
-              <td class="date-block" style="width: 19%;">July 14<br>Tuesday</td>
-              <td class="date-block" style="width: 19%;">July 15<br>Wednesday</td>
-              <td class="date-block" style="width: 19%;">July 16<br>Thursday</td>
-              <td class="date-block" style="width: 19%;">July 17<br>Friday</td>
+              <td style="width: 3em; border: none; background-color: #E2F0D9;"></td>
+              <td class="date-block" style="width: 19.4%;">July 13<br>Monday</td>
+              <td class="date-block" style="width: 19.4%;">July 14<br>Tuesday</td>
+              <td class="date-block" style="width: 19.4%;">July 15<br>Wednesday</td>
+              <td class="date-block" style="width: 19.4%;">July 16<br>Thursday</td>
+              <td class="date-block" style="width: 19.4%;">July 17<br>Friday</td>
        </tr>
        <!-- Row 1: 8:30 AM -->
        <tr>
@@ -139,9 +167,9 @@ published: true
        <!-- Row 2: 9:00 AM -->
        <tr>
               <td style="background-color: #E2F0D950;">9:00AM</td>
-              <td rowspan="2" class="session-block">Session 4</td>
-              <td rowspan="2" class="session-block">Session 11</td>
-              <td rowspan="2" class="session-block">Session 18</td>
+              <td rowspan="2" class="session-block">Multi-robot Systems</td>
+              <td rowspan="2" class="session-block">Control &amp; Dynamics</td>
+              <td rowspan="2" class="session-block">Perception and Estimation</td>
        </tr>
        <!-- Row 3: 9:30 AM -->
        <tr>
@@ -152,15 +180,15 @@ published: true
               <td style="background-color: #E2F0D950;">10:00AM</td>
               <td rowspan="1" class="event-block">
               Early Career Spotlight<br>
-              <a href="https://lihongyang.info/">Hongyang Li</a>
+              <a href="https://lihongyang.info/">Hongyang Li</a> (HKU)
               </td>
               <td rowspan="1" class="event-block">
               Early Career Spotlight<br>
-              <a href="https://people.csail.mit.edu/pulkitag/">Pulkit Agrawal</a>
+              <a href="https://people.csail.mit.edu/pulkitag/">Pulkit Agrawal</a> (MIT)
               </td>
               <td rowspan="1" class="event-block">
               Early Career Spotlight<br>
-              <a href="https://robotics.illinois.edu/people/wenzhen-yuan/">Wenzhen Yuan</a>
+              <a href="https://siebelschool.illinois.edu/about/people/all-faculty/yuanwz">Wenzhen Yuan</a> (UIUC)
               </td>
        </tr>
        <!-- Row 5: 10:30 AM -->
@@ -174,16 +202,16 @@ published: true
        <tr>
               <td style="background-color: #E2F0D950;">11:00AM</td>
               <td rowspan="3" class="session-block">
-              Session 5<br><br>
+              Localization &amp; Mapping<br><br>
               Platinum Sponsor Address<br>AGIBOT<br><br>
-              Session 6
+              Manipulation 2
               </td>
               <td rowspan="3" class="session-block">
-              Session 12<br><br>
+              Human-Robot Interaction<br><br>
               Platinum Sponsor Address<br>Toyota Research Institute<br><br>
-              Session 13
+              Manipulation 3
               </td>
-              <td rowspan="2" class="session-block">Session 19</td>
+              <td rowspan="2" class="session-block">Planning</td>
        </tr>
        <!-- Row 7: 11:30 AM -->
        <tr>
@@ -192,7 +220,7 @@ published: true
        <!-- Row 8: 12:00 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">12:00PM</td>
-              <td rowspan="3" class="break-block">
+              <td rowspan="3" class="poster-block">
               Poster Session<br><br>
               Lunch<br><br>
               Sponsor spotlight: Sharpa
@@ -201,22 +229,22 @@ published: true
        <!-- Row 9: 12:30 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">12:30PM</td>
-              <td rowspan="3" class="break-block">
+              <td rowspan="3" class="no-meal-block">
               Lunch (not provided)<br><br>
               Walk to ICC<br><br>
               Registration
               </td>
-              <td rowspan="3" class="break-block">
+              <td rowspan="3" class="poster-block">
               Poster Session<br><br>
               Lunch<br><br>
               Sponsor spotlight: AGIBOT
               </td>
-              <td rowspan="3" class="break-block">
+              <td rowspan="3" class="poster-block">
               Poster Session<br><br>
               Lunch<br><br>
               Sponsor spotlight: TRI
               </td>
-              <td rowspan="3" class="break-block">Lunch (not provided)</td>
+              <td rowspan="3" class="no-meal-block">Lunch (not provided)</td>
        </tr>
        <!-- Row 10: 1:00 PM -->
        <tr>
@@ -227,28 +255,18 @@ published: true
               <td style="background-color: #E2F0D950;">1:30PM</td>
               <td rowspan="2" class="keynote-block">
               Closing Keynote<br>
-              <a href="https://cs.stanford.edu/people/karenliu/Home.html">Karen Liu</a>
+              <a href="https://cs.stanford.edu/people/karenliu/Home.html">Karen Liu</a> (Stanford)
               </td>
        </tr>
        <!-- Row 12: 2:00 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">2:00PM</td>
-              <td rowspan="1" class="break-block">
+              <td rowspan="1" class="event-block">
               Welcome to Country<br>
               P.C. Opening Remarks
               </td>
-              <td rowspan="4" class="session-block">
-              Session 7<br><br>
-              Early Career Spotlight<br>
-              <a href="https://marco-tognon-robotics.com/">Marco Tognon</a><br><br>
-              Session 8
-              </td>
-              <td rowspan="4" class="session-block">
-              Session 14<br><br>
-              <a href="{{ site.baseurl }}/program/testoftimeaward/">Test of Time Award</a><br>
-              Deimel and Brock, RSS 2014<br><br>
-              Session 15
-              </td>
+              <td rowspan="2" class="session-block">Navigation 1</td>
+              <td rowspan="2" class="session-block">Navigation 2</td>
               <td rowspan="8" class="workshop-block">
               <a class="block-link" href="{{ site.baseurl }}/program/workshops/">Workshops</a>
               </td>
@@ -257,35 +275,46 @@ published: true
        <tr>
               <td style="background-color: #E2F0D950;">2:30PM</td>
               <td rowspan="3" class="session-block">
-              Session 1<br><br>
-              Session 2
+              Manipulation 1<br><br>
+              World Models &amp; Memory
               </td>
-              <td></td>
+              <td rowspan="3" class="session-block">
+              Robot &amp; Sensor Design<br><br>
+              Imitation learning 3
+              </td>
        </tr>
        <!-- Row 14: 3:00 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">3:00PM</td>
-              <td></td>
+              <td rowspan="1" class="keynote-block">
+              Early Career Spotlight<br>
+              <a href="https://marco-tognon-robotics.com/">Marco Tognon</a> (Inria)
+              </td>
+              <td rowspan="1" class="keynote-block">
+              <a href="{{ site.baseurl }}/program/testoftimeaward/">Test of Time Award</a><br>
+              Deimel and Brock, RSS 2014
+              </td>
        </tr>
        <!-- Row 15: 3:30 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">3:30PM</td>
-              <td></td>
+              <td rowspan="1" class="session-block">Imitation learning 1</td>
+              <td rowspan="1" class="session-block">Imitation learning 2</td>
        </tr>
        <!-- Row 16: 4:00 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">4:00PM</td>
               <td rowspan="1" class="break-block">Coffee break</td>
-              <td rowspan="2" class="break-block">
+              <td rowspan="2" class="poster-block">
               Poster Session<br>
               Coffee<br>
               Sponsor spotlight: Spirit AI
               </td>
-              <td rowspan="2" class="break-block">
+              <td rowspan="2" class="poster-block">
               Poster Session<br><br>
               Coffee
               </td>
-              <td rowspan="2" class="break-block">
+              <td rowspan="2" class="poster-block">
               "Robbyant" Poster Session<br>
               Coffee<br>
               Sponsor spotlight: Robbyant
@@ -296,52 +325,52 @@ published: true
               <td style="background-color: #E2F0D950;">4:30PM</td>
               <td rowspan="2" class="keynote-block">
               Opening Keynote<br>
-              <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/salah-sukkarieh.html">Salah Sukkarieh</a>
+              <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/salah-sukkarieh.html">Salah Sukkarieh</a> (USyd)
               </td>
        </tr>
        <!-- Row 18: 5:00 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">5:00PM</td>
               <td rowspan="3" class="session-block">
-              Session 9<br><br>
+              Vision-Language Action Models<br><br>
               Platinum Sponsor Address<br>Sharpa<br><br>
-              Session 10
+              Datasets and Benchmarks
               </td>
               <td rowspan="3" class="session-block">
-              Session 16<br><br>
+              Reinforcement Learning<br><br>
               Platinum Sponsor Address<br>Spirit AI<br><br>
-              Session 17
+              Modeling and Optimization
               </td>
               <td rowspan="1" class="event-block">Awards Ceremony</td>
        </tr>
        <!-- Row 19: 5:30 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">5:30PM</td>
-              <td rowspan="2" class="session-block">Session 3</td>
+              <td rowspan="2" class="session-block">Humanoids</td>
               <td rowspan="1" class="event-block">Town Hall Meeting</td>
        </tr>
        <!-- Row 20: 6:00 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">6:00PM</td>
-              <td rowspan="1" class="event-block">Walk to banquet</td>
+              <td rowspan="1" class="no-meal-block">Walk to banquet</td>
               <td rowspan="9" style="box-shadow: none;"></td>
        </tr>
        <!-- Row 21: 6:30 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">6:30PM</td>
-              <td rowspan="2" class="break-block">
+              <td rowspan="2" class="poster-block">
               "Unitree" Poster Session<br><br>
               Sponsor spotlight: Unitree
               </td>
-              <td rowspan="2" class="break-block">
+              <td rowspan="2" class="poster-block">
               "Anduril" Poster Session<br><br>
               Sponsor spotlight: Anduril
               </td>
-              <td rowspan="2" class="break-block">
+              <td rowspan="2" class="poster-block">
               "NVIDIA" Poster Session<br><br>
               "Connect with NVIDIA" talk
               </td>
-              <td rowspan="8" class="break-block">Banquet</td>
+              <td rowspan="8" class="meal-block">"Agibot" Conference Banquet</td>
        </tr>
        <!-- Row 22: 7:00 PM -->
        <tr>
@@ -350,9 +379,9 @@ published: true
        <!-- Row 23: 7:30 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">7:30PM</td>
-              <td rowspan="2" class="break-block">Dinner (catered)</td>
-              <td rowspan="2" class="break-block">Dinner (catered)</td>
-              <td rowspan="2" class="break-block">Dinner (catered)</td>
+              <td rowspan="2" class="meal-block">Dinner (catered)</td>
+              <td rowspan="2" class="meal-block">Dinner (catered)</td>
+              <td rowspan="2" class="meal-block">Dinner (catered)</td>
        </tr>
        <!-- Row 24: 8:00 PM -->
        <tr>

@@ -100,8 +100,9 @@ ocial Program
 
 ### News and Updates
 
+- **Keynotes &amp; Early Career Spotlights:** The [speaker lineup and abstracts]({{ site.baseurl }}/program/keynotes-spotlights/) are now online.
 - **Registration:**
-[Standard registration]({{ site.baseurl }}/attending/registration/) is open through June 14.
+[Standard registration]({{ site.baseurl }}/attending/registration/) is now open through June 22.
 Early bird registration is closed
 - **Program:** The [preliminary program]({{ site.baseurl }}/program/overview/) is posted
 
@@ -217,7 +218,7 @@ RSS has a long history of bringing together researchers in all areas of robotics
 
 <p class="img-container" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/rss2026_uts1.jpg" alt="University of Technology Sydney venue" class="img-responsive img-same-height" />
-  <img src="{{ site.baseurl }}/images/rss2026_uts2.jpg" alt="University of Technology Sydney venue" class="img-responsive img-same-height" />
+  <img src="{{ site.baseurl }}/images/rss2026_icc.jpg" alt="International Convention Centre (ICC) Sydney venue" class="img-responsive img-same-height" />
 </p>
 
 <br/>
@@ -245,14 +246,32 @@ RSS has a long history of bringing together researchers in all areas of robotics
   <a href="https://www.anduril.com/" class="sponsor-card sponsor-card-gold">
     <img alt="Anduril" src="{{ site.baseurl }}/images/sponsors_2026/Anduril_Horizontal.svg" />
   </a>
+  <a href="https://www.robbyant.com/" class="sponsor-card sponsor-card-gold">
+    <img alt="Robbyant" src="{{ site.baseurl }}/images/sponsors_2026/Robbyant.png" />
+  </a>
+  <a href="https://www.unitree.com/" class="sponsor-card sponsor-card-gold">
+    <img alt="Unitree Robotics" src="{{ site.baseurl }}/images/sponsors_2026/Unitree.png" />
+  </a>
   <a href="https://www.limxdynamics.com/en" class="sponsor-card sponsor-card-silver">
     <img alt="LimX Dynamics" src="{{ site.baseurl }}/images/sponsors_2026/LimX_Dynamics.png" />
   </a>
   <a href="https://www.booster.tech/" class="sponsor-card sponsor-card-silver">
     <img alt="Booster Robotics" src="{{ site.baseurl }}/images/sponsors_2026/Booster_Robotics.png" />
   </a>
+  <a href="https://noitomrobotics.com/" class="sponsor-card sponsor-card-silver">
+    <img alt="Noitom Robotics" src="{{ site.baseurl }}/images/sponsors_2026/Noitom_Robotics.png" />
+  </a>
   <a href="https://rai-inst.com/" class="sponsor-card sponsor-card-bronze">
     <img alt="RAI" src="{{ site.baseurl }}/images/sponsors_2026/rai.png" />
+  </a>
+  <a href="https://www.seeedstudio.com/" class="sponsor-card sponsor-card-bronze">
+    <img alt="Seeed Studio" src="{{ site.baseurl }}/images/sponsors_2026/Seeed_Studio.png" />
+  </a>
+  <a href="https://global.agilex.ai/" class="sponsor-card sponsor-card-bronze">
+    <img alt="AgileX Robotics" src="{{ site.baseurl }}/images/sponsors_2026/AgileX_Robotics.png" />
+  </a>
+  <a href="https://deepmind.google/" class="sponsor-card sponsor-card-silver"> <!-- bronze just looks too small -->
+    <img alt="Google DeepMind" src="{{ site.baseurl }}/images/sponsors_2026/Google_DeepMind_Logo_rgb.png" />
   </a>
   <a href="https://www.besydney.com.au/" class="sponsor-card sponsor-card-rss">
     <img alt="Business Events Sydney" src="{{ site.baseurl }}/images/sponsors_2026/besydney-blue-logo-rgb.png" />

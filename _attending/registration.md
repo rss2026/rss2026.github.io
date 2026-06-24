@@ -35,13 +35,13 @@ All fees are quoted in **Australian Dollars (AUD)** and include **10% GST** (Goo
 
 ### Full Registrations
 
-<table class="table" style="width:100%; border-collapse: collapse; margin-top: 10px;">
+<table class="table" style="width:100%; table-layout: fixed; border-collapse: collapse; margin-top: 10px;">
   <thead>
     <tr style="background-color:#0F4BEA; color:#ffffff;">
-      <th style="padding: 10px 14px; text-align: left; border: 1px solid #0a35a8;">Registration Type</th>
-      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Early Bird (incl. GST)<br/><small>Closes 18 May 2026</small></th>
-      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Standard<br/><small>(incl. GST)</small></th>
-      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Late / Onsite<br/><small>(incl. GST)</small></th>
+      <th style="width: 40%; padding: 10px 14px; text-align: left; border: 1px solid #0a35a8;">Registration Type</th>
+      <th style="width: 20%; padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Early Bird (incl. GST)<br/><small>Closes 18 May 2026</small></th>
+      <th style="width: 20%; padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Standard<br/><small>(incl. GST)</small></th>
+      <th style="width: 20%; padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Late / Onsite<br/><small>(incl. GST)</small></th>
     </tr>
   </thead>
   <tbody>
@@ -68,13 +68,12 @@ All fees are quoted in **Australian Dollars (AUD)** and include **10% GST** (Goo
 
 ### Workshop Only Registrations
 
-<table class="table" style="width:100%; border-collapse: collapse; margin-top: 10px;">
+<table class="table" style="width:80%; table-layout: fixed; border-collapse: collapse; margin-top: 10px;">
   <thead>
     <tr style="background-color:#0F4BEA; color:#ffffff;">
-      <th style="padding: 10px 14px; text-align: left; border: 1px solid #0a35a8;">Registration Type</th>
-      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Early Bird (incl. GST)<br/><small>Closes 18 May 2026</small></th>
-      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Standard<br/><small>(incl. GST)</small></th>
-      <th style="padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Late / Onsite<br/><small>(incl. GST)</small></th>
+      <th style="width: 50%; padding: 10px 14px; text-align: left; border: 1px solid #0a35a8;">Registration Type</th>
+      <th style="width: 25%; padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Early Bird (incl. GST)<br/><small>Closes 18 May 2026</small></th>
+      <th style="width: 25%; padding: 10px 14px; text-align: center; border: 1px solid #0a35a8;">Standard<br/><small>(incl. GST)</small></th>
     </tr>
   </thead>
   <tbody>
@@ -82,13 +81,11 @@ All fees are quoted in **Australian Dollars (AUD)** and include **10% GST** (Goo
       <td style="padding: 10px 14px; border: 1px solid #ddd;">One Day Workshop Pass (Monday or Friday)</td>
       <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$375</td>
       <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$525</td>
-      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$600</td>
     </tr>
     <tr>
       <td style="padding: 10px 14px; border: 1px solid #ddd;">Two Day Workshop Pass (Monday and Friday)</td>
       <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$575</td>
       <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$725</td>
-      <td style="padding: 10px 14px; text-align: center; border: 1px solid #ddd;">$900</td>
     </tr>
   </tbody>
 </table>
@@ -124,11 +121,11 @@ A student is defined as a holder of a student identification card from a recogni
     </tr>
     <tr>
       <td style="padding: 10px 14px; border: 1px solid #ddd;">Standard Registration Closes</td>
-      <td style="padding: 10px 14px; border: 1px solid #ddd;">14 June 2026</td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">22 June 2026</td>
     </tr>
     <tr style="background-color:#f9f9f9;">
       <td style="padding: 10px 14px; border: 1px solid #ddd;">Late / Onsite Registration Opens</td>
-      <td style="padding: 10px 14px; border: 1px solid #ddd;">15 June 2026</td>
+      <td style="padding: 10px 14px; border: 1px solid #ddd;">23 June 2026</td>
     </tr>
     <tr>
       <td style="padding: 10px 14px; border: 1px solid #ddd;">Registration Cancellation Deadline</td>

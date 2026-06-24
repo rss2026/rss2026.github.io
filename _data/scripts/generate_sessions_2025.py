@@ -44,7 +44,7 @@ for date_col in df_program.columns[1:-1]:
     date = date_col.strip()
     seen = {}
 
-    col_vals = df_program[date_col].fillna(method="ffill")
+    col_vals = df_program[date_col].ffill()
 
     for i, cell in enumerate(col_vals):
         if isinstance(cell, str) and re.match(r"^\d+\s*[.-]", cell.strip()):

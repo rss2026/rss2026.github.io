@@ -158,6 +158,11 @@ published: true
         <a target="_blank" href="https://profiles.sydney.edu.au/viorela.ila">Viorela Ila</a><br>
         <i>University of Sydney, Australia</i><br>
       </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://profiles.uts.edu.au/DinhTung.Le">Tony Le</a><br>
+        <i>University of Technology Sydney, Australia</i><br>
+      </td>
     </tr>
   </table>
 
@@ -193,6 +198,39 @@ published: true
     </tr>
   </table>
         
+  <br>
+
+  <b>Publication Chair</b><br>
+  <table style="margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://jaredstrader.github.io/">Jared Strader</a><br>
+        <i>Massachusetts Institute of Technology, USA</i><br>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <b>Presentation Chairs</b><br>
+  <table style="margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://schmluk.github.io/">Lukas Schmid</a><br>
+        <i>University of Technology Nuremberg, Germany</i><br>
+      </td>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://www.qut.edu.au/about/our-people/academic-profiles/sg.raine">Scarlett Raine</a><br>
+        <i>Queensland University of Technology, Australia</i><br>
+      </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://rahulsho.me/">Rahul Shome</a><br>
+        <i>The Australian National University, Australia</i><br>
+      </td>
+    </tr>
+  </table>
+
   <br>
   <p><i>Additional Organizing Committee members will be announced soon.</i></p>
 

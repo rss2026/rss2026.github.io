@@ -3,7 +3,7 @@ layout: default
 title: Paper Sessions
 description: Paper Sessions
 priority: 11
-invisible: true
+invisible: false
 published: true
 ---
 
@@ -63,18 +63,18 @@ published: true
 
 <table id="myTable">
   <tr class="toprowHeader">
+    <!--
     <th>Order In Session</th>
+    -->
     <th>Title</th>
     <th>Authors</th>
   </tr>
- {% for paper in site.data.rss2025CameraReadyInfo %}
+ {% for paper in site.data.RSS2026CameraReadyInfo %}
  <tr session="{{ paper.SessionName }}">
+    <!--
     <td width="5%" height="100px">{{paper.OrderinSession }}</td>
-    <!-- comment this for now to disable paper links -->
-    <!-- <td width="45%" height="100px" ><a href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
-}}/"><b>{{paper.PaperTitle}}</b></a></td> -->
-    <!-- <td width="45%" height="100px"><b>{{ paper.PaperTitle }}</b></td> -->
-    <td width="45%" height="100px">
+    -->
+    <td width="50%" height="100px">
       <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperID }}/">
         <b>{{ paper.PaperTitle }}</b>
       </a>
@@ -121,14 +121,15 @@ $(document).ready(function() {
   $(".page-title").text("Session " + sessionName).css("visibility", "visible");
 
   //look up session info from the YAML data
-  var sessions = {{ site.data.rss2025PaperSessions | jsonify }};
+  var sessions = {{ site.data.RSS2026SessionsHackyTime | jsonify }};
   var sessionInfo = sessions.find(s => s.SessionName === sessionName);
 
   //set date, time, location
   if (sessionInfo) {
-    var locationStr = '<a href="https://maps.app.goo.gl/gmsxcUqwNSfjsuHL8" target="_blank">Bovard Auditorium</a>';
-    var dateTimeStr = "<strong>Date:</strong> " + sessionInfo.Day + ", " + sessionInfo.DateVerbose + ", 2025" +
-                      " &nbsp; | &nbsp; <strong>Time:</strong> " + sessionInfo.Time +
+    //var locationStr = '<a href="https://maps.app.goo.gl/gmsxcUqwNSfjsuHL8" target="_blank">Bovard Auditorium</a>';
+    var locationStr = 'Location TBA';
+    var dateTimeStr = "<strong>Date:</strong> " + sessionInfo.Date + ", 2026" +
+                      " &nbsp; | &nbsp; <strong>Time:</strong> " + sessionInfo.StartTime + " - " + sessionInfo.EndTime +
                       " &nbsp; | &nbsp; <strong>Location:</strong> " + locationStr;
     $("#session-datetime").html(dateTimeStr);
 
@@ -163,7 +164,7 @@ for (i = 0; i < coll.length; i++) {
 <!-- Script #1 to populate back/session/next buttons at top -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const sessions = {{ site.data.rss2025PaperSessions | jsonify }};
+  const sessions = {{ site.data.RSS2026SessionsHackyTime | jsonify }};
   const params = new URLSearchParams(window.location.search);
   const currentSessionName = decodeURIComponent(params.get("session"));
   const navTop = document.getElementById("mini-session-navbar");
@@ -213,7 +214,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <!-- Script #2 to populate back/session/next buttons at bottom -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const sessions = {{ site.data.rss2025PaperSessions | jsonify }};
+  const sessions = {{ site.data.RSS2026SessionsHackyTime | jsonify }};
   const params = new URLSearchParams(window.location.search);
   const currentSessionName = decodeURIComponent(params.get("session"));
   const container = document.getElementById("session-menu-inner");
