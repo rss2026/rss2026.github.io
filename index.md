@@ -262,7 +262,7 @@ RSS has a long history of bringing together researchers in all areas of robotics
     <img alt="Noitom Robotics" src="{{ site.baseurl }}/images/sponsors_2026/Noitom_Robotics.png" />
   </a>
   <a href="https://rai-inst.com/" class="sponsor-card sponsor-card-bronze">
-    <img alt="RAI" src="{{ site.baseurl }}/images/sponsors_2026/rai.png" />
+    <img alt="RAI" src="{{ site.baseurl }}/images/sponsors_2026/rai.png" style="max-height: 45px;" />
   </a>
   <a href="https://www.seeedstudio.com/" class="sponsor-card sponsor-card-bronze">
     <img alt="Seeed Studio" src="{{ site.baseurl }}/images/sponsors_2026/Seeed_Studio.png" />
@@ -270,8 +270,8 @@ RSS has a long history of bringing together researchers in all areas of robotics
   <a href="https://global.agilex.ai/" class="sponsor-card sponsor-card-bronze">
     <img alt="AgileX Robotics" src="{{ site.baseurl }}/images/sponsors_2026/AgileX_Robotics.png" />
   </a>
-  <a href="https://deepmind.google/" class="sponsor-card sponsor-card-silver"> <!-- bronze just looks too small -->
-    <img alt="Google DeepMind" src="{{ site.baseurl }}/images/sponsors_2026/Google_DeepMind_Logo_rgb.png" />
+  <a href="https://about.google/" class="sponsor-card sponsor-card-silver"> <!-- bronze just looks too small -->
+    <img alt="Google" src="{{ site.baseurl }}/images/sponsors_2026/google.png" style="max-height: 45px;" />
   </a>
   <a href="https://www.besydney.com.au/" class="sponsor-card sponsor-card-rss">
     <img alt="Business Events Sydney" src="{{ site.baseurl }}/images/sponsors_2026/besydney-blue-logo-rgb.png" />
