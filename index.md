@@ -270,8 +270,14 @@ RSS has a long history of bringing together researchers in all areas of robotics
   <a href="https://global.agilex.ai/" class="sponsor-card sponsor-card-bronze">
     <img alt="AgileX Robotics" src="{{ site.baseurl }}/images/sponsors_2026/AgileX_Robotics.png" />
   </a>
+  <a href="https://www.hightorquerobotics.com/" class="sponsor-card sponsor-card-bronze">
+    <img alt="High Torque Robotics" src="{{ site.baseurl }}/images/sponsors_2026/HighTorque.png" />
+  </a>
   <a href="https://about.google/" class="sponsor-card sponsor-card-silver"> <!-- bronze just looks too small -->
     <img alt="Google" src="{{ site.baseurl }}/images/sponsors_2026/google.png" style="max-height: 45px;" />
+  </a>
+  <a href="https://www.uts.edu.au/" class="sponsor-card sponsor-card-rss">
+    <img alt="University of Technology Sydney (UTS) — Host" src="{{ site.baseurl }}/images/sponsors_2026/UTS.png" />
   </a>
   <a href="https://www.besydney.com.au/" class="sponsor-card sponsor-card-rss">
     <img alt="Business Events Sydney" src="{{ site.baseurl }}/images/sponsors_2026/besydney-blue-logo-rgb.png" />

@@ -142,6 +142,9 @@ published: true
   <a href="https://global.agilex.ai/" class="sponsor-card">
     <img alt="AgileX Robotics" src="{{ site.baseurl }}/images/sponsors_2026/AgileX_Robotics.png" />
   </a>
+  <a href="https://www.hightorquerobotics.com/" class="sponsor-card">
+    <img alt="High Torque Robotics" src="{{ site.baseurl }}/images/sponsors_2026/HighTorque.png" style="max-height: 70px;" />
+  </a>
   <a href="https://about.google/" class="sponsor-card">
     <img alt="Google" src="{{ site.baseurl }}/images/sponsors_2026/google.png" style="max-height: 60px;" />
   </a>
@@ -150,6 +153,9 @@ published: true
 ### RSS Sponsors
 
 <div class="sponsor-grid">
+  <a href="https://www.uts.edu.au/" class="sponsor-card">
+    <img alt="University of Technology Sydney (UTS) — Host" src="{{ site.baseurl }}/images/sponsors_2026/UTS.png" />
+  </a>
   <a href="https://www.besydney.com.au/" class="sponsor-card">
     <img alt="Business Events Sydney" src="{{ site.baseurl }}/images/sponsors_2026/besydney-blue-logo-rgb.png" />
   </a>
