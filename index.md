@@ -273,8 +273,8 @@ RSS has a long history of bringing together researchers in all areas of robotics
   <a href="https://www.hightorquerobotics.com/" class="sponsor-card sponsor-card-bronze">
     <img alt="High Torque Robotics" src="{{ site.baseurl }}/images/sponsors_2026/HighTorque.png" />
   </a>
-  <a href="https://about.google/" class="sponsor-card sponsor-card-silver"> <!-- bronze just looks too small -->
-    <img alt="Google" src="{{ site.baseurl }}/images/sponsors_2026/google.png" style="max-height: 45px;" />
+  <a href="https://deepmind.google/" class="sponsor-card sponsor-card-silver" style="width: 240px;"> <!-- bronze just looks too small -->
+    <img alt="Google DeepMind" src="{{ site.baseurl }}/images/sponsors_2026/Google_DeepMind_Logo_rgb.png" />
   </a>
   <a href="https://www.uts.edu.au/" class="sponsor-card sponsor-card-rss">
     <img alt="University of Technology Sydney (UTS) — Host" src="{{ site.baseurl }}/images/sponsors_2026/UTS.png" />

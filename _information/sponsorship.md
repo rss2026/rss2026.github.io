@@ -145,8 +145,8 @@ published: true
   <a href="https://www.hightorquerobotics.com/" class="sponsor-card">
     <img alt="High Torque Robotics" src="{{ site.baseurl }}/images/sponsors_2026/HighTorque.png" style="max-height: 70px;" />
   </a>
-  <a href="https://about.google/" class="sponsor-card">
-    <img alt="Google" src="{{ site.baseurl }}/images/sponsors_2026/google.png" style="max-height: 60px;" />
+  <a href="https://deepmind.google/" class="sponsor-card">
+    <img alt="Google DeepMind" src="{{ site.baseurl }}/images/sponsors_2026/Google_DeepMind_Logo_rgb.png" />
   </a>
 </div>
 
