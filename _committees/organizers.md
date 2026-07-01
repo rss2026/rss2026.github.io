@@ -205,7 +205,7 @@ published: true
     <tr>
       <td style="width:200px;vertical-align:top;">
         <a target="_blank" href="https://jaredstrader.github.io/">Jared Strader</a><br>
-        <i>Massachusetts Institute of Technology, USA</i><br>
+        <i>Oakland University, USA</i><br>
       </td>
     </tr>
   </table>
