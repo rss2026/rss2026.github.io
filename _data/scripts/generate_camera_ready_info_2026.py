@@ -564,7 +564,7 @@ print(f"\nWrote {len(camera_ready_df)} markdown files to `{output_dir}/`, with a
 
 #generate camera ready integration for proceedings
 print("\nGenerating camera ready integration .csv...")
-integration_path = "../RSS25-CameraReadyIntegration.csv"
+integration_path = "../RSS26-CameraReadyIntegration.csv"
 
 def first_author_last_plus_initial(authors_str: str) -> str:
     # Assumes your normalized "AuthorNames" is comma-separated.
@@ -588,7 +588,6 @@ camera_ready_df["AuthorNamesSemicol"] = camera_ready_df["AuthorNames"].str.repla
 
 # Write with '#' delimiter, no header
 # Cancel writing for now because causing problems with jekyll
-"""
 with open(integration_path, "w", encoding="utf-8", newline="") as f:
     writer = csv.writer(f, delimiter="#", quoting=csv.QUOTE_MINIMAL)
     for r in camera_ready_df.itertuples(index=False):
@@ -599,6 +598,5 @@ with open(integration_path, "w", encoding="utf-8", newline="") as f:
             r.AuthorNamesSemicol,
             first_author_last_plus_initial(r.AuthorNames),
         ])
-"""
 
 print(f"Saved to {integration_path}")
