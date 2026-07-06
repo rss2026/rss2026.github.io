@@ -521,7 +521,6 @@ next_id: "{next_id}"
   </div>
 </div>
 
-<!--
 <div class="paper-pdf">
   <div>
     <a href="{pdf_url}" title="Download PDF" target="_blank">
@@ -529,7 +528,6 @@ next_id: "{next_id}"
     </a>
   </div>
 </div>
--->
 
 ### Paper ID {paper_id}
 {{: style="margin-top: 10px; text-align: center;" }}
