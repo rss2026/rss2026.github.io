@@ -374,6 +374,11 @@ df["Authors"] = df["Authors"].apply(normalize_author_names)
 
 #hacks to fix greek letters in specific titles
 df["Title"] = df["Title"].str.replace(r'\$\s*\\?pi\s*_0\s*\$', 'π₀', regex=True)
+df["Title"] = df["Title"].str.replace(r'\$\s*\\?Psi\s*_0\s*\$', 'Ψ₀', regex=True)
+df["Title"] = df["Title"].str.replace(r'\$\s*\\?pi.*_.*0\.6.*\$', 'π*₀.₆', regex=True)
+
+# hotfix title
+df.at[75-1,"Title"] = "OAT: Ordered Action Tokenization"
 
 #final dataframe
 camera_ready_df = pd.DataFrame({
