@@ -155,13 +155,13 @@ published: true
        <tr>
               <td style="background-color: #E2F0D950;">8:30AM</td>
               <td rowspan="8" class="workshop-block">
-              <a class="block-link" href="{{ site.baseurl }}/program/workshops/">Workshops</a>
+              <a class="block-link" href="{{ site.baseurl }}/program/workshops/">Workshops at UTS</a>
               </td>
               <td></td>
               <td></td>
               <td></td>
               <td rowspan="8" class="workshop-block">
-              <a class="block-link" href="{{ site.baseurl }}/program/workshops/">Workshops</a>
+              <a class="block-link" href="{{ site.baseurl }}/program/workshops/">Workshops at UTS</a>
               </td>
        </tr>
        <!-- Row 2: 9:00 AM -->
@@ -244,7 +244,7 @@ published: true
               Lunch<br><br>
               Sponsor spotlight: TRI
               </td>
-              <td rowspan="3" class="no-meal-block">Lunch (not provided)</td>
+              <td rowspan="3" class="meal-block">Lunch</td>
        </tr>
        <!-- Row 10: 1:00 PM -->
        <tr>
@@ -268,7 +268,7 @@ published: true
               <td rowspan="2" class="session-block">Navigation 1</td>
               <td rowspan="2" class="session-block">Navigation 2</td>
               <td rowspan="8" class="workshop-block">
-              <a class="block-link" href="{{ site.baseurl }}/program/workshops/">Workshops</a>
+              <a class="block-link" href="{{ site.baseurl }}/program/workshops/">Workshops at UTS</a>
               </td>
        </tr>
        <!-- Row 13: 2:30 PM -->
