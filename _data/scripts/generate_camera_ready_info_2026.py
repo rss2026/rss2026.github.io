@@ -21,6 +21,7 @@ import difflib
 import json
 import os
 import html
+import urllib.parse
 
 ################################
 #      Paper Overrides
@@ -373,6 +374,11 @@ df["Authors"] = df["Authors"].apply(normalize_author_names)
 
 #hacks to fix greek letters in specific titles
 df["Title"] = df["Title"].str.replace(r'\$\s*\\?pi\s*_0\s*\$', 'π₀', regex=True)
+df["Title"] = df["Title"].str.replace(r'\$\s*\\?Psi\s*_0\s*\$', 'Ψ₀', regex=True)
+df["Title"] = df["Title"].str.replace(r'\$\s*\\?pi.*_.*0\.6.*\$', 'π*₀.₆', regex=True)
+
+# hotfix title
+df.at[75-1,"Title"] = "OAT: Ordered Action Tokenization"
 
 #final dataframe
 camera_ready_df = pd.DataFrame({
@@ -477,7 +483,7 @@ for i, row in camera_ready_sorted.iterrows():
     #posters session info (hard coded above)
     session_num = str(row.SessionNum)
     #poster_line = poster_session_info.get(str(row.SessionNum))
-    poster_line = "Poster session details TBA"
+    poster_line = "Posters presented in the poster session following their oral. Locations not assigned."
 
     # Navigation links
     prev_link = ""
@@ -532,7 +538,7 @@ next_id: "{next_id}"
 ### Paper ID {paper_id}
 {{: style="margin-top: 10px; text-align: center;" }}
 
-### [Session {row.SessionName}]({{{{ site.baseurl }}}}/program/papersession?session={row.SessionName.replace(' ', '%20')})
+### [Session {row.SessionName}]({{{{ site.baseurl }}}}/program/papersession?session={ urllib.parse.quote_plus(row.SessionName) })
 {{: style="text-align: center;" }}
 
 #### {poster_line}
@@ -560,6 +566,7 @@ next_id: "{next_id}"
 
 print(f"\nWrote {len(camera_ready_df)} markdown files to `{output_dir}/`, with abstracts included.")
 
+"""
 #generate camera ready integration for proceedings
 print("\nGenerating camera ready integration .csv...")
 integration_path = "../RSS26-CameraReadyIntegration.csv"
@@ -598,3 +605,4 @@ with open(integration_path, "w", encoding="utf-8", newline="") as f:
         ])
 
 print(f"Saved to {integration_path}")
+"""
