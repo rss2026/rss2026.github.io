@@ -36,6 +36,13 @@
                                 <!-- <li><a href="https://roboticsconference.org/attending/">Attending RSS</a></li> -->
                             </ul>
                         </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">sponsors<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="{{ site.baseurl }}/information/sponsorship/">Sponsors</a></li>
+                                <li><a href="{{ site.baseurl }}/information/sponsor-descriptions/">Sponsor Descriptions</a></li>
+                            </ul>
+                        </li>
                         {% for coll in site.collections %}
                         {% if coll.label == "attending" or coll.label == "committees" or coll.label == "information" or coll.label == "program" %}
                         <li class="dropdown">
@@ -48,7 +55,7 @@
                                 {% if node.invisible != true %}
                                 {% if node.layout == "page" %}
                                 <!-- <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li> -->
-                                {% if node.title == "Accommodations" or node.title == "Registration" or node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" or node.title == "RSS Pioneers" or node.title == "Keynotes and Early Career Spotlights" or node.title == "Pathways@RSS" or node.title == "Sponsors" or node.title == "Venue" or node.title == "Visa Information" or node.title == "Workshops" or node.title == "Overview" or node.title == "Paper Sessions" or node.title == "Accepted Papers" or node.title == "Presenter Information" or node.title == "Attending RSS" %}
+                                {% if node.title == "Accommodations" or node.title == "Registration" or node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" or node.title == "RSS Pioneers" or node.title == "Keynotes and Early Career Spotlights" or node.title == "Pathways@RSS" or node.title == "Venue" or node.title == "Visa Information" or node.title == "Workshops" or node.title == "Overview" or node.title == "Paper Sessions" or node.title == "Accepted Papers" or node.title == "Presenter Information" or node.title == "Attending RSS" %}
                                 <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
                                 {% comment %}
                                 {% else %}
@@ -65,7 +72,7 @@
                                 {% if node.invisible != true %}
                                 {% if node.layout == "page" %}
                                 <!-- <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li> -->
-                                {% if node.title == "Accommodations" or node.title == "Registration" or node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" or node.title == "RSS Pioneers" or node.title == "Keynotes and Early Career Spotlights" or node.title == "Pathways@RSS" or node.title == "Sponsors" or node.title == "Venue" or node.title == "Visa Information" or node.title == "Workshops" or node.title == "Overview" or node.title == "Paper Sessions" or node.title == "Accepted Papers" or node.title == "Presenter Information" or node.title == "Attending RSS" %}
+                                {% if node.title == "Accommodations" or node.title == "Registration" or node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" or node.title == "RSS Pioneers" or node.title == "Keynotes and Early Career Spotlights" or node.title == "Pathways@RSS" or node.title == "Venue" or node.title == "Visa Information" or node.title == "Workshops" or node.title == "Overview" or node.title == "Paper Sessions" or node.title == "Accepted Papers" or node.title == "Presenter Information" or node.title == "Attending RSS" %}
                                 <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
                                 {% comment %}
                                 {% else %}
