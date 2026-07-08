@@ -228,7 +228,7 @@ RSS has a long history of bringing together researchers in all areas of robotics
 <h3 id="sponsors">Sponsors</h3>
 
 <div style="margin: 8px 0 20px;">
-  <a href="https://docs.google.com/document/d/1AGDwKztka5NaTzVonOAobFtWhRd3-09G/edit" target="_blank" rel="noopener"
+  <a href="https://docs.google.com/document/d/19NOWpj75PpLCmOT0tS_n2QQ73vuro3iv/edit?usp=sharing&ouid=112215341269309661111&rtpof=true&sd=true" target="_blank" rel="noopener"
      style="display: inline-block; background-color: #0F4BEA; color: #ffffff; padding: 10px 20px; border-radius: 6px; font-weight: 600; text-decoration: none; border: 2px solid #0a35a8;">
     📄 Sponsor Company Bios
   </a>
