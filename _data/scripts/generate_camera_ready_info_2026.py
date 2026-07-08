@@ -21,6 +21,7 @@ import difflib
 import json
 import os
 import html
+import urllib.parse
 
 ################################
 #      Paper Overrides
@@ -532,7 +533,7 @@ next_id: "{next_id}"
 ### Paper ID {paper_id}
 {{: style="margin-top: 10px; text-align: center;" }}
 
-### [Session {row.SessionName}]({{{{ site.baseurl }}}}/program/papersession?session={row.SessionName.replace(' ', '%20')})
+### [Session {row.SessionName}]({{{{ site.baseurl }}}}/program/papersession?session={ urllib.parse.quote_plus(row.SessionName) })
 {{: style="text-align: center;" }}
 
 #### {poster_line}
@@ -560,6 +561,7 @@ next_id: "{next_id}"
 
 print(f"\nWrote {len(camera_ready_df)} markdown files to `{output_dir}/`, with abstracts included.")
 
+"""
 #generate camera ready integration for proceedings
 print("\nGenerating camera ready integration .csv...")
 integration_path = "../RSS26-CameraReadyIntegration.csv"
@@ -598,3 +600,4 @@ with open(integration_path, "w", encoding="utf-8", newline="") as f:
         ])
 
 print(f"Saved to {integration_path}")
+"""
