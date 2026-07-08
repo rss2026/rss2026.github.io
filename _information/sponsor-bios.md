@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sponsor Descriptions
-description: Company descriptions for the sponsors of RSS 2026.
+title: Sponsor Bios
+description: Company bios for the sponsors of RSS 2026.
 priority: 10
 invisible: false
 published: true
@@ -17,14 +17,14 @@ published: true
     border-bottom: 1px solid #eee;
   }
   .sponsor-bio-logo {
-    flex: 0 0 180px;
+    flex: 0 0 210px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
   .sponsor-bio-logo img {
     max-width: 100%;
-    max-height: 90px;
+    max-height: 60px;
     width: auto;
     height: auto;
     object-fit: contain;
@@ -139,7 +139,7 @@ We are grateful to the sponsors whose support makes RSS 2026 possible.
 ## Bronze Sponsors
 
 <div class="sponsor-bio">
-  <div class="sponsor-bio-logo"><a href="https://rai-inst.com/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/images/sponsors_2026/rai.png" alt="RAI Institute" /></a></div>
+  <div class="sponsor-bio-logo"><a href="https://rai-inst.com/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/images/sponsors_2026/rai.png" alt="RAI Institute" style="max-height: 46px;" /></a></div>
   <div class="sponsor-bio-body">
     <h3 class="sponsor-bio-name"><a href="https://rai-inst.com/" target="_blank" rel="noopener">RAI Institute</a></h3>
     <p class="sponsor-bio-desc">The RAI Institute is a research organisation dedicated to advancing artificial intelligence, robotics, and machine learning. The institute works with academic, government, and industry partners to develop technologies that enable intelligent and autonomous systems, and is proud to support RSS 2026 as a Bronze Sponsor.</p>
@@ -163,7 +163,7 @@ We are grateful to the sponsors whose support makes RSS 2026 possible.
 </div>
 
 <div class="sponsor-bio">
-  <div class="sponsor-bio-logo"><a href="https://www.hightorquerobotics.com/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/images/sponsors_2026/HighTorque.png" alt="High Torque Robotics" style="max-height: 70px;" /></a></div>
+  <div class="sponsor-bio-logo"><a href="https://www.hightorquerobotics.com/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/images/sponsors_2026/HighTorque.png" alt="High Torque Robotics" style="max-height: 52px;" /></a></div>
   <div class="sponsor-bio-body">
     <h3 class="sponsor-bio-name"><a href="https://www.hightorquerobotics.com/" target="_blank" rel="noopener">High Torque Robotics</a></h3>
     <p class="sponsor-bio-desc">HighTorque Robotics is dedicated to providing whole mechatronics solutions from components to complete systems, building the infrastructure for the embodied AI industry to empower every developer. Our three product lines — joint modules, robotic arms, and humanoid robots — are all independently designed and manufactured in-house.</p>
