@@ -57,7 +57,7 @@ For information about the location of the sessions check out the [venue page]({{
       <!--
       <a href="https://maps.app.goo.gl/gmsxcUqwNSfjsuHL8" target="_blank">Bovard Auditorium</a>
       -->
-      Location TBA
+      Pyrmont Theatre
     </td>
     <td>{{ session.StartTime }} - {{ session.EndTime }}</td>
     <td>

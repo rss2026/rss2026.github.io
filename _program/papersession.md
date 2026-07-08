@@ -127,7 +127,7 @@ $(document).ready(function() {
   //set date, time, location
   if (sessionInfo) {
     //var locationStr = '<a href="https://maps.app.goo.gl/gmsxcUqwNSfjsuHL8" target="_blank">Bovard Auditorium</a>';
-    var locationStr = 'Location TBA';
+    var locationStr = 'Pyrmont Theatre';
     var dateTimeStr = "<strong>Date:</strong> " + sessionInfo.Date + ", 2026" +
                       " &nbsp; | &nbsp; <strong>Time:</strong> " + sessionInfo.StartTime + " - " + sessionInfo.EndTime +
                       " &nbsp; | &nbsp; <strong>Location:</strong> " + locationStr;

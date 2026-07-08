@@ -483,7 +483,7 @@ for i, row in camera_ready_sorted.iterrows():
     #posters session info (hard coded above)
     session_num = str(row.SessionNum)
     #poster_line = poster_session_info.get(str(row.SessionNum))
-    poster_line = "Poster session details TBA"
+    poster_line = "Posters presented in the poster session following their oral. Locations not assigned."
 
     # Navigation links
     prev_link = ""
