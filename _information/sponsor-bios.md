@@ -103,7 +103,7 @@ We are grateful to the sponsors whose support makes RSS 2026 possible.
 </div>
 
 <div class="sponsor-bio">
-  <div class="sponsor-bio-logo"><a href="https://www.anduril.com/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/images/sponsors_2026/Anduril_Horizontal.svg" alt="Anduril" /></a></div>
+  <div class="sponsor-bio-logo"><a href="https://www.anduril.com/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/images/sponsors_2026/Anduril_Horizontal.svg" alt="Anduril" style="width: 190px; max-height: 60px;" /></a></div>
   <div class="sponsor-bio-body">
     <h3 class="sponsor-bio-name"><a href="https://www.anduril.com/" target="_blank" rel="noopener">Anduril</a></h3>
     <p class="sponsor-bio-desc">Anduril Industries is a defense technology company that brings the expertise, speed, and culture of the 21st-century technology industry to national security. By combining AI, software, and advanced hardware, Anduril builds autonomous systems that give allied nations the edge they need to defend their values and interests. Founded in 2017, Anduril operates globally across air, sea, land, and space domains.</p>
