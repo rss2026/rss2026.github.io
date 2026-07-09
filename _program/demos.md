@@ -17,9 +17,9 @@ times.
 <table class="table table-striped table-workshop">
     <thead>
         <tr>
-            <th width="15%">Day</th>
-            <th width="20%">Time</th>
-            <th width="30%">Company</th>
+            <th width="10%">Day</th>
+            <th width="15%">Time</th>
+            <th width="50%">Company</th>
             <th width="20%">Speaker</th>
             <!-- <th width="20%">Website</th> -->
         </tr>
