@@ -1,46 +1,41 @@
 ---
 layout: page
-title: Demos
+title: Sponsor Demos
 description: Demos times, venues, and details.
 days: ['Mon', 'Fri']
 priority: 7
 invisible: false
-published: false
+published: true
 ---
 
+All sponsor demos will take place on the **Demo Stage** at their respective
+times.
 
 <div style="display: block; width: 100%; height: 20px;"></div>
+
 
 <table class="table table-striped table-workshop">
     <thead>
         <tr>
-            <th width="5%" align="center">ID</th>
-            <th width="15%">Location</th>
-            <th width="40%">Title</th>
-            <!-- <th width="20%">Website</th> -->
-            <th width="15%">Day</th>
+            <th width="10%">Day</th>
             <th width="15%">Time</th>
+            <th width="50%">Company</th>
+            <th width="20%">Speaker</th>
+            <!-- <th width="20%">Website</th> -->
         </tr>
     </thead>
     <tbody>
-        {% for workshop in site.data.demos %}
+        {% for event in site.data.RSS2026_Demos_Schedule %}
+        {% if event.Stage == "Demo Stage" %}
+
         <tr>
-            <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.papernumber }} </span></td>
-            <td>{{ workshop.demolocation | default: "TBD" }}</td>
-            <td>
-                <a href="{{ site.baseurl }}{{ workshop.link }}">
-                <strong>{{ workshop.papertitle }}</strong>
-                </a>
-            </td>
-            <!-- <td>{{ workshop.papertitle }}</td> -->
-            <!-- <td style="word-break: break-all;">
-                <a href="{{ workshop.link }}">
-                    {{ workshop.link }}
-                </a>
-            </td> -->
-             <td>{{ workshop.demoday | default: "TBD"}}</td>
-             <td>{{ workshop.time | default: "TBD" }}</td>
+            <td><span style="font-weight:bold; color: #3a3946;"> {{ event.Date }} </span></td>
+            <td><span style="font-weight:bold; color: #3a3946;"> {{ event.Time }} </span></td>
+            <td>{{ event.Company }}</td>
+            <td>{{ event.Speaker }}</td>
         </tr>
+
+        {% endif %}
         {% endfor %}
     </tbody>
 </table>
