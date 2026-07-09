@@ -8,7 +8,7 @@ invisible: false
 published: true
 ---
 
-All sponsor demos will take place on the **Demo Stage** at there respective
+All sponsor demos will take place on the **Demo Stage** at their respective
 times.
 
 <div style="display: block; width: 100%; height: 20px;"></div>
