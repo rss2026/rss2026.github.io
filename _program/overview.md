@@ -7,6 +7,10 @@ invisible: false
 published: true
 ---
 
+In addition to the events below there will be a number of
+[**Sponsor Demos**]({{ site.baseurl }}/program/demos/)
+on the Demo Stage from July 13 to July 16.
+
 <style>
 .schedule {
   width: calc(100% + 80px);
