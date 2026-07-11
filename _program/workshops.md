@@ -27,6 +27,10 @@ published: true
 
 Workshops will take place across two days of the conference on **Monday, July 13 (half-day morning events)** and **Friday, July 17 (half-day morning and afternoon events)**. Each workshop is organized as a semi-independent event, and has a unique schedule reflecting the planned activities, constraints and preferences of the organizers. Please check the workshop websites for more details on their particular schedules.
 
+<div style="border: 2px solid #0a35a8; background-color: #0F4BEA; color: #ffffff; padding: 14px 18px; margin: 18px 0; border-radius: 6px;">
+  <p style="margin: 0;">All workshops are held at the <strong>University of Technology Sydney (UTS)</strong> — <strong>15 Broadway, Ultimo NSW 2007</strong> — <strong>not</strong> at the ICC. The ICC is a 20-minute walk from UTS. Please make your way to UTS on Monday morning.</p>
+</div>
+
 <div style="border: 1px solid #bee5eb; background-color: #d1ecf1; color: #0c5460; padding: 14px 18px; margin: 18px 0; border-radius: 6px;">
   <p style="margin: 0 0 10px;">The <strong>Location</strong> column is read as, for example: <strong>CB11.B1.101</strong> (Building 11, Level B1, Room 101). There will be volunteers as well as posters on the day helping with directions.</p>
   <p style="margin: 0 0 10px;">We will continue updating venues for the poster rooms as we get concrete numbers for posters. Poster boards will be available to mount A0 portrait posters.</p>
