@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshops
+title: Workshops at UTS
 description: Workshop times, venues, and details.
 days: ['Mon', 'Fri']
 priority: 9
