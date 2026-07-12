@@ -79,7 +79,7 @@ An interactive campus map is also available at <a href="https://maps.uts.edu.au/
             <td><span style="font-weight:bold; color: #3a3946;"> 2 </span></td>
             <td>CB11.00.405</td>
             <td>From Perception to Action: Representation-Centric Robot Autonomy</td>
-            <td>Outside the room</td>
+            <td>Outside of CB11.00.405</td>
             <td><a href="https://rcba-workshop.github.io/rss2026/">https://rcba-workshop.github.io/rss2026/</a></td>
         </tr>
         <tr>
@@ -93,7 +93,7 @@ An interactive campus map is also available at <a href="https://maps.uts.edu.au/
             <td><span style="font-weight:bold; color: #3a3946;"> 4 </span></td>
             <td>CB11.03.301</td>
             <td>It’s the demos: A Deep Look at the Role of Demonstration Quality in Imitation-Based Robot Manipulation</td>
-            <td>Outside the room</td>
+            <td>Outside of CB11.03.301</td>
             <td><a href="https://its-the-demos.github.io/">https://its-the-demos.github.io/</a></td>
         </tr>
         <tr>
@@ -107,21 +107,21 @@ An interactive campus map is also available at <a href="https://maps.uts.edu.au/
             <td><span style="font-weight:bold; color: #3a3946;"> 6 </span></td>
             <td>CB11.B1.101</td>
             <td>Beyond rigidity - Deformable and Articulated Robotic Object Manipulation</td>
-            <td>In or outside the room</td>
+            <td>Either in CB11.B1.101 or outside of the room.</td>
             <td><a href="https://rss2026-beyond-rigidity.github.io/">https://rss2026-beyond-rigidity.github.io/</a></td>
         </tr>
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> 7 </span></td>
             <td>CB11.00.401</td>
             <td>Post-training for Robotics Foundation Models</td>
-            <td>Outside the room</td>
+            <td>Outside of CB11.00.401</td>
             <td><a href="https://posttraining-for-robotics.github.io/">https://posttraining-for-robotics.github.io/</a></td>
         </tr>
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> 8 </span></td>
             <td>CB02.07.150</td>
             <td>4th Workshop on Dexterous Manipulation: Scalable Learning for Human-Level Skills</td>
-            <td>Outside the room</td>
+            <td>Outside of CB02.07.150</td>
             <td><a href="https://dex-manipulation.github.io/rss2026/">https://dex-manipulation.github.io/rss2026/</a></td>
         </tr>
         <tr>
@@ -135,14 +135,14 @@ An interactive campus map is also available at <a href="https://maps.uts.edu.au/
             <td><span style="font-weight:bold; color: #3a3946;"> 10 </span></td>
             <td>CB11.00.100</td>
             <td>Workshop on Neuromorphic Robotic Systems (NeuRoSys)</td>
-            <td>Outside the room</td>
+            <td>Outside of CB11.00.100</td>
             <td><a href="https://sites.google.com/view/neurosys2026">https://sites.google.com/view/neurosys2026</a></td>
         </tr>
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> 11 </span></td>
             <td>CB07.02.025</td>
             <td>Whole-body Control and Bimanual Manipulation: Applications in Humanoids and Beyond</td>
-            <td>CB07.02.020 &amp; CB07.02.015</td>
+            <td>CB07.02.020 and CB07.02.015</td>
             <td><a href="https://wcbm-workshop.github.io/rss2026/">https://wcbm-workshop.github.io/rss2026/</a></td>
         </tr>
     </tbody>
@@ -166,21 +166,21 @@ An interactive campus map is also available at <a href="https://maps.uts.edu.au/
             <td><span style="font-weight:bold; color: #3a3946;"> 12 </span></td>
             <td>CB02.07.150</td>
             <td>Data-Centric Robotics: What Data Do Robots Really Need?</td>
-            <td>Outside the room</td>
+            <td>Outside of CB02.07.150</td>
             <td><a href="https://rss-workshop-2026.github.io/">https://rss-workshop-2026.github.io/</a></td>
         </tr>
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> 13 </span></td>
             <td>CB11.00.401</td>
             <td>Closing the Sim2Real Gap: Progress and Challenges</td>
-            <td>Outside the room</td>
+            <td>Outside of CB11.00.401</td>
             <td><a href="https://sites.google.com/view/rss2026sim2realws/home">https://sites.google.com/view/rss2026sim2realws/home</a></td>
         </tr>
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> 14 </span></td>
             <td>CB11.B1.101</td>
             <td>Mapping the Reef: Underwater 3D Reconstruction for Coral Ecosystems</td>
-            <td>In or outside the room</td>
+            <td>Either in CB11.B1.101 or outside the room</td>
             <td><a href="https://alejandrofontan.github.io/Mapping-the-Reef-RSS26/">https://alejandrofontan.github.io/Mapping-the-Reef-RSS26/</a></td>
         </tr>
         <tr>
@@ -201,14 +201,14 @@ An interactive campus map is also available at <a href="https://maps.uts.edu.au/
             <td><span style="font-weight:bold; color: #3a3946;"> 17 </span></td>
             <td>CB07.02.025</td>
             <td>Open-World Navigation in the Foundation Model Era: Robustness and Failure Recovery</td>
-            <td>CB07.02.020 &amp; CB07.02.015</td>
+            <td>CB07.02.020 and CB07.02.015</td>
             <td><a href="https://adacompnus.github.io/open-world-navigation-26/">https://adacompnus.github.io/open-world-navigation-26/</a></td>
         </tr>
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> 18 </span></td>
             <td>CB11.00.405</td>
             <td>Robot World Models</td>
-            <td>Outside the room</td>
+            <td>Outside of CB11.00.405</td>
             <td><a href="http://robot-worldmodels.github.io">http://robot-worldmodels.github.io</a></td>
         </tr>
         <tr>
@@ -229,14 +229,14 @@ An interactive campus map is also available at <a href="https://maps.uts.edu.au/
             <td><span style="font-weight:bold; color: #3a3946;"> 21 </span></td>
             <td>CB11.00.100</td>
             <td>Trustworthy Embodied Foundation Models: Safety by Design versus Safety by Practice</td>
-            <td>Outside the room</td>
+            <td>Outside of CB11.00.100</td>
             <td><a href="https://robot-fm-safety.github.io/">https://robot-fm-safety.github.io/</a></td>
         </tr>
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> 22 </span></td>
             <td>CB11.03.301</td>
             <td>Embodied4Arts: Robots as Creative Partners for Artistic, Expressive, and Craft Tasks</td>
-            <td>Outside the room</td>
+            <td>Outside of CB11.03.301</td>
             <td><a href="https://embodied4arts.github.io">https://embodied4arts.github.io</a></td>
         </tr>
     </tbody>
@@ -266,21 +266,21 @@ An interactive campus map is also available at <a href="https://maps.uts.edu.au/
             <td><span style="font-weight:bold; color: #3a3946;"> 24 </span></td>
             <td>CB07.02.025</td>
             <td>Diffusion for Robot Learning</td>
-            <td>CB07.02.020 &amp; CB07.02.015</td>
+            <td>CB07.02.020 and CB07.02.015</td>
             <td><a href="https://rss2026-diffusion-robot-learning.github.io/">https://rss2026-diffusion-robot-learning.github.io/</a></td>
         </tr>
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> 25 </span></td>
             <td>CB11.03.301</td>
             <td>From Imitation to Certification: Learning, Reasoning, and Formal Methods for Safe Robot Manipulation</td>
-            <td>Outside the room</td>
+            <td>Outside of CB11.03.301</td>
             <td><a href="https://sites.google.com/nyu.edu/imitation2certification-wsrss2/home">https://sites.google.com/nyu.edu/imitation2certification-wsrss2/home</a></td>
         </tr>
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> 26 </span></td>
             <td>CB11.B1.101</td>
             <td>Sampling-Based Optimization for Robotics</td>
-            <td>In or outside the room</td>
+            <td>Either in CB11.B1.101 or outside of the room.</td>
             <td><a href="https://sites.google.com/view/sampling-workshop">https://sites.google.com/view/sampling-workshop</a></td>
         </tr>
         <tr>
@@ -294,14 +294,14 @@ An interactive campus map is also available at <a href="https://maps.uts.edu.au/
             <td><span style="font-weight:bold; color: #3a3946;"> 28 </span></td>
             <td>CB11.00.405</td>
             <td>Reinforcement Learning for Vision-Language-Action Models (RL4VLA)</td>
-            <td>Outside the room</td>
+            <td>Outside of CB11.00.405</td>
             <td><a href="https://sites.google.com/view/rl4vla-workshop/home">https://sites.google.com/view/rl4vla-workshop/home</a></td>
         </tr>
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> 29 </span></td>
             <td>CB11.04.400</td>
             <td>Human-centric Mobile Manipulation Workshop</td>
-            <td>In the room</td>
+            <td>CB11.04.400</td>
             <td><a href="https://adacompnus.github.io/human-centric-mobile-manipulation/">https://adacompnus.github.io/human-centric-mobile-manipulation/</a></td>
         </tr>
         <tr>
@@ -322,7 +322,7 @@ An interactive campus map is also available at <a href="https://maps.uts.edu.au/
             <td><span style="font-weight:bold; color: #3a3946;"> 32 </span></td>
             <td>CB11.00.401</td>
             <td>Failure Is Not the End: Towards Open-World Failure Recovery for Robots</td>
-            <td>Outside the room</td>
+            <td>Outside of CB11.00.401</td>
             <td><a href="https://csiro-robotics.github.io/failure-recovery/">https://csiro-robotics.github.io/failure-recovery/</a></td>
         </tr>
     </tbody>
