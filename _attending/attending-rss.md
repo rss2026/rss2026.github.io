@@ -15,7 +15,7 @@ The RSS 2026 Workshops will take place across two days on **Monday 13 July** (ha
 
 **Address:** University of Technology Sydney — 15 Broadway, Ultimo NSW 2007
 
-Please refer to the [Conference Program]({{ site.baseurl }}/program/overview/) for detailed workshop times, building locations, room allocations and catering information. We recommend checking this page regularly for any updates.
+Please refer to the [Workshops at UTS]({{ site.baseurl }}/program/workshops/) page for detailed workshop times, building locations, room allocations and catering information. We recommend checking this page regularly for any updates.
 
 **Catering:**
 
