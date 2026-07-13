@@ -383,9 +383,9 @@ on the Demo Stage from July 13 to July 16.
        <!-- Row 23: 7:30 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">7:30PM</td>
-              <td rowspan="2" class="meal-block">Dinner (catered)</td>
-              <td rowspan="2" class="meal-block">Dinner (catered)</td>
-              <td rowspan="2" class="meal-block">Dinner (catered)</td>
+              <td rowspan="2" class="meal-block">Dinner<br>(catering served <em>7PM</em>)</td>
+              <td rowspan="2" class="meal-block">Dinner<br>(catering served <em>7PM</em>)</td>
+              <td rowspan="2" class="meal-block">Dinner<br>(catering served <em>7PM</em>)</td>
        </tr>
        <!-- Row 24: 8:00 PM -->
        <tr>
