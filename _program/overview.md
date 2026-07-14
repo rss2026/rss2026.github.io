@@ -269,8 +269,8 @@ on the Demo Stage from July 13 to July 16.
               Welcome to Country<br>
               P.C. Opening Remarks
               </td>
-              <td rowspan="2" class="session-block">Navigation 1</td>
-              <td rowspan="2" class="session-block">Navigation 2</td>
+              <td rowspan="1" class="session-block">Navigation 1</td>
+              <td rowspan="1" class="session-block">Navigation 2</td>
               <td rowspan="8" class="workshop-block">
               <a class="block-link" href="{{ site.baseurl }}/program/workshops/">Workshops at UTS</a>
               </td>
@@ -282,14 +282,6 @@ on the Demo Stage from July 13 to July 16.
               Manipulation 1<br><br>
               World Models &amp; Memory
               </td>
-              <td rowspan="3" class="session-block">
-              Robot &amp; Sensor Design<br><br>
-              Imitation learning 3
-              </td>
-       </tr>
-       <!-- Row 14: 3:00 PM -->
-       <tr>
-              <td style="background-color: #E2F0D950;">3:00PM</td>
               <td rowspan="1" class="keynote-block">
               Early Career Spotlight<br>
               <a href="https://marco-tognon-robotics.com/">Marco Tognon</a> (Inria)
@@ -298,12 +290,20 @@ on the Demo Stage from July 13 to July 16.
               <a href="{{ site.baseurl }}/program/testoftimeaward/">Test of Time Award</a><br>
               Deimel and Brock, RSS 2014
               </td>
+              <td rowspan="3" class="session-block">
+              Robot &amp; Sensor Design<br><br>
+              Imitation learning 3
+              </td>
+       </tr>
+       <!-- Row 14: 3:00 PM -->
+       <tr>
+              <td style="background-color: #E2F0D950;">3:00PM</td>
+              <td rowspan="2" class="session-block">Imitation learning 1</td>
+              <td rowspan="2" class="session-block">Imitation learning 2</td>
        </tr>
        <!-- Row 15: 3:30 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">3:30PM</td>
-              <td rowspan="1" class="session-block">Imitation learning 1</td>
-              <td rowspan="1" class="session-block">Imitation learning 2</td>
        </tr>
        <!-- Row 16: 4:00 PM -->
        <tr>
