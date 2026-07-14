@@ -356,7 +356,7 @@ on the Demo Stage from July 13 to July 16.
        <!-- Row 20: 6:00 PM -->
        <tr>
               <td style="background-color: #E2F0D950;">6:00PM</td>
-              <td rowspan="1" class="no-meal-block">Walk to banquet</td>
+              <td rowspan="1" class="no-meal-block">Make your way banquet</td>
               <td rowspan="9" style="box-shadow: none;"></td>
        </tr>
        <!-- Row 21: 6:30 PM -->

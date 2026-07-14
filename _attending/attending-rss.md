@@ -113,7 +113,7 @@ Catering will be provided in The Gallery (Exhibition Hall). There will be a dedi
 
 ### Conference Banquet
 
-**Thursday 16 July | 6:30 PM – 10:30 PM | Luna Lu at Campbell's Stores**
+**Thursday 16 July \| 6:30 PM – 10:30 PM \| Luna Lu at Campbell's Stores**
 
 The "Agibot" Conference Banquet will be held at Luna Lu at Campbell's Stores.
 
