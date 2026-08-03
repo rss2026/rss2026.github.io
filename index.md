@@ -11,16 +11,16 @@ title: Home
 </div> -->
 
 
-<div style="margin-top: 20px; background-color: #0F4BEA; color: #ffffff; padding: 14px 18px; text-align: center; font-weight: bold; font-size: 20px; border-radius: 6px; line-height: 1.35;">
+<div style="margin-top: 20px; background-color: #0F4BEA; color: #ffffff; padding: 14px 18px; text-align: center; font-weight: bold; font-size: 18px; border-radius: 6px; white-space: nowrap; overflow-x: auto;">
   We look forward to seeing you at RSS 2027 in Athens, Greece, July 6&ndash;11, 2027!
 </div>
 
-<div style="border: 1px solid #bee5eb; background-color: #d1ecf1; color: #0c5460; padding: 14px 18px; margin: 18px 0; border-radius: 6px;">
-  <p style="margin: 0;">RSS 2026 is complete. Thank you to everyone who joined us in Sydney for a wonderful week of robotics &mdash; and congratulations to our <a href="{{ site.baseurl }}/program/awards/">award finalists and winners</a>!</p>
-</div>
-
 <h1 class="page-title">{{ site.title }}<br>
-<s>July 13&ndash;17, 2026</s><br>Sydney, Australia</h1>
+July 13&ndash;17, 2026<br>Sydney, Australia</h1>
+
+<div style="border: 1px solid #bee5eb; background-color: #d1ecf1; color: #0c5460; padding: 14px 18px; margin: 18px 0; border-radius: 6px;">
+  <p style="margin: 0;">RSS 2026 is complete. Thank you to everyone who joined us in Sydney for a wonderful week of robotics. Congratulations to our <a href="{{ site.baseurl }}/program/awards/">award finalists and winners</a>!</p>
+</div>
 
 
 <!-- recording -->
@@ -124,7 +124,7 @@ Early bird registration is closed
 We are pleased to announce the 22nd edition of the “Robotics: Science and Systems” (RSS) conference to be held at the
 [University of Technology Sydney](https://www.uts.edu.au/){:target="_blank"}
 and the
-[International Convention Centre](https://iccsydney.com.au/){:target="_blank"}, Sydney, Australia from <s>July 13-17, 2026</s>.
+[International Convention Centre](https://iccsydney.com.au/){:target="_blank"}, Sydney, Australia from July 13-17, 2026.
 
 RSS has a long history of bringing together researchers in all areas of robotics from around the world for an engaging and focused week of single-track presentations, workshops, poster sessions, and tutorials.
 

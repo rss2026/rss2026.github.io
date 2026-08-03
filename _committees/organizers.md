@@ -276,8 +276,5 @@ published: true
     </tr>
   </table>
 
-  <br>
-  <p><i>Additional Organizing Committee members will be announced soon.</i></p>
-
   </div>
 </div>
