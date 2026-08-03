@@ -233,6 +233,50 @@ published: true
   </table>
 
   <br>
+
+  <b>Awards Committee</b><br>
+  <table style="margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:200px;vertical-align:top;">
+        <b>Dylan Shell</b><br>
+        <i>Texas A&amp;M University, USA</i><br>
+      </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <b>Kris Hauser</b><br>
+        <i>University of Illinois Urbana-Champaign, USA</i><br>
+      </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <b>Eiichi Yoshida</b><br>
+        <i>Tokyo University of Science, Japan</i><br>
+      </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <b>Jeannette Bohg</b><br>
+        <i>Stanford University, USA</i><br>
+      </td>
+    </tr>
+    <tr><td colspan="7" style="height:1.2em;"></td></tr>
+    <tr>
+      <td style="width:200px;vertical-align:top;">
+        <b>Marco Hutter</b><br>
+        <i>ETH Zurich, Switzerland</i><br>
+      </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <b>Peter Corke</b><br>
+        <i>Queensland University of Technology, Australia</i><br>
+      </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <b>Niko Suenderhauf</b><br>
+        <i>Queensland University of Technology, Australia</i><br>
+      </td>
+    </tr>
+  </table>
+
+  <br>
   <p><i>Additional Organizing Committee members will be announced soon.</i></p>
 
   </div>

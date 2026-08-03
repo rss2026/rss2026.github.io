@@ -16,7 +16,7 @@ title: Home
 </div>
 
 <div style="border: 1px solid #bee5eb; background-color: #d1ecf1; color: #0c5460; padding: 14px 18px; margin: 18px 0; border-radius: 6px;">
-  <p style="margin: 0;">RSS 2026 is complete. Thank you to everyone who joined us in Sydney for a wonderful week of robotics &mdash; and congratulations to our award finalists and winners!</p>
+  <p style="margin: 0;">RSS 2026 is complete. Thank you to everyone who joined us in Sydney for a wonderful week of robotics &mdash; and congratulations to our <a href="{{ site.baseurl }}/program/awards/">award finalists and winners</a>!</p>
 </div>
 
 <h1 class="page-title">{{ site.title }}<br>

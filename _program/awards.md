@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Awards
-description: Awards.
+description: RSS 2026 award winners and finalists.
 priority: 7
 invisible: false
-published: false
+published: true
 ---
 
 <style>
@@ -58,176 +58,122 @@ published: false
 }
 </style>
 
+Congratulations to the RSS 2026 award winners and finalists!
+
+## Award Winners
+
 <div class="award-card">
-<h3>Outstanding Demo Paper Award</h3>
+<h3>Outstanding Paper Award</h3>
 <ul class="award-list">
   <li class="winner">
     <strong>
-      <a href="https://roboticsconference.org/program/papers/20/" class="paper-link" target="_blank">Demonstrating MuJoCo Playground
-      </a>
+      <a href="{{ site.baseurl }}/program/papers/99/" class="paper-link">FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control</a>
     </strong><br>
-    <em>Kevin Zakka, Baruch Tabanpour, Qiayuan Liao, Mustafa Haiderbhai, Samuel Holt, Jing Yuan Luo, Arthur Allshire, Erik Frey, Koushil Sreenath, Lueder Alexander Kahrs, Carmelo Sferrazza, Yuval Tassa, Pieter Abbeel</em>
+    <em>Donghu Kim, Youngdo Lee, Minho Park, Kinam Kim, Takuma Seno, I. Made Aswin Nahrendra, Sehee Min, Daniel Palenicek, Florian Vogt, Danica Kragic, Jan Peters, Jaegul Choo, Hojoon Lee</em>
     <br>
-    <span class="winner-label">Winner: Outstanding Demo Paper Award</span>
+    <span class="winner-label">Winner: Outstanding Paper Award</span>
   </li>
 </ul>
 </div>
 
 <div class="award-card">
-<h3>Outstanding Systems Paper Award Finalists</h3>
+<h3>Outstanding Student Paper Award</h3>
 <ul class="award-list">
   <li class="winner">
     <strong>
-      <a href="https://roboticsconference.org/program/papers/32/" class="paper-link" target="_blank">Building Rome with Convex Optimization
-      </a>
+      <a href="{{ site.baseurl }}/program/papers/160/" class="paper-link">Muninn: Your Trajectory Diffusion Model But Faster</a>
     </strong><br>
-    <em>Haoyu Han, Heng Yang</em>
+    <em>Gokul Puthumanaillam, Hao Jiang, Ruben Hernandez, Jose Fuentes, Paulo Padrao, Leonardo Bobadilla, Melkior Ornik</em>
     <br>
-    <span class="winner-label">Winner: Outstanding Systems Paper Award</span>
-  </li>
-  <li>
-    <strong>
-      <a href="https://roboticsconference.org/program/papers/1/" class="paper-link" target="_blank">Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation
-      </a>
-    </strong><br>
-    <em>Pascal Roth, Jonas Frey, Cesar Cadena, Marco Hutter</em>
-  </li>
-  <li>
-    <strong>
-      <a href="https://roboticsconference.org/program/papers/83/" class="paper-link" target="_blank">FEAST: A Flexible Mealtime-Assistance System Tackling In-the-Wild Personalization
-      </a>
-    </strong><br>
-    <em>Rajat Kumar Jenamani, Tom Silver, Ben Dodson, Shiqin Tong, Anthony Song, Yuting Yang, Ziang Liu, Benjamin Howe, Aimee Whitneck, Tapomayukh Bhattacharjee</em>
-  </li>
-  <li>
-    <strong>
-      <a href="https://roboticsconference.org/program/papers/64/" class="paper-link" target="_blank">Learning Humanoid Standing-up Control across Diverse Postures
-      </a>
-    </strong><br>
-    <em>Tao Huang, Junli Ren, Huayi Wang, Zirui Wang, Qingwei Ben, Muning Wen, Xiao Chen, Jianan Li, Jiangmiao Pang</em>
+    <span class="winner-label">Winner: Outstanding Student Paper Award</span>
   </li>
 </ul>
 </div>
 
 <div class="award-card">
-<h3>Outstanding Student Paper Award Finalists</h3>
+<h3>Outstanding Systems Paper in Memory of Seth Teller Award</h3>
+<ul class="award-list">
+  <li class="winner">
+    <strong>
+      <a href="{{ site.baseurl }}/program/papers/159/" class="paper-link">NeuralActuator: Neural Actuation Modeling for Robot Dynamics and External Force Perception</a>
+    </strong><br>
+    <em>Zhiyang Dou, John U. Onyemelukwe, Hangxing Zhang, Heng Zhang, Minghao Guo, Yunsheng Tian, Michal Piotr Lipiec, Joshua Jacob, Chao Liu, Peter Yichen Chen, Yuri Ivanov, Wojciech Matusik</em>
+    <br>
+    <span class="winner-label">Winner: Outstanding Systems Paper in Memory of Seth Teller Award</span>
+  </li>
+</ul>
+</div>
+
+## Outstanding Paper Award Finalists
+
+<div class="award-card">
 <ul class="award-list">
   <li>
     <strong>
-      <a href="https://roboticsconference.org/program/papers/5/" class="paper-link" target="_blank">Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence
-      </a>
+      <a href="{{ site.baseurl }}/program/papers/112/" class="paper-link">Automated Synthesis of Facial Mechanisms for Conversational Animatronic Robots</a>
     </strong><br>
-    <em>Jiwoo Kim, Geunsik Bae, Changseung Kim, Jinwoo Lee, Woojae Shin, Hyondong Oh</em>
+    <em>Zongzheng Zhang, Zi Lin, Jiawen Yang, Ziqiao Peng, Junyan Lao, Lin Cheng, Huazhe Xu, Hang Zhao, Hao Zhao</em>
+  </li>
+  <li>
+    <strong>
+      <a href="{{ site.baseurl }}/program/papers/75/" class="paper-link">OAT: Ordered Action Tokenization</a>
+    </strong><br>
+    <em>Chaoqi Liu, Xiaoshen Han, Jiawei Gao, Yue Zhao, Haonan Chen, Yilun Du</em>
   </li>
   <li class="winner">
     <strong>
-      <a href="https://roboticsconference.org/program/papers/27/" class="paper-link" target="_blank">Solving Multi-Agent Safe Optimal Control with Distributed Epigraph Form MARL
-      </a>
+      <a href="{{ site.baseurl }}/program/papers/160/" class="paper-link">Muninn: Your Trajectory Diffusion Model But Faster</a>
     </strong><br>
-    <em>Songyuan Zhang, Oswin So, Mitchell Black, Zachary Serlin, Chuchu Fan</em>
+    <em>Gokul Puthumanaillam, Hao Jiang, Ruben Hernandez, Jose Fuentes, Paulo Padrao, Leonardo Bobadilla, Melkior Ornik</em>
     <br>
     <span class="winner-label">Winner: Outstanding Student Paper Award</span>
   </li>
   <li>
     <strong>
-      <a href="https://roboticsconference.org/program/papers/52/" class="paper-link" target="_blank">Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation
-      </a>
+      <a href="{{ site.baseurl }}/program/papers/100/" class="paper-link">Realizing Robotic Swimming with Unified Fluid-Robot Multiphysics</a>
     </strong><br>
-    <em>Han Xue, Jieji Ren, Wendi Chen, Gu Zhang, Fang Yuan, Guoying Gu, Huazhe Xu, Cewu Lu</em>
-  </li>
-</ul>
-</div>
-
-<div class="award-card">
-<h3>Outstanding Paper Award Finalists</h3>
-<ul class="award-list">
-  <li>
-    <strong>
-      <a href="https://roboticsconference.org/program/papers/12/" class="paper-link" target="_blank">FAST: Efficient Action Tokenization for Vision-Language-Action Models
-      </a>
-    </strong><br>
-    <em>Karl Pertsch, Kyle Stachowicz, Brian Ichter, Danny Driess, Suraj Nair, Quan Vuong, Oier Mees, Chelsea Finn, Sergey Levine</em>
+    <em>Jeong Hun Lee, Junzhe Hu, Sofia Kwok, Carmel Majidi, Zac Manchester</em>
   </li>
   <li class="winner">
     <strong>
-      <a href="https://roboticsconference.org/program/papers/83/" class="paper-link" target="_blank">FEAST: A Flexible Mealtime-Assistance System Tackling In-the-Wild Personalization
-      </a>
+      <a href="{{ site.baseurl }}/program/papers/159/" class="paper-link">NeuralActuator: Neural Actuation Modeling for Robot Dynamics and External Force Perception</a>
     </strong><br>
-    <em>Rajat Kumar Jenamani, Tom Silver, Ben Dodson, Shiqin Tong, Anthony Song, Yuting Yang, Ziang Liu, Benjamin Howe, Aimee Whitneck, Tapomayukh Bhattacharjee</em>
+    <em>Zhiyang Dou, John U. Onyemelukwe, Hangxing Zhang, Heng Zhang, Minghao Guo, Yunsheng Tian, Michal Piotr Lipiec, Joshua Jacob, Chao Liu, Peter Yichen Chen, Yuri Ivanov, Wojciech Matusik</em>
+    <br>
+    <span class="winner-label">Winner: Outstanding Systems Paper in Memory of Seth Teller Award</span>
+  </li>
+  <li>
+    <strong>
+      <a href="{{ site.baseurl }}/program/papers/102/" class="paper-link">cuNRTO: GPU-Accelerated Nonlinear Robust Trajectory Optimization</a>
+    </strong><br>
+    <em>Jiawei Wang, Arshiya Taj Abdul, Evangelos Theodorou</em>
+  </li>
+  <li class="winner">
+    <strong>
+      <a href="{{ site.baseurl }}/program/papers/99/" class="paper-link">FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control</a>
+    </strong><br>
+    <em>Donghu Kim, Youngdo Lee, Minho Park, Kinam Kim, Takuma Seno, I. Made Aswin Nahrendra, Sehee Min, Daniel Palenicek, Florian Vogt, Danica Kragic, Jan Peters, Jaegul Choo, Hojoon Lee</em>
     <br>
     <span class="winner-label">Winner: Outstanding Paper Award</span>
   </li>
   <li>
     <strong>
-      <a href="https://roboticsconference.org/program/papers/27/" class="paper-link" target="_blank">Solving Multi-Agent Safe Optimal Control with Distributed Epigraph Form MARL
-      </a>
+      <a href="{{ site.baseurl }}/program/papers/149/" class="paper-link">Emerging Extrinsic Dexterity in Cluttered Scenes via Dynamics-aware Policy Learning</a>
     </strong><br>
-    <em>Songyuan Zhang, Oswin So, Mitchell Black, Zachary Serlin, Chuchu Fan</em>
+    <em>Yixin Zheng, Jiangran Lyu, Yifan Zhang, Jiayi Chen, Mi Yan, Yuntian Deng, Xuesong Shi, Xiaoguang Zhao, Yizhou Wang, Zhizheng Zhang, He Wang</em>
   </li>
 </ul>
 </div>
 
 ---
 
-<h3>Award Committee</h3>
+<h3>Awards Committee</h3>
 <ul style="list-style: none; padding-left: 0;">
-
-  <li style="margin-bottom: 1.2em;">
-    <a href="https://www.comp.nus.edu.sg/~dyhsu/" target="_blank">
-        <strong>David Hsu</strong>
-    </a><br>
-    <span style="font-size: 0.95em; color: #555; line-height: 1.4;">
-      National University of Singapore
-    </span>
-  </li>
-
-  <li style="margin-bottom: 1.2em;">
-    <a href="http://asrl.utias.utoronto.ca/~tdb/" target="_blank">
-        <strong>Timothy Barfoot</strong>
-    </a><br>
-    <span style="font-size: 0.95em; color: #555; line-height: 1.4;">
-      University of Toronto
-    </span>
-  </li>
-
-  <li style="margin-bottom: 1.2em;">
-    <a href="https://www.tuwien.at/en/etit/ict/asl/team/dongheui-lee" target="_blank">
-        <strong>Dongheui Lee</strong>
-    </a><br>
-    <span style="font-size: 0.95em; color: #555; line-height: 1.4;">
-      TU Wien
-    </span>
-  </li>
-
-  <li style="margin-bottom: 1.2em;">
-    <a href="http://www.cs.cmu.edu/~maxim/" target="_blank">
-        <strong>Maxim Likhachev</strong>
-    </a><br>
-    <span style="font-size: 0.95em; color: #555; line-height: 1.4;">
-      CMU
-    </span>
-  </li>
-
-  <li style="margin-bottom: 1.2em;">
-    <a href="https://irom-lab.princeton.edu/majumdar/" target="_blank">
-        <strong>Anirudha Majumdar</strong>
-    </a><br>
-    <span style="font-size: 0.95em; color: #555; line-height: 1.4;">
-      Princeton University
-    </span>
-  </li>
+  <li style="margin-bottom: 1.2em;"><strong>Dylan Shell</strong><br><span style="font-size: 0.95em; color: #555;">Texas A&amp;M University</span></li>
+  <li style="margin-bottom: 1.2em;"><strong>Kris Hauser</strong><br><span style="font-size: 0.95em; color: #555;">University of Illinois Urbana-Champaign</span></li>
+  <li style="margin-bottom: 1.2em;"><strong>Eiichi Yoshida</strong><br><span style="font-size: 0.95em; color: #555;">Tokyo University of Science</span></li>
+  <li style="margin-bottom: 1.2em;"><strong>Jeannette Bohg</strong><br><span style="font-size: 0.95em; color: #555;">Stanford University</span></li>
+  <li style="margin-bottom: 1.2em;"><strong>Marco Hutter</strong><br><span style="font-size: 0.95em; color: #555;">ETH Zurich</span></li>
+  <li style="margin-bottom: 1.2em;"><strong>Peter Corke</strong><br><span style="font-size: 0.95em; color: #555;">Queensland University of Technology</span></li>
+  <li style="margin-bottom: 1.2em;"><strong>Niko Suenderhauf</strong><br><span style="font-size: 0.95em; color: #555;">Queensland University of Technology</span></li>
 </ul>
-
----
-
-<div class="award-card">
-  <h3>Outstanding Reviewer Award</h3>
-  <ul style="columns: 2; list-style: none; padding-left: 0; margin: 0;">
-    <li>Milad Ramezani</li>
-    <li>Yun Chang</li>
-    <li>Scott Livingston</li>
-    <li>Jake Brawer</li>
-    <li>Xuan Lin</li>
-    <li>Sangli Teng</li>
-  </ul>
-</div>
