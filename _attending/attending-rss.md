@@ -113,7 +113,7 @@ Catering will be provided in The Gallery (Exhibition Hall). There will be a dedi
 
 ### Conference Banquet
 
-**Thursday 16 July | 6:30 PM – 10:30 PM | Luna Lu at Campbell's Stores**
+**Thursday 16 July \| 6:30 PM – 10:30 PM \| Luna Lu at Campbell's Stores**
 
 The "Agibot" Conference Banquet will be held at Luna Lu at Campbell's Stores.
 
@@ -123,7 +123,7 @@ If you are attending the Conference Banquet, your ticket will be available with 
 
 **Directions:**
 
-* Train or light rail from Circular Quay to Town Hall, then a 10-minute walk from Town Hall to Luna Lu
+* Train or light rail **from Town Hall to Circular Quay**, then a 10-minute walk from **Circular Quay** to Luna Lu
 * Drive is 12 minutes from the ICC to Luna Lu
 
 ### Family Friendly Room
