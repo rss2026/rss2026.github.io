@@ -87,10 +87,26 @@
     </div>
 </div>
 
+<style>
+  /* Keep the top menu on a single row (prevent wrapping when zoomed) */
+  @media (min-width: 768px) {
+    .navbar-default .navbar-nav {
+      display: flex;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+    }
+    .navbar-default .navbar-nav > li > a {
+      padding-left: 12px;
+      padding-right: 12px;
+      white-space: nowrap;
+    }
+  }
+</style>
+
 <nav class="navbar navbar-default" data-spy="affix" data-offset-top="215">
     <div class="container">
         <div class="row">
-            <div class="col-md-8 col-lg-8 col-sm-11 col-xs-12 col-lg-offset-4 col-md-offset-2 col-sm-offset-1">
+            <div class="col-md-9 col-lg-9 col-sm-11 col-xs-12 col-lg-offset-3 col-md-offset-1 col-sm-offset-1">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
                         <span class="icon-bar"></span>
@@ -113,6 +129,13 @@
                                 <!-- <li><a href="https://roboticsconference.org/attending/">Attending RSS</a></li> -->
                             </ul>
                         </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">sponsors<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/2026/information/sponsorship/">Sponsors</a></li>
+                                <li><a href="/2026/information/sponsor-bios/">Sponsor Bios</a></li>
+                            </ul>
+                        </li>
                         
                         
                         <li class="dropdown">
@@ -125,6 +148,16 @@
                                 <!-- <li><a href="/2026/attending/registration/">Registration</a></li> -->
                                 
                                 <li><a href="/2026/attending/registration/">Registration</a></li>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <!-- <li><a href="/2026/attending/attending-rss/">Attending RSS</a></li> -->
+                                
+                                <li><a href="/2026/attending/attending-rss/">Attending RSS</a></li>
                                 
                                 
                                 
@@ -217,6 +250,23 @@
                                 
                                 
                                 
+                                <!-- <li><a href="/2026/information/sponsor-bios/">Sponsor Bios</a></li> -->
+                                
+                                
+                                
+                                
+                                
+                                
+                                <!-- <li><a href="/2026/information/presentationInstructions/">Presenter Information</a></li> -->
+                                
+                                <li><a href="/2026/information/presentationInstructions/">Presenter Information</a></li>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
                                 <!-- <li><a href="/2026/information/cfp/">Call for Papers</a></li> -->
                                 
                                 <li><a href="/2026/information/cfp/">Call for Papers</a></li>
@@ -249,9 +299,6 @@
                                 
                                 <!-- <li><a href="/2026/information/sponsorship/">Sponsors</a></li> -->
                                 
-                                <li><a href="/2026/information/sponsorship/">Sponsors</a></li>
-                                
-                                
                                 
                                 
                                 
@@ -269,16 +316,44 @@
                                 
                                 
                                 
+                                <!-- <li><a href="/2026/program/overview/">Overview</a></li> -->
+                                
+                                <li><a href="/2026/program/overview/">Overview</a></li>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <!-- <li><a href="/2026/program/allsessions/">Paper Sessions</a></li> -->
+                                
+                                <li><a href="/2026/program/allsessions/">Paper Sessions</a></li>
+                                
+                                
+                                
+                                
+                                
                                 
                                 
                                 <!-- <li><a href="/2026/program/papers/">Accepted Papers</a></li> -->
                                 
+                                <li><a href="/2026/program/papers/">Accepted Papers</a></li>
                                 
                                 
                                 
                                 
                                 
-                                <!-- <li><a href="/2026/program/workshops/">Workshops</a></li> -->
+                                
+                                
+                                <!-- <li><a href="/2026/program/workshops/">Workshops at UTS</a></li> -->
+                                
+                                <li><a href="/2026/program/workshops/">Workshops at UTS</a></li>
+                                
                                 
                                 
                                 
@@ -292,7 +367,37 @@
                                 
                                 
                                 
+                                <!-- <li><a href="/2026/program/demos/">Sponsor Demos</a></li> -->
+                                
+                                <li><a href="/2026/program/demos/">Sponsor Demos</a></li>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <!-- <li><a href="/2026/program/awards/">Awards</a></li> -->
+                                
+                                <li><a href="/2026/program/awards/">Awards</a></li>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
                                 <!-- <li><a href="/2026/program/labtours/">Lab Tours</a></li> -->
+                                
+                                
+                                
+                                
+                                
+                                
+                                <!-- <li><a href="/2026/program/keynotes-spotlights/">Keynotes and Early Career Spotlights</a></li> -->
+                                
+                                <li><a href="/2026/program/keynotes-spotlights/">Keynotes and Early Career Spotlights</a></li>
+                                
                                 
                                 
                                 
@@ -307,9 +412,6 @@
                                 
                                 
                                 <!-- <li><a href="/2026/program/earlycareer/">Early Career Spotlight</a></li> -->
-                                
-                                <li><a href="/2026/program/earlycareer/">Early Career Spotlight</a></li>
-                                
                                 
                                 
                                 
@@ -590,7 +692,104 @@
                                 
                                 
                                 
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
                                 <!-- <li><a href="/2026/program/pathways/">Pathways@RSS</a></li> -->
+                                
+                                <li><a href="/2026/program/pathways/">Pathways@RSS</a></li>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
                                 
                                 
                                 
@@ -723,6 +922,14 @@
 <br>
 <br>
 
+<b>sponsors</b>
+<br>
+<a class="sidebar-nav-item" href="/2026/information/sponsorship/">Sponsors</a>
+<br>
+<a class="sidebar-nav-item" href="/2026/information/sponsor-bios/">Sponsor Bios</a>
+<br>
+<br>
+
 
 
 
@@ -739,6 +946,18 @@
 <!-- <a class="sidebar-nav-item" href="/2026/attending/registration/">Registration</a> -->
 
 <a class="sidebar-nav-item" href="/2026/attending/registration/">Registration</a>
+<br>
+
+
+<!-- <br> -->
+
+
+
+
+
+<!-- <a class="sidebar-nav-item" href="/2026/attending/attending-rss/">Attending RSS</a> -->
+
+<a class="sidebar-nav-item" href="/2026/attending/attending-rss/">Attending RSS</a>
 <br>
 
 
@@ -798,9 +1017,11 @@
 
 
 
+<!-- <a class="sidebar-nav-item" href="/2026/program/overview/">Overview</a> -->
 
+<a class="sidebar-nav-item" href="/2026/program/overview/">Overview</a>
+<br>
 
-<!-- <a class="sidebar-nav-item" href="/2026/program/papers/">Accepted Papers</a> -->
 
 <!-- <br> -->
 
@@ -808,7 +1029,39 @@
 
 
 
-<!-- <a class="sidebar-nav-item" href="/2026/program/workshops/">Workshops</a> -->
+
+
+
+
+<!-- <a class="sidebar-nav-item" href="/2026/program/allsessions/">Paper Sessions</a> -->
+
+<a class="sidebar-nav-item" href="/2026/program/allsessions/">Paper Sessions</a>
+<br>
+
+
+<!-- <br> -->
+
+
+
+
+
+<!-- <a class="sidebar-nav-item" href="/2026/program/papers/">Accepted Papers</a> -->
+
+<a class="sidebar-nav-item" href="/2026/program/papers/">Accepted Papers</a>
+<br>
+
+
+<!-- <br> -->
+
+
+
+
+
+<!-- <a class="sidebar-nav-item" href="/2026/program/workshops/">Workshops at UTS</a> -->
+
+<a class="sidebar-nav-item" href="/2026/program/workshops/">Workshops at UTS</a>
+<br>
+
 
 <!-- <br> -->
 
@@ -824,7 +1077,43 @@
 
 
 
+<!-- <a class="sidebar-nav-item" href="/2026/program/demos/">Sponsor Demos</a> -->
+
+<a class="sidebar-nav-item" href="/2026/program/demos/">Sponsor Demos</a>
+<br>
+
+
+<!-- <br> -->
+
+
+
+
+
+<!-- <a class="sidebar-nav-item" href="/2026/program/awards/">Awards</a> -->
+
+<a class="sidebar-nav-item" href="/2026/program/awards/">Awards</a>
+<br>
+
+
+<!-- <br> -->
+
+
+
+
+
 <!-- <a class="sidebar-nav-item" href="/2026/program/labtours/">Lab Tours</a> -->
+
+<!-- <br> -->
+
+
+
+
+
+<!-- <a class="sidebar-nav-item" href="/2026/program/keynotes-spotlights/">Keynotes and Early Career Spotlights</a> -->
+
+<a class="sidebar-nav-item" href="/2026/program/keynotes-spotlights/">Keynotes and Early Career Spotlights</a>
+<br>
+
 
 <!-- <br> -->
 
@@ -841,10 +1130,6 @@
 
 
 <!-- <a class="sidebar-nav-item" href="/2026/program/earlycareer/">Early Career Spotlight</a> -->
-
-<a class="sidebar-nav-item" href="/2026/program/earlycareer/">Early Career Spotlight</a>
-<br>
-
 
 <!-- <br> -->
 
@@ -1131,9 +1416,107 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- <a class="sidebar-nav-item" href="/2026/program/pathways/">Pathways@RSS</a> -->
 
+<a class="sidebar-nav-item" href="/2026/program/pathways/">Pathways@RSS</a>
+<br>
+
+
 <!-- <br> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1246,6 +1629,26 @@
 
 
 
+<!-- <a class="sidebar-nav-item" href="/2026/information/sponsor-bios/">Sponsor Bios</a> -->
+
+<!-- <br> -->
+
+
+
+
+
+<!-- <a class="sidebar-nav-item" href="/2026/information/presentationInstructions/">Presenter Information</a> -->
+
+<a class="sidebar-nav-item" href="/2026/information/presentationInstructions/">Presenter Information</a>
+<br>
+
+
+<!-- <br> -->
+
+
+
+
+
 <!-- <a class="sidebar-nav-item" href="/2026/information/cfp/">Call for Papers</a> -->
 
 <a class="sidebar-nav-item" href="/2026/information/cfp/">Call for Papers</a>
@@ -1282,10 +1685,6 @@
 
 
 <!-- <a class="sidebar-nav-item" href="/2026/information/sponsorship/">Sponsors</a> -->
-
-<a class="sidebar-nav-item" href="/2026/information/sponsorship/">Sponsors</a>
-<br>
-
 
 <!-- <br> -->
 
@@ -1381,7 +1780,7 @@ With strong year-round demand, securing quality accommodation at competitive rat
 
 <h2 id="hotel-selection">Hotel Selection</h2>
 
-<p>The rates below are available <strong>only to registered RSS 2026 delegates</strong>. All rooms and rates below are held until <strong>26 May 2026</strong> or until sold out. Rooms are available on a first-come, first-served basis, so we recommend booking early to avoid disappointment. If you require accommodation outside the official accommodation dates <strong>(11–18 July 2026)</strong>, please contact the <a href="mailto:rssconference.reg@gmail.com">RSS 2026 Secretariat</a>.</p>
+<p>The rates below are available <strong>only to registered RSS 2026 delegates</strong>. Hotel special rates have been <strong>extended</strong> and rooms below are now being held until <strong>Thursday, 11 June 2026 at midnight (Sydney time)</strong> or until sold out. Rooms are available on a first-come, first-served basis, so we recommend booking early to avoid disappointment. If you require accommodation outside the official accommodation dates <strong>(11–18 July 2026)</strong>, please contact the <a href="mailto:rssconference.reg@gmail.com">RSS 2026 Secretariat</a>.</p>
 
 <hr />
 
@@ -1600,19 +1999,19 @@ With strong year-round demand, securing quality accommodation at competitive rat
 
 <h2 id="terms--conditions">Terms &amp; Conditions</h2>
 
-<p><strong>Accommodation Deadline: 26 May 2026</strong></p>
+<p><strong>Accommodation Deadline: 11 June 2026 (midnight Sydney time)</strong></p>
 
 <h3 id="cancellations">Cancellations</h3>
 
-<p><strong>NO ACCOMMODATION PAYMENTS WILL BE REFUNDED ON OR AFTER 26 May 2026.</strong> Delegates who confirm an accommodation booking with a credit card or full prepayment and who wish to cancel on or after 26 May 2026 are liable for the full cost of the cancelled accommodation nights. Credit card details or full pre-payments will be held on file as a guarantee of booking and shared with the hotel in case of no-shows or late cancellations. To cancel your reservation, please contact the <a href="mailto:rssconference.reg@gmail.com">RSS 2026 Secretariat</a>. Name changes to a reservation can be made at no charge.</p>
+<p><strong>NO ACCOMMODATION PAYMENTS WILL BE REFUNDED ON OR AFTER 11 June 2026.</strong> Delegates who confirm an accommodation booking with a credit card or full prepayment and who wish to cancel on or after 11 June 2026 are liable for the full cost of the cancelled accommodation nights. Credit card details or full pre-payments will be held on file as a guarantee of booking and shared with the hotel in case of no-shows or late cancellations. To cancel your reservation, please contact the <a href="mailto:rssconference.reg@gmail.com">RSS 2026 Secretariat</a>. Name changes to a reservation can be made at no charge.</p>
 
 <h3 id="deposits">Deposits</h3>
 
-<p>Accommodation will not be confirmed until payment for the first night is received by credit card, or full prepayment is received by cheque or electronic funds transfer. Your payment will be forwarded to your hotel and credited to your room account, and credit card details will be retained on file as a guarantee of booking. Delegates must settle the balance of their account with the hotel upon check-in/out, depending on the hotel’s policy. If accommodation deposits are not received before <strong>26 May 2026</strong>, your room will be cancelled and released back to the hotel. The <a href="mailto:rssconference.reg@gmail.com">RSS 2026 Secretariat</a> does not take responsibility for accommodation if payment is not received by this date.</p>
+<p>Accommodation will not be confirmed until payment for the first night is received by credit card, or full prepayment is received by cheque or electronic funds transfer. Your payment will be forwarded to your hotel and credited to your room account, and credit card details will be retained on file as a guarantee of booking. Delegates must settle the balance of their account with the hotel upon check-in/out, depending on the hotel’s policy. If accommodation deposits are not received before <strong>11 June 2026</strong>, your room will be cancelled and released back to the hotel. The <a href="mailto:rssconference.reg@gmail.com">RSS 2026 Secretariat</a> does not take responsibility for accommodation if payment is not received by this date.</p>
 
 <h3 id="change-of-booking">Change of Booking</h3>
 
-<p>Any change in booking must be made in writing to the <a href="mailto:rssconference.reg@gmail.com">RSS 2026 Secretariat</a> and <strong>NOT</strong> directly to the hotel before <strong>26 May 2026</strong>. Any changes received after 26 May 2026 will be at the hotel’s discretion and subject to availability.</p>
+<p>Any change in booking must be made in writing to the <a href="mailto:rssconference.reg@gmail.com">RSS 2026 Secretariat</a> and <strong>NOT</strong> directly to the hotel before <strong>11 June 2026</strong>. Any changes received after 11 June 2026 will be at the hotel’s discretion and subject to availability.</p>
 
 <h3 id="early-arrival">Early Arrival</h3>
 

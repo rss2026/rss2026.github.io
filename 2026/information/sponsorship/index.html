@@ -87,10 +87,26 @@
     </div>
 </div>
 
+<style>
+  /* Keep the top menu on a single row (prevent wrapping when zoomed) */
+  @media (min-width: 768px) {
+    .navbar-default .navbar-nav {
+      display: flex;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+    }
+    .navbar-default .navbar-nav > li > a {
+      padding-left: 12px;
+      padding-right: 12px;
+      white-space: nowrap;
+    }
+  }
+</style>
+
 <nav class="navbar navbar-default" data-spy="affix" data-offset-top="215">
     <div class="container">
         <div class="row">
-            <div class="col-md-8 col-lg-8 col-sm-11 col-xs-12 col-lg-offset-4 col-md-offset-2 col-sm-offset-1">
+            <div class="col-md-9 col-lg-9 col-sm-11 col-xs-12 col-lg-offset-3 col-md-offset-1 col-sm-offset-1">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
                         <span class="icon-bar"></span>
@@ -113,6 +129,13 @@
                                 <!-- <li><a href="https://roboticsconference.org/attending/">Attending RSS</a></li> -->
                             </ul>
                         </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">sponsors<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/2026/information/sponsorship/">Sponsors</a></li>
+                                <li><a href="/2026/information/sponsor-bios/">Sponsor Bios</a></li>
+                            </ul>
+                        </li>
                         
                         
                         <li class="dropdown">
@@ -125,6 +148,16 @@
                                 <!-- <li><a href="/2026/attending/registration/">Registration</a></li> -->
                                 
                                 <li><a href="/2026/attending/registration/">Registration</a></li>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <!-- <li><a href="/2026/attending/attending-rss/">Attending RSS</a></li> -->
+                                
+                                <li><a href="/2026/attending/attending-rss/">Attending RSS</a></li>
                                 
                                 
                                 
@@ -217,6 +250,23 @@
                                 
                                 
                                 
+                                <!-- <li><a href="/2026/information/sponsor-bios/">Sponsor Bios</a></li> -->
+                                
+                                
+                                
+                                
+                                
+                                
+                                <!-- <li><a href="/2026/information/presentationInstructions/">Presenter Information</a></li> -->
+                                
+                                <li><a href="/2026/information/presentationInstructions/">Presenter Information</a></li>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
                                 <!-- <li><a href="/2026/information/cfp/">Call for Papers</a></li> -->
                                 
                                 <li><a href="/2026/information/cfp/">Call for Papers</a></li>
@@ -249,9 +299,6 @@
                                 
                                 <!-- <li><a href="/2026/information/sponsorship/">Sponsors</a></li> -->
                                 
-                                <li><a href="/2026/information/sponsorship/">Sponsors</a></li>
-                                
-                                
                                 
                                 
                                 
@@ -269,16 +316,44 @@
                                 
                                 
                                 
+                                <!-- <li><a href="/2026/program/overview/">Overview</a></li> -->
+                                
+                                <li><a href="/2026/program/overview/">Overview</a></li>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <!-- <li><a href="/2026/program/allsessions/">Paper Sessions</a></li> -->
+                                
+                                <li><a href="/2026/program/allsessions/">Paper Sessions</a></li>
+                                
+                                
+                                
+                                
+                                
                                 
                                 
                                 <!-- <li><a href="/2026/program/papers/">Accepted Papers</a></li> -->
                                 
+                                <li><a href="/2026/program/papers/">Accepted Papers</a></li>
                                 
                                 
                                 
                                 
                                 
-                                <!-- <li><a href="/2026/program/workshops/">Workshops</a></li> -->
+                                
+                                
+                                <!-- <li><a href="/2026/program/workshops/">Workshops at UTS</a></li> -->
+                                
+                                <li><a href="/2026/program/workshops/">Workshops at UTS</a></li>
+                                
                                 
                                 
                                 
@@ -292,7 +367,37 @@
                                 
                                 
                                 
+                                <!-- <li><a href="/2026/program/demos/">Sponsor Demos</a></li> -->
+                                
+                                <li><a href="/2026/program/demos/">Sponsor Demos</a></li>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <!-- <li><a href="/2026/program/awards/">Awards</a></li> -->
+                                
+                                <li><a href="/2026/program/awards/">Awards</a></li>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
                                 <!-- <li><a href="/2026/program/labtours/">Lab Tours</a></li> -->
+                                
+                                
+                                
+                                
+                                
+                                
+                                <!-- <li><a href="/2026/program/keynotes-spotlights/">Keynotes and Early Career Spotlights</a></li> -->
+                                
+                                <li><a href="/2026/program/keynotes-spotlights/">Keynotes and Early Career Spotlights</a></li>
+                                
                                 
                                 
                                 
@@ -307,9 +412,6 @@
                                 
                                 
                                 <!-- <li><a href="/2026/program/earlycareer/">Early Career Spotlight</a></li> -->
-                                
-                                <li><a href="/2026/program/earlycareer/">Early Career Spotlight</a></li>
-                                
                                 
                                 
                                 
@@ -590,7 +692,104 @@
                                 
                                 
                                 
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
                                 <!-- <li><a href="/2026/program/pathways/">Pathways@RSS</a></li> -->
+                                
+                                <li><a href="/2026/program/pathways/">Pathways@RSS</a></li>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
                                 
                                 
                                 
@@ -723,6 +922,14 @@
 <br>
 <br>
 
+<b>sponsors</b>
+<br>
+<a class="sidebar-nav-item active" href="/2026/information/sponsorship/">Sponsors</a>
+<br>
+<a class="sidebar-nav-item" href="/2026/information/sponsor-bios/">Sponsor Bios</a>
+<br>
+<br>
+
 
 
 
@@ -739,6 +946,18 @@
 <!-- <a class="sidebar-nav-item" href="/2026/attending/registration/">Registration</a> -->
 
 <a class="sidebar-nav-item" href="/2026/attending/registration/">Registration</a>
+<br>
+
+
+<!-- <br> -->
+
+
+
+
+
+<!-- <a class="sidebar-nav-item" href="/2026/attending/attending-rss/">Attending RSS</a> -->
+
+<a class="sidebar-nav-item" href="/2026/attending/attending-rss/">Attending RSS</a>
 <br>
 
 
@@ -798,9 +1017,11 @@
 
 
 
+<!-- <a class="sidebar-nav-item" href="/2026/program/overview/">Overview</a> -->
 
+<a class="sidebar-nav-item" href="/2026/program/overview/">Overview</a>
+<br>
 
-<!-- <a class="sidebar-nav-item" href="/2026/program/papers/">Accepted Papers</a> -->
 
 <!-- <br> -->
 
@@ -808,7 +1029,39 @@
 
 
 
-<!-- <a class="sidebar-nav-item" href="/2026/program/workshops/">Workshops</a> -->
+
+
+
+
+<!-- <a class="sidebar-nav-item" href="/2026/program/allsessions/">Paper Sessions</a> -->
+
+<a class="sidebar-nav-item" href="/2026/program/allsessions/">Paper Sessions</a>
+<br>
+
+
+<!-- <br> -->
+
+
+
+
+
+<!-- <a class="sidebar-nav-item" href="/2026/program/papers/">Accepted Papers</a> -->
+
+<a class="sidebar-nav-item" href="/2026/program/papers/">Accepted Papers</a>
+<br>
+
+
+<!-- <br> -->
+
+
+
+
+
+<!-- <a class="sidebar-nav-item" href="/2026/program/workshops/">Workshops at UTS</a> -->
+
+<a class="sidebar-nav-item" href="/2026/program/workshops/">Workshops at UTS</a>
+<br>
+
 
 <!-- <br> -->
 
@@ -824,7 +1077,43 @@
 
 
 
+<!-- <a class="sidebar-nav-item" href="/2026/program/demos/">Sponsor Demos</a> -->
+
+<a class="sidebar-nav-item" href="/2026/program/demos/">Sponsor Demos</a>
+<br>
+
+
+<!-- <br> -->
+
+
+
+
+
+<!-- <a class="sidebar-nav-item" href="/2026/program/awards/">Awards</a> -->
+
+<a class="sidebar-nav-item" href="/2026/program/awards/">Awards</a>
+<br>
+
+
+<!-- <br> -->
+
+
+
+
+
 <!-- <a class="sidebar-nav-item" href="/2026/program/labtours/">Lab Tours</a> -->
+
+<!-- <br> -->
+
+
+
+
+
+<!-- <a class="sidebar-nav-item" href="/2026/program/keynotes-spotlights/">Keynotes and Early Career Spotlights</a> -->
+
+<a class="sidebar-nav-item" href="/2026/program/keynotes-spotlights/">Keynotes and Early Career Spotlights</a>
+<br>
+
 
 <!-- <br> -->
 
@@ -841,10 +1130,6 @@
 
 
 <!-- <a class="sidebar-nav-item" href="/2026/program/earlycareer/">Early Career Spotlight</a> -->
-
-<a class="sidebar-nav-item" href="/2026/program/earlycareer/">Early Career Spotlight</a>
-<br>
-
 
 <!-- <br> -->
 
@@ -1131,9 +1416,107 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- <a class="sidebar-nav-item" href="/2026/program/pathways/">Pathways@RSS</a> -->
 
+<a class="sidebar-nav-item" href="/2026/program/pathways/">Pathways@RSS</a>
+<br>
+
+
 <!-- <br> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1246,6 +1629,26 @@
 
 
 
+<!-- <a class="sidebar-nav-item" href="/2026/information/sponsor-bios/">Sponsor Bios</a> -->
+
+<!-- <br> -->
+
+
+
+
+
+<!-- <a class="sidebar-nav-item" href="/2026/information/presentationInstructions/">Presenter Information</a> -->
+
+<a class="sidebar-nav-item" href="/2026/information/presentationInstructions/">Presenter Information</a>
+<br>
+
+
+<!-- <br> -->
+
+
+
+
+
 <!-- <a class="sidebar-nav-item" href="/2026/information/cfp/">Call for Papers</a> -->
 
 <a class="sidebar-nav-item" href="/2026/information/cfp/">Call for Papers</a>
@@ -1282,10 +1685,6 @@
 
 
 <!-- <a class="sidebar-nav-item active" href="/2026/information/sponsorship/">Sponsors</a> -->
-
-<a class="sidebar-nav-item active" href="/2026/information/sponsorship/">Sponsors</a>
-<br>
-
 
 <!-- <br> -->
 
@@ -1381,6 +1780,15 @@
   <a href="https://www.nvidia.com/en-us/" class="sponsor-card">
     <img alt="NVIDIA" src="/2026/images/sponsors_2026/nvidia.png" />
   </a>
+  <a href="https://www.anduril.com/" class="sponsor-card">
+    <img alt="Anduril" src="/2026/images/sponsors_2026/Anduril_Horizontal.svg" />
+  </a>
+  <a href="https://www.robbyant.com/" class="sponsor-card">
+    <img alt="Robbyant" src="/2026/images/sponsors_2026/Robbyant.png" />
+  </a>
+  <a href="https://www.unitree.com/" class="sponsor-card">
+    <img alt="Unitree Robotics" src="/2026/images/sponsors_2026/Unitree.png" />
+  </a>
 </div>
 
 <h3 id="silver-sponsors">Silver Sponsors</h3>
@@ -1392,19 +1800,37 @@
   <a href="https://www.booster.tech/" class="sponsor-card">
     <img alt="Booster Robotics" src="/2026/images/sponsors_2026/Booster_Robotics.png" />
   </a>
+  <a href="https://noitomrobotics.com/" class="sponsor-card">
+    <img alt="Noitom Robotics" src="/2026/images/sponsors_2026/Noitom_Robotics.png" />
+  </a>
 </div>
 
 <h3 id="bronze-sponsors">Bronze Sponsors</h3>
 
 <div class="sponsor-grid">
   <a href="https://rai-inst.com/" class="sponsor-card">
-    <img alt="RAI" src="/2026/images/sponsors_2026/rai.png" />
+    <img alt="RAI" src="/2026/images/sponsors_2026/rai.png" style="max-height: 60px;" />
+  </a>
+  <a href="https://www.seeedstudio.com/" class="sponsor-card">
+    <img alt="Seeed Studio" src="/2026/images/sponsors_2026/Seeed_Studio.png" />
+  </a>
+  <a href="https://global.agilex.ai/" class="sponsor-card">
+    <img alt="AgileX Robotics" src="/2026/images/sponsors_2026/AgileX_Robotics.png" />
+  </a>
+  <a href="https://www.hightorquerobotics.com/" class="sponsor-card">
+    <img alt="High Torque Robotics" src="/2026/images/sponsors_2026/HighTorque.png" style="max-height: 70px;" />
+  </a>
+  <a href="https://deepmind.google/" class="sponsor-card">
+    <img alt="Google DeepMind" src="/2026/images/sponsors_2026/Google_DeepMind_Logo_rgb.png" />
   </a>
 </div>
 
 <h3 id="rss-sponsors">RSS Sponsors</h3>
 
 <div class="sponsor-grid">
+  <a href="https://www.uts.edu.au/" class="sponsor-card">
+    <img alt="University of Technology Sydney (UTS) — Host" src="/2026/images/sponsors_2026/UTS.png" />
+  </a>
   <a href="https://www.besydney.com.au/" class="sponsor-card">
     <img alt="Business Events Sydney" src="/2026/images/sponsors_2026/besydney-blue-logo-rgb.png" />
   </a>
