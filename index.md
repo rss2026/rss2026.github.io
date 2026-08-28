@@ -11,10 +11,6 @@ title: Home
 </div> -->
 
 
-<div style="margin-top: 20px; background-color: #0F4BEA; color: #ffffff; padding: 14px 18px; text-align: center; font-weight: bold; font-size: 18px; border-radius: 6px; white-space: nowrap; overflow-x: auto;">
-  We look forward to seeing you at RSS 2027 in Athens, Greece, July 6&ndash;11, 2027!
-</div>
-
 <h1 class="page-title">{{ site.title }}<br>
 July 13&ndash;17, 2026<br>Sydney, Australia</h1>
 
@@ -22,6 +18,9 @@ July 13&ndash;17, 2026<br>Sydney, Australia</h1>
   <p style="margin: 0;">RSS 2026 is complete. Thank you to everyone who joined us in Sydney for a wonderful week of robotics. Congratulations to our <a href="{{ site.baseurl }}/program/awards/">award finalists and winners</a>!</p>
 </div>
 
+<div style="margin-top: 20px; background-color: #0F4BEA; color: #ffffff; padding: 14px 18px; text-align: center; font-weight: bold; font-size: 18px; border-radius: 6px; white-space: nowrap; overflow-x: auto;">
+  We look forward to seeing you at RSS 2027 in Athens, Greece, July 6&ndash;11, 2027!
+</div>
 
 <!-- recording -->
 <!-- <div class="rss-hero">
