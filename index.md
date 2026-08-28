@@ -105,14 +105,6 @@ July 13&ndash;17, 2026<br>Sydney, Australia</h1>
 ocial Program
 **Announcement 2:** Submitting an abstract (by the January 17 deadline) or a semi-complete paper (by the January 24 deadline) for a paper that is currently under submission to another conference (e.g. ICRA, ICLR, CVPR) is still considered a double submission and is forbidden by RSS rules. However, if the paper has substantial innovation with respect to the paper that is already in submission (i.e., it would qualify as a different and novel paper and you would not withdraw it even if the paper under review is accepted), you should feel free to submit it to RSS. -->
 
-### News and Updates
-
-- **Registration:**
-[Standard registration]({{ site.baseurl }}/attending/registration/) is now open through July 10.
-Early bird registration is closed
-- **Keynotes &amp; Early Career Spotlights:** The [speaker lineup and abstracts]({{ site.baseurl }}/program/keynotes-spotlights/) are now online.
-- **Program:** The [program]({{ site.baseurl }}/program/overview/) is posted
-
 <!-- - Travel Information is available [here]({{ site.baseurl }}/attending/travel/).
 - Explore the Social Program [here]({{ site.baseurl }}/attending/social/). -->
 
