@@ -23,12 +23,12 @@ July 13&ndash;17, 2026<br>Sydney, Australia</h1>
 </div>
 
 <!-- recording -->
-<!-- <div class="rss-hero">
+<div class="rss-hero" style="margin-top: 20px">
   <div class="rss-embed-wrap">
     <iframe
       id="rss-yt"
       title="RSS 2026 Recording"
-      src="https://www.youtube.com/embed/QqK0IKINJEQ?rel=0&modestbranding=1"
+      src="https://www.youtube.com/embed/dFOBrDymCmQ?rel=0&modestbranding=1&list=PLVp1V0UjNw7A"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
@@ -36,12 +36,21 @@ July 13&ndash;17, 2026<br>Sydney, Australia</h1>
   </div>
 
   <div id="dayselector" class="rss-daybar">
-    <button class="daybutton active" data-yt="QqK0IKINJEQ">July 13</button>
-    <button class="daybutton" data-yt="qJgmmudGrY8">July 14</button>
-    <button class="daybutton" data-yt="b6SVm8zuUcc">July 15</button>
-    <button class="daybutton" data-yt="74EDmPwbOYc">July 16</button>
+    <button class="daybutton active" data-yt="dFOBrDymCmQ">July 13-P1</button>
+    <button class="daybutton" data-yt="PNU0Uv3U9lE">July 13-P2</button>
+    <button class="daybutton" data-yt="_BYFs2Dx17Q">July 14-P1</button>
+    <button class="daybutton" data-yt="i6Mf_PX-4Nk">July 14-P2</button>
+    <button class="daybutton" data-yt="oJIhrK1aAac">July 14-P3</button>
   </div>
-</div> -->
+  <div id="dayselector" class="rss-daybar">
+    <button class="daybutton" data-yt="pmi-4JFqZW0">July 15-P1</button>
+    <button class="daybutton" data-yt="KSxKBbfGVz4">July 15-P2</button>
+    <button class="daybutton" data-yt="_aTK3DmpUAo">July 15-P3</button>
+    <button class="daybutton" data-yt="96ow1SRrpwU">July 16-P1</button>
+    <button class="daybutton" data-yt="4hzFycR_15I">July 16-P2</button>
+    <button class="daybutton" data-yt="K6uwEHbakQk">July 16-P3</button>
+  </div>
+</div>
 
 <style>
   .rss-hero { max-width: 1080px; margin: 0 auto 24px; }
