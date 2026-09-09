@@ -6,7 +6,7 @@ Each year’s site should be archived under its own subdirectory (e.g., `/2024/`
 
 For links, use `{{ site.baseurl }}` for all internal links and assets within the current year’s site, but `{{ site.url }}` should be used when linking across years (e.g., pointing from the current site to an archived version) to avoid links of the form `/2025/2024/2023/`.
 
-A Makefile is provided with a few helpful commands: `make serve` serves the site locally with `bundle exec jekyll serve`, and `make build YEAR=<year>` builds the site into `./<year>` with the appropriate `--baseurl` (i.e., this automatically updates `{{ site.baseurl }}` to point to the permalink).
+A Makefile is provided with a few helpful commands: `make serve` serves the site locally with `bundle exec jekyll serve`, `make docker-serve` does the same in Docker, and `make build YEAR=<year>` builds the site into `./<year>` with the appropriate `--baseurl` (i.e., this automatically updates `{{ site.baseurl }}` to point to the permalink).
 
 To share a private preview with organizers, build the site and run `make pack-preview`. Send the resulting zip; recipients unzip it and double-click `Open Preview.command` (Mac) or `Open Preview.bat` (Windows) rather than opening `index.html` directly.
 
