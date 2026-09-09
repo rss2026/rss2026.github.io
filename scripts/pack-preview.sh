@@ -34,7 +34,7 @@ if [[ -d "${SITE}/public" ]]; then
 fi
 
 # Banner / favicon assets used by the live 2027 pages.
-for img in RSS2026-logo.png RSS2026-logo.jpg; do
+for img in RSS2026-logo.png RSS2026-logo.jpg rss2027-banner-preview.png; do
   [[ -f "${SITE}/images/${img}" ]] && cp "${SITE}/images/${img}" "${DEST}/images/"
 done
 
