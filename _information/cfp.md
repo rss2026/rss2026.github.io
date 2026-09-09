@@ -6,7 +6,7 @@ invisible: false
 published: true
 priority: 8
 ---
-RSS 2026 welcomes Science/Systems papers that report on novel scientific and systems contributions, and will be reviewed via a double-blind review process. As always, we solicit your best work.
+RSS 2027 welcomes Science/Systems papers that report on novel scientific and systems contributions, and will be reviewed via a double-blind review process. As always, we solicit your best work.
 
 ---
 
@@ -31,74 +31,44 @@ RSS 2026 welcomes Science/Systems papers that report on novel scientific and sys
     </thead>
     <tbody>
       <tr>
-        <td><s>January 23, 2026</s></td>
+        <td>TBA</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Abstract/Title Submission Deadline</td>
       </tr>
-      <!-- <tr>
-        <td><s>January 30, 2025</s></td>
-        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap">Initial Paper and Demo Submission Deadline (this requires a semi-complete pdf of the paper, final title and abstract)</td>
-      </tr> -->
       <tr>
-        <td><s>January 30, 2026</s></td>
+        <td>TBA</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Paper Submission Deadline</td>
       </tr>
       <tr>
-        <td><s>February 6, 2026</s></td>
+        <td>TBA</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Supplementary Material Submission Deadline</td>
       </tr>
-      <!-- <tr>
-        <td><s>February 11, 2025</s></td>
-        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap"><a href="https://sites.google.com/view/rsspioneers2025/" target="_blank">RSS Pioneers</a> Application Deadline</td>
-      </tr> -->
-      <!-- <tr>
-        <td><s>February 16, 2025</s></td>
-        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap">Workshop Proposal Deadline</td>
-      </tr> -->
       <tr>
-        <td><s>March 20, 2026</s></td>
+        <td>TBA</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Reviews Released and Rebuttal Invitations</td>
       </tr>
-      <!-- <tr>
-        <td><s>March 22, 2025</s></td>
-        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap">Workshop Decisions Announcement</td>
-      </tr> -->
       <tr>
-        <td><s>March 27, 2026</s></td>
+        <td>TBA</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Rebuttal Submission Deadline</td>
       </tr>
       <tr>
-        <td><s>April 27, 2026</s></td>
+        <td>TBA</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Paper Acceptance Notification</td>
       </tr>
-      <!-- <tr>
-        <td><s>April 20, 2025</s></td>
-        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap"><a href="https://sites.google.com/view/rsspioneers2025/" target="_blank">RSS Pioneers</a> Notification of Acceptance</td>
-      </tr> -->
       <tr>
-        <td>May 11, 2026</td>
+        <td>TBA</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Final Camera Ready Paper Submission</td>
       </tr>
-      <!-- <tr>
-        <td>July 13, 2026</td>
-        <td>—</td>
-        <td class="wrap"><a href="https://sites.google.com/view/rsspioneers2025/" target="_blank">RSS Pioneers</a> Workshop</td>
-      </tr> -->
       <tr>
-        <td>July 13–17, 2026</td>
+        <td>July 6–11, 2027</td>
         <td>—</td>
-        <td class="wrap">RSS 2026, Sydney, Australia</td>
+        <td class="wrap">RSS 2027, Athens, Greece</td>
       </tr>
     </tbody>
 </table>
@@ -121,7 +91,7 @@ Before submitting your PDF file, please open it in Acrobat Reader. In the File m
 
 ## Paper Length
 
-RSS 2026 has a maximum paper length of 8 pages, excluding references. Remember however that this is a ceiling, not a floor, and reviewers are likely to look favorably upon papers that are not unnecessarily long or verbose.
+RSS 2027 has a maximum paper length of 8 pages, excluding references. Remember however that this is a ceiling, not a floor, and reviewers are likely to look favorably upon papers that are not unnecessarily long or verbose.
 
 The main PDF should contain a concise and lucid presentation of the merits of the paper, including a discussion of its contributions, prior work, and a description of key technical ideas and methods used. The paper should be self-contained and include all the material necessary for an expert to verify the central claims in the paper.
 
@@ -134,7 +104,7 @@ Additional supplemental text, such as appendices, data listings, or expanded pro
 
 ## Double-Blind Submission
 
-RSS 2026 continues the tradition of double-blind reviews. Authors should not list their names on the title page, and anonymity should be maintained in the paper. Authors are asked to take particular care when referencing their own work — careless use of self-citations can easily violate the requirements for double blind reviewing and this will result in papers being desk rejected.
+RSS 2027 continues the tradition of double-blind reviews. Authors should not list their names on the title page, and anonymity should be maintained in the paper. Authors are asked to take particular care when referencing their own work — careless use of self-citations can easily violate the requirements for double blind reviewing and this will result in papers being desk rejected.
 
 The following principles should be applied for all submissions:
 
@@ -163,19 +133,19 @@ Authors may submit supplementary material such as a video or an expanded version
 
 ## Rebuttal Process
 
-A subset of papers will be invited to submit one-page rebuttals that will be considered by reviewers and the Program Committee when making final acceptance decisions. A template for the rebuttal will be made available in due time. Detailed information about the rationale and scope of the rebuttal process can be found in our [Rebuttal Guidelines](https://docs.google.com/document/d/1oTToi0_RbChXjt9QeNS30oH3GicHB1opV-GamREmqpI/edit?usp=sharing)
+A subset of papers will be invited to submit one-page rebuttals that will be considered by reviewers and the Program Committee when making final acceptance decisions. A template for the rebuttal and detailed rebuttal guidelines will be made available in due time.
 
 ---
 
 ## Review Guidelines
 
-This year, we are providing a new set of guidelines for reviewers: [Review Guidelines](https://docs.google.com/document/d/1iinlZAhQ4_DrYyLZAQRG4FE5vYTnoJR_EvgjcpQmcig/edit?usp=sharing) and [Rebuttal Guidelines](https://docs.google.com/document/d/1oTToi0_RbChXjt9QeNS30oH3GicHB1opV-GamREmqpI/edit?usp=sharing)
+Reviewer and rebuttal guidelines for RSS 2027 will be posted here when they are available.
 
 ---
 
 ## Demos
 
-RSS 2026 will not have a separate category for demo papers. If the authors of an accepted paper intend to present a live demo, we applaud their choice, and will do our best to provide them with the needed resources (e.g. space, power) to do so, most likely during the poster session where the paper is assigned. However, acceptance decisions will not take into account the likelihood of a live demo during the conference.
+RSS 2027 will not have a separate category for demo papers. If the authors of an accepted paper intend to present a live demo, we applaud their choice, and will do our best to provide them with the needed resources (e.g. space, power) to do so, most likely during the poster session where the paper is assigned. However, acceptance decisions will not take into account the likelihood of a live demo during the conference.
 
 ---
 
@@ -209,12 +179,12 @@ However, it is important to note that **authors are completely responsible for a
 
 ## Uploading Files for Paper Submissions
 
-Paper submission and review will occur in the [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2026/Conference) system:
+Paper submission and review will occur in OpenReview. The RSS 2027 venue link will be posted here when it is available.
 
 - **Logging into the system:** All **first** authors require an OpenReview account. If you already have an OpenReview account, use those credentials to login and update your profile. If you do not, sign up as a new user. New OpenReview profiles created without an institutional email will go through a moderation process that **can take up to two weeks**. New OpenReview profiles created with an institutional email will be activated automatically.
 - **Although we use OpenReview, the review process will be private, i.e., the papers will only be public after acceptance and the reviews will not be publicly visible.**
 - **Conflict domains:** When you login for the first time, OpenReview will prompt you to enter your conflict domains. If you already have an OpenReview account, update your conflict domains. Please finish this step before you start the submission process.
-- **Abstract Submission:** All submissions require the title/abstract of their paper(s) to be submitted by **January 23**, one week before the full paper submission. The PDF and Supplementary Material are not required for the title/abstract deadline, but **must be uploaded by the time of their respective deadlines**.
+- **Abstract Submission:** All submissions require the title/abstract of their paper(s) to be submitted by the abstract deadline (TBA), one week before the full paper submission. The PDF and Supplementary Material are not required for the title/abstract deadline, but **must be uploaded by the time of their respective deadlines**.
 - **Paper submission:** Make sure your role is “Author”. Your main submission file may now be uploaded. Paper descriptions must be in the conference style format and must be submitted as a PDF. Submissions may be edited, updated and replaced up to the paper submission deadline.
 - **Paper ID:** After clicking the Submit link, your paper submission will be assigned an ID. To make sure your PDF submission is reviewer-friendly, enter this ID at the end of your title as instructed in the paper template.
 - **Supplementary material:** Authors may submit supplementary material, such as a video or an expanded version of a proof (100MB max, accepted formats: zip). The link to upload Supplementary Material is available from the start, but is not required until the Supplementary Material deadline. The deadline for the submission of supplementary material is **one week** after the deadline for paper submissions.

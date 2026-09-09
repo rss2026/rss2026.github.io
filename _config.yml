@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            "Robotics: Science and Systems"
 tagline:          'A Robotics Conference'
-description:      'RSS 2026, July 13, 2026 - July 17, 2026, Sydney, Australia'
+description:      'RSS 2027, July 6, 2027 - July 11, 2027, Athens, Greece'
 url:              "https://roboticsconference.org"
 baseurl:          ""
 include:          ['_pages']
@@ -18,9 +18,9 @@ logo:             "/images/RSS2026-logo.png"
 favpng:           "/public/RSS2026-favicon.png"
 favicon:          "/public/RSS2026-favicon.ico"
 apple_touch_icon: "/public/apple-touch-icon-144-precomposed.png"
-startdate:        "2026-07-13"
-enddate:          "2026-07-17"
-location:         "Sydney, Australia"
+startdate:        "2027-07-06"
+enddate:          "2027-07-11"
+location:         "Athens, Greece"
 
 
 author:
@@ -41,15 +41,15 @@ google_analytics: G-RCJTV6PJZC
 
 collections:
     attending:
-       output: true
+       output: false
        permalink: /attending/:path/
        priority: 2
     program:
-       output: true
+       output: false
        permalink: /program/:path/
        priority: 2
     committees:
-       output: true
+       output: false
        permalink: /committees/:path/
        priority: 4
     information:

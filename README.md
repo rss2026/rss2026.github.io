@@ -8,3 +8,5 @@ For links, use `{{ site.baseurl }}` for all internal links and assets within the
 
 A Makefile is provided with a few helpful commands: `make serve` serves the site locally with `bundle exec jekyll serve`, and `make build YEAR=<year>` builds the site into `./<year>` with the appropriate `--baseurl` (i.e., this automatically updates `{{ site.baseurl }}` to point to the permalink).
 
+To share a private preview with organizers, build the site and run `make pack-preview`. Send the resulting zip; recipients unzip it and double-click `Open Preview.command` (Mac) or `Open Preview.bat` (Windows) rather than opening `index.html` directly.
+

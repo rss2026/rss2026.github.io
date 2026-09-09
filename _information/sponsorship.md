@@ -3,7 +3,7 @@ layout: page
 title: Sponsors
 description: Sponsorship information
 invisible: false
-published: true
+published: false
 ---
 
 {%comment%}
