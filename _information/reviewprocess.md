@@ -2,7 +2,7 @@
 layout: page
 title: Review Process
 permalink: /reviewps/
-invisible: false
+invisible: true
 published: false
 ---
 

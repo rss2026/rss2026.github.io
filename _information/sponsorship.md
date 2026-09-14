@@ -2,8 +2,8 @@
 layout: page
 title: Sponsors
 description: Sponsorship information
-invisible: false
-published: true
+invisible: true
+published: false
 ---
 
 {%comment%}

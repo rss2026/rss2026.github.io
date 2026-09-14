@@ -1,0 +1,46 @@
+/* RSS 2027: color overrides only. Original layout and behavior are preserved. */
+:root {
+  /* Provisional blue sampled from the supplied PDF. */
+  --rss-sky: #5fcaf3;
+  --rss-ink: #142d3b;
+  --rss-link: #086487;
+  --rss-pale: #edf9fe;
+  --rss-rule: #c9e9f5;
+  --navbar-background: var(--rss-sky);
+  --navbar-foreground: var(--rss-ink);
+  --mini-paper-navbar-color: var(--rss-link);
+  --paper-menu-color: var(--rss-link);
+}
+
+body {
+  color: var(--rss-ink);
+}
+
+a,
+#sidebar a:hover,
+#sidebar a:focus {
+  color: var(--rss-link);
+}
+
+a:hover,
+a:focus {
+  color: var(--rss-ink);
+}
+
+.content h2,
+.content h3 {
+  color: var(--rss-ink);
+}
+
+hr {
+  border-top-color: var(--rss-rule);
+}
+
+.table > thead > tr > th {
+  border-bottom-color: var(--rss-sky);
+  background-color: var(--rss-pale);
+}
+
+.table > tbody > tr > td {
+  border-top-color: var(--rss-rule);
+}

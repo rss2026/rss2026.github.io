@@ -3,7 +3,7 @@ layout: page
 title: Presenter Instructions
 description: Instructions for in-person and virtual presenters
 priority: 10
-invisible: false
+invisible: true
 published: false
 ---
 
