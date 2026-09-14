@@ -2,7 +2,7 @@
 layout: page
 title: Sponsors
 description: Sponsorship information
-invisible: false
+invisible: true
 published: false
 ---
 

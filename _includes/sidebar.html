@@ -1,25 +1,75 @@
 <div class="col-md-2 col-lg-offset-1 hidden-xs hidden-sm text-right" id="sidebar"/>
 <!-- No sidebar on small screens -->
 <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+{% if site.landing_page_only == false %}
+<!--
 <br>
-<!-- <a class="sidebar-nav-item" target="_blank" href="https://www.roboticsproceedings.org/">RSS Proceedings</a>
-<br> -->
+ <a class="sidebar-nav-item{% if page.url == '/blog' %} active{% endif %}" href="{{ site.baseurl }}/blog/">Latest</a>
+-->
+<br>
+<a class="sidebar-nav-item" target="_blank" href="https://www.roboticsproceedings.org/">RSS Proceedings</a>
+<!--
+<br>
+<a class="sidebar-nav-item" href="{{ site.baseurl }}/attending">Attending RSS</a>
+-->
+
+<br>
+<br>
+
+<b>sponsors</b>
+<br>
+<a class="sidebar-nav-item{% if page.url == '/information/sponsorship/' %} active{% endif %}" href="{{ site.baseurl }}/information/sponsorship/">Sponsors</a>
+<br>
+<a class="sidebar-nav-item{% if page.url == '/information/sponsor-bios/' %} active{% endif %}" href="{{ site.baseurl }}/information/sponsor-bios/">Sponsor Bios</a>
+<br>
 <br>
 
 {% assign sorted = site.collections | sort: 'priority' %}
 
 {% for coll in sorted %}
-{% if coll.label == "information" %}
-{% assign nav_docs = coll.docs | where_exp: "node", "node.invisible != true" | where_exp: "node", "node.layout == 'page'" | where_exp: "node", "node.title == 'Call for Papers'" %}
-{% if nav_docs.size > 0 %}
+{% if coll.label == "attending" or coll.label == "committees" or coll.label == "information" or coll.label == "program" %}
 <b>{{ coll.label }}</b>
 <br>
-{% for node in nav_docs %}
+
+{% assign priority = ((coll.docs | where_exp: "node", "node.priority > 0")
+| sort: "priority")
+| reverse %}
+{% for node in priority %}
+{% if node.invisible != true %}
+{% if node.layout == "page" %}
+<!-- <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a> -->
+{% if node.title == "Accommodations" or node.title == "Registration" or node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" or node.title == "RSS Pioneers" or node.title == "Keynotes and Early Career Spotlights" or node.title == "Pathways@RSS" or node.title == "Venue" or node.title == "Visa Information" or node.title == "Workshops at UTS" or node.title == "Overview" or node.title == "Awards" or node.title == "Paper Sessions" or node.title == "Accepted Papers" or node.title == "Presenter Information" or node.title == "Attending RSS" or node.title == "Sponsor Demos" %}
 <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
 <br>
+{% comment %}
+{% else %}
+<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/">{{ node.title }}</a>
+{% endcomment %}
+{% endif %}
+<!-- <br> -->
+{% endif %}
+{% endif %}
+{% endfor %}
+
+{% assign docs = (coll.docs | where_exp: "node", "node.priority == 0")
+| sort: "title" %}
+{% for node in docs %}
+{% if node.invisible != true %}
+{% if node.layout == "page" %}
+<!-- <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a> -->
+{% if node.title == "Accommodations" or node.title == "Registration" or node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" or node.title == "RSS Pioneers" or node.title == "Keynotes and Early Career Spotlights" or node.title == "Pathways@RSS" or node.title == "Venue" or node.title == "Visa Information" or node.title == "Workshops at UTS" or node.title == "Overview" or node.title == "Awards" or node.title == "Paper Sessions" or node.title == "Accepted Papers" or node.title == "Presenter Information" or node.title == "Attending RSS" or node.title == "Sponsor Demos" %}
+<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+<br>
+{% comment %}
+{% else %}
+<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/">{{ node.title }}</a>
+{% endcomment %}
+{% endif %}
+<!-- <br> -->
+{% endif %}
+{% endif %}
 {% endfor %}
 <br>
-{% endif %}
 {% endif %}
 {% endfor %}
 <b>follow us</b>
@@ -35,4 +85,5 @@
 <a target="_blank" href="https://bsky.app/profile/roboticsscisys.bsky.social"><i class="fab fa-bluesky"></i> Bluesky</a>
 <br>
 
+{% endif %}
 </div>

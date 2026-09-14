@@ -3,7 +3,7 @@ layout: page
 title: Sponsor Bios
 description: Company bios for the sponsors of RSS 2026.
 priority: 10
-invisible: false
+invisible: true
 published: false
 ---
 

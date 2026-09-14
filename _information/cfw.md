@@ -2,7 +2,7 @@
 layout: page
 title: Call for Workshops
 description: Request for Participation in Workshops
-invisible: false
+invisible: true
 published: false
 priority: 7
 ---

@@ -32,6 +32,8 @@ paginate:         5
 paginate_path:    "blog/page:num"
 
 # Custom vars
+# Hide the full navigation until the other conference pages are ready.
+landing_page_only: true
 version:          2.1.0
 
 github:
@@ -53,7 +55,7 @@ collections:
        permalink: /committees/:path/
        priority: 4
     information:
-       output: true
+       output: false
        permalink: /information/:path/
        priority: 3
 

@@ -2,7 +2,7 @@
 layout: page
 title: Call for Papers and Demos
 description: Request for Participation for Papers and Demos
-invisible: false
+invisible: true
 published: false
 ---
 ### Important Announcements

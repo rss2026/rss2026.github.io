@@ -31,43 +31,83 @@
         <div class="row">
             <div class="col-md-9 col-lg-9 col-sm-11 col-xs-12 col-lg-offset-3 col-md-offset-1 col-sm-offset-1">
                 <div class="navbar-header">
+                    {% if site.landing_page_only == false %}
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
+                    {% endif %}
                     <a class="navbar-brand visible-xs" style="margin-top: 10px; text-align: center;"
                         href="{{ site.baseurl }}/">RSS 2027</a>
                     <a class="navbar-brand hidden-xs"
                         href="{{ site.baseurl }}/">RSS 2027</a>
                 </div>
 
+                {% if site.landing_page_only == false %}
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav">
                         <li class="dropdown">
                             <a class="dropdown-toggle" data-toggle="dropdown" href="#">home<span class="caret"></span></a>
                             <ul class="dropdown-menu">
+                                <!--li><a href="{{ site.baseurl }}/blog/">Latest</a></li-->
                                 <li><a href="https://www.roboticsproceedings.org/">RSS Proceedings</a></li>
-                                <li><a href="{{ site.url }}/2026/">RSS 2026</a></li>
+                                <!-- <li><a href="https://roboticsconference.org/attending/">Attending RSS</a></li> -->
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">sponsors<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="{{ site.baseurl }}/information/sponsorship/">Sponsors</a></li>
+                                <li><a href="{{ site.baseurl }}/information/sponsor-bios/">Sponsor Bios</a></li>
                             </ul>
                         </li>
                         {% for coll in site.collections %}
-                        {% if coll.label == "information" %}
-                        {% assign nav_docs = coll.docs | where_exp: "node", "node.invisible != true" | where_exp: "node", "node.layout == 'page'" | where_exp: "node", "node.title == 'Call for Papers'" %}
-                        {% if nav_docs.size > 0 %}
+                        {% if coll.label == "attending" or coll.label == "committees" or coll.label == "information" or coll.label == "program" %}
                         <li class="dropdown">
                             <a class="dropdown-toggle" data-toggle="dropdown" href="#">{{coll.label}}<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                {% for node in nav_docs %}
+                                {% assign priority = ((coll.docs | where_exp: "node", "node.priority > 0")
+                                | sort: "priority")
+                                | reverse %}
+                                {% for node in priority %}
+                                {% if node.invisible != true %}
+                                {% if node.layout == "page" %}
+                                <!-- <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li> -->
+                                {% if node.title == "Accommodations" or node.title == "Registration" or node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" or node.title == "RSS Pioneers" or node.title == "Keynotes and Early Career Spotlights" or node.title == "Pathways@RSS" or node.title == "Venue" or node.title == "Visa Information" or node.title == "Workshops at UTS" or node.title == "Overview" or node.title == "Awards" or node.title == "Paper Sessions" or node.title == "Accepted Papers" or node.title == "Presenter Information" or node.title == "Attending RSS" or node.title == "Sponsor Demos" %}
                                 <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+                                {% comment %}
+                                {% else %}
+                                <li><a href="{{ site.baseurl }}/">{{ node.title }}</a></li>
+                                {% endcomment %}
+                                {% endif %}
+                                {% endif %}
+                                {% endif %}
+                                {% endfor %}
+
+                                {% assign docs = (coll.docs | where_exp: "node", "node.priority == 0")
+                                | sort: "title" %}
+                                {% for node in docs %}
+                                {% if node.invisible != true %}
+                                {% if node.layout == "page" %}
+                                <!-- <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li> -->
+                                {% if node.title == "Accommodations" or node.title == "Registration" or node.title == "Organizing Committee" or node.title == "Program Committee" or node.title == "Call for Workshops" or node.title == "Call for Papers" or node.title == "RSS Pioneers" or node.title == "Keynotes and Early Career Spotlights" or node.title == "Pathways@RSS" or node.title == "Venue" or node.title == "Visa Information" or node.title == "Workshops at UTS" or node.title == "Overview" or node.title == "Awards" or node.title == "Paper Sessions" or node.title == "Accepted Papers" or node.title == "Presenter Information" or node.title == "Attending RSS" or node.title == "Sponsor Demos" %}
+                                <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+                                {% comment %}
+                                {% else %}
+                                <li><a href="{{ site.baseurl }}/">{{ node.title }}</a></li>
+                                {% endcomment %}
+                                {% endif %}
+                                {% endif %}
+                                {% endif %}
                                 {% endfor %}
                             </ul>
                         </li>
                         {% endif %}
-                        {% endif %}
                         {% endfor %}
                     </ul>
                 </div>
+                {% endif %}
             </div>
         </div>
     </div>
