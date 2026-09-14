@@ -17,29 +17,18 @@ cleanup() { rm -rf "${STAGE}"; }
 trap cleanup EXIT
 
 DEST="${STAGE}/rss2027-preview"
-mkdir -p "${DEST}/information" "${DEST}/images" "${DEST}/docs"
+mkdir -p "${DEST}/images"
 
 cp "${SITE}/index.html" "${DEST}/"
 [[ -f "${SITE}/404.html" ]] && cp "${SITE}/404.html" "${DEST}/"
-
-if [[ -d "${SITE}/information/cfp" ]]; then
-  cp -R "${SITE}/information/cfp" "${DEST}/information/"
-else
-  echo "error: ${SITE}/information/cfp is missing." >&2
-  exit 1
-fi
 
 if [[ -d "${SITE}/public" ]]; then
   cp -R "${SITE}/public" "${DEST}/"
 fi
 
 # Banner / favicon assets used by the live 2027 pages.
-for img in RSS2026-logo.png RSS2026-logo.jpg rss2027-banner-preview.png; do
+for img in rss2027-banner-preview.png; do
   [[ -f "${SITE}/images/${img}" ]] && cp "${SITE}/images/${img}" "${DEST}/images/"
-done
-
-for doc in paper-template-latex.tar.gz paper-template-word.zip; do
-  [[ -f "${SITE}/docs/${doc}" ]] && cp "${SITE}/docs/${doc}" "${DEST}/docs/"
 done
 
 # Drop empty dirs so the zip stays tidy.

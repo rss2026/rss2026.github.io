@@ -2,8 +2,8 @@
 layout: page
 title: Call for Papers
 description: Request for Participation for Papers
-invisible: false
-published: true
+invisible: true
+published: false
 priority: 8
 ---
 RSS 2027 welcomes Science/Systems papers that report on novel scientific and systems contributions, and will be reviewed via a double-blind review process. As always, we solicit your best work.
