@@ -31,22 +31,34 @@
         <div class="row">
             <div class="col-md-9 col-lg-9 col-sm-11 col-xs-12 col-lg-offset-3 col-md-offset-1 col-sm-offset-1">
                 <div class="navbar-header">
-                    {% if site.landing_page_only == false %}
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    {% endif %}
                     <a class="navbar-brand visible-xs" style="margin-top: 10px; text-align: center;"
                         href="{{ site.baseurl }}/">RSS 2027</a>
                     <a class="navbar-brand hidden-xs"
                         href="{{ site.baseurl }}/">RSS 2027</a>
                 </div>
 
-                {% if site.landing_page_only == false %}
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav">
+                        {% if site.landing_page_only %}
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">information<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="{{ site.baseurl }}/information/cfp/">Call for Papers</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">committees<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="{{ site.baseurl }}/committees/organizers/">Organizing Committee</a></li>
+                                <li><a href="{{ site.baseurl }}/committees/pc/">Program Committee</a></li>
+                            </ul>
+                        </li>
+                        {% else %}
                         <li class="dropdown">
                             <a class="dropdown-toggle" data-toggle="dropdown" href="#">home<span class="caret"></span></a>
                             <ul class="dropdown-menu">
@@ -105,9 +117,9 @@
                         </li>
                         {% endif %}
                         {% endfor %}
+                        {% endif %}
                     </ul>
                 </div>
-                {% endif %}
             </div>
         </div>
     </div>
