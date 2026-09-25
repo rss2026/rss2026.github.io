@@ -36,7 +36,7 @@ priority: 10
 
   <br>
 
-  <b>Review Process Chair</b><br>
+  <b>Submissions Chair</b><br>
   <table style="margin-left:auto;margin-right:auto;">
     <tr>
       <td style="width:200px;vertical-align:top;">
