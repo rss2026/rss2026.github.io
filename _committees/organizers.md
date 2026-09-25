@@ -60,22 +60,16 @@ priority: 10
 
   <br>
 
-  <b>OpenReview Chair</b><br>
   <table style="margin-left:auto;margin-right:auto;">
     <tr>
       <td style="width:200px;vertical-align:top;">
+        <b>OpenReview Chair</b><br>
         <a target="_blank" href="https://mlatcl.netlify.app/people/markus-kaiser.html">Markus Kaiser</a><br>
         <i>Siemens, Germany</i><br>
       </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <b>Deputy OpenReview Chair</b><br>
-  <table style="margin-left:auto;margin-right:auto;">
-    <tr>
+      <td style="width:45px;min-width:16px;"></td>
       <td style="width:200px;vertical-align:top;">
+        <b>Deputy OpenReview Chair</b><br>
         <a target="_blank" href="https://www.cst.cam.ac.uk/people/mb2831">Maxence Boels</a><br>
         <i>University of Cambridge, UK</i><br>
       </td>

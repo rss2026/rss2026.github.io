@@ -85,7 +85,7 @@ priority: 9
       </td>
     </tr>
     <tr>
-      <td style="width:200px;vertical-align:top;">
+      <td colspan="3" style="vertical-align:top;text-align:center;">
         <a style="display:block;" href="https://sites.google.com/site/tvidal/teresa-vidal-calleja" target="_blank">Teresa Vidal-Calleja</a>
         <i style="display:block;margin-top:-0.5ex;margin-bottom:1ex;">University of Technology Sydney, Australia</i>
       </td>
