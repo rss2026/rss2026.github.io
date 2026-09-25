@@ -55,7 +55,7 @@ collections:
        permalink: /committees/:path/
        priority: 4
     information:
-       output: false
+       output: true
        permalink: /information/:path/
        priority: 3
 

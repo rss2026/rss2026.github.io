@@ -7,7 +7,7 @@ title: Home
 July 6&ndash;11, 2027<br>Athens, Greece</h1>
 
 <div style="border: 1px solid #bee5eb; background-color: #d1ecf1; color: #0c5460; padding: 14px 18px; margin: 18px 0; border-radius: 6px;">
-  <p style="margin: 0;">The 23rd Robotics: Science and Systems conference will be held in Athens, Greece. Venue details and the full submission timeline will be posted here as they are confirmed.</p>
+  <p style="margin: 0;">The 23rd Robotics: Science and Systems conference will be held in Athens, Greece. Venue details will be posted here as they are confirmed.</p>
 </div>
 
 ---
@@ -37,44 +37,49 @@ RSS has a long history of bringing together researchers in all areas of robotics
     </thead>
     <tbody>
       <tr>
-        <td>TBA</td>
+        <td>December 4, 2026</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap">Abstract/Title Submission Deadline</td>
+        <td class="wrap">Extended Abstract submission deadline</td>
       </tr>
       <tr>
-        <td>TBA</td>
+        <td>February 5, 2027</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap">Paper Submission Deadline</td>
+        <td class="wrap">Decision Stage 1 (Reject or Invitation to Rebuttal)</td>
       </tr>
       <tr>
-        <td>TBA</td>
+        <td>February 12, 2027</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap">Supplementary Material Submission Deadline</td>
+        <td class="wrap">Rebuttal submission deadline</td>
       </tr>
       <tr>
-        <td>TBA</td>
+        <td>February 26, 2027</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap">Reviews Released and Rebuttal Invitations</td>
+        <td class="wrap">Decision Stage 2 (Reject or Invitation to execute an Extension Charter)</td>
       </tr>
       <tr>
-        <td>TBA</td>
+        <td>April 16, 2027</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap">Rebuttal Submission Deadline</td>
+        <td class="wrap">Final paper submission deadline</td>
       </tr>
       <tr>
-        <td>TBA</td>
+        <td>April 19, 2027</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap">Paper Acceptance Notification</td>
+        <td class="wrap">Supplementary material submission deadline</td>
       </tr>
       <tr>
-        <td>TBA</td>
+        <td>April 30, 2027</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap">Final Camera Ready Paper Submission</td>
+        <td class="wrap">Paper acceptance notification</td>
+      </tr>
+      <tr>
+        <td>May 14, 2027</td>
+        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td class="wrap">Camera-ready paper submission</td>
       </tr>
       <tr>
         <td>July 6&ndash;11, 2027</td>
-        <td>—</td>
-        <td class="wrap">RSS 2027, Athens, Greece</td>
+        <td class="nowrap">—</td>
+        <td class="wrap">RSS conference in Athens, Greece</td>
       </tr>
     </tbody>
 </table>
