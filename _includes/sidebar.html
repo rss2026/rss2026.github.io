@@ -1,6 +1,16 @@
 <div class="col-md-2 col-lg-offset-1 hidden-xs hidden-sm text-right" id="sidebar"/>
 <!-- No sidebar on small screens -->
 <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+{% if site.landing_page_only %}
+<br>
+<br>
+<b>committees</b>
+<br>
+<a class="sidebar-nav-item{% if page.url == '/committees/organizers/' %} active{% endif %}" href="{{ site.baseurl }}/committees/organizers/">Organizing Committee</a>
+<br>
+<a class="sidebar-nav-item{% if page.url == '/committees/pc/' %} active{% endif %}" href="{{ site.baseurl }}/committees/pc/">Program Committee</a>
+<br>
+{% endif %}
 {% if site.landing_page_only == false %}
 <!--
 <br>

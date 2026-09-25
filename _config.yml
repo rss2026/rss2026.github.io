@@ -51,7 +51,7 @@ collections:
        permalink: /program/:path/
        priority: 2
     committees:
-       output: false
+       output: true
        permalink: /committees/:path/
        priority: 4
     information:
