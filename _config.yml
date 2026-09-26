@@ -14,7 +14,7 @@ url:              "https://roboticsconference.org"
 baseurl:          ""
 include:          ['_pages']
 exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'GRTAGS', 'GPATH', 'GTAGS', 'deploy.sh', 'rss2027-preview', 'rss2027-preview*.zip', 'RSS 2027 Committees.xlsx']
-logo:             "/images/rss2027-banner-preview.png"
+logo:             "/images/rss2027-banner.svg"
 favpng:           "/public/rss2027-favicon.png"
 favicon:          "/public/rss2027-favicon.png"
 apple_touch_icon: "/public/rss2027-favicon.png"

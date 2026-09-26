@@ -10,7 +10,7 @@ priority: 9
 <div class="row text-center">
 
   <b>Program Chair</b><br>
-  <a href="https://www.cst.cam.ac.uk/people/asp45" target="_blank">Amanda Prorok</a><br>
+  <a href="https://www.proroklab.org" target="_blank">Amanda Prorok</a><br>
   <i>University of Cambridge, UK</i><br>
 
   <br>
