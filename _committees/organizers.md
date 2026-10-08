@@ -36,6 +36,23 @@ priority: 10
 
   <br>
 
+  <b>Workshop Chairs</b><br>
+  <table style="margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://www.ias.informatik.tu-darmstadt.de/Team/GeorgiaChalvatzaki">Georgia Chalvatzaki</a><br>
+        <i>TU Darmstadt, Germany</i><br>
+      </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://www.ri.cmu.edu/ri-faculty/andrea-bajcsy/">Andrea Bajcsy</a><br>
+        <i>Carnegie Mellon University, USA</i><br>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
   <b>Submissions Chair</b><br>
   <table style="margin-left:auto;margin-right:auto;">
     <tr>
@@ -65,7 +82,7 @@ priority: 10
       <td style="width:200px;vertical-align:top;">
         <b>OpenReview Chair</b><br>
         <a target="_blank" href="https://mlatcl.netlify.app/people/markus-kaiser.html">Markus Kaiser</a><br>
-        <i>Siemens, Germany</i><br>
+        <i>DeepL, Germany</i><br>
       </td>
       <td style="width:45px;min-width:16px;"></td>
       <td style="width:200px;vertical-align:top;">

@@ -85,9 +85,14 @@ priority: 9
       </td>
     </tr>
     <tr>
-      <td colspan="3" style="vertical-align:top;text-align:center;">
+      <td style="width:200px;vertical-align:top;">
         <a style="display:block;" href="https://sites.google.com/site/tvidal/teresa-vidal-calleja" target="_blank">Teresa Vidal-Calleja</a>
         <i style="display:block;margin-top:-0.5ex;margin-bottom:1ex;">University of Technology Sydney, Australia</i>
+      </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <a style="display:block;" href="https://www.dragon.t.u-tokyo.ac.jp/author/moju-zhao/" target="_blank">Moju Zhao</a>
+        <i style="display:block;margin-top:-0.5ex;margin-bottom:1ex;">The University of Tokyo, Japan</i>
       </td>
     </tr>
   </table>
