@@ -13,7 +13,7 @@ description:      'RSS 2027, July 6, 2027 - July 11, 2027, Athens, Greece'
 url:              "https://roboticsconference.org"
 baseurl:          ""
 include:          ['_pages']
-exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'GRTAGS', 'GPATH', 'GTAGS', 'deploy.sh', 'rss2027-preview', 'rss2027-preview*.zip', 'RSS 2027 Committees.xlsx']
+exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'GRTAGS', 'GPATH', 'GTAGS', 'deploy.sh', 'rss2027-preview', 'rss2027-preview*.zip', 'RSS 2027 Committees.xlsx', '_attending/accommodations.md', '_attending/accommodations_2025.md', '_attending/attending-rss.md', '_attending/registration.md']
 logo:             "/images/rss2027-banner.svg"
 favpng:           "/public/rss2027-favicon.png"
 favicon:          "/public/rss2027-favicon.png"
@@ -43,7 +43,7 @@ google_analytics: G-RCJTV6PJZC
 
 collections:
     attending:
-       output: false
+       output: true
        permalink: /attending/:path/
        priority: 2
     program:

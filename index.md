@@ -7,14 +7,14 @@ title: Home
 July 6&ndash;11, 2027<br>Athens, Greece</h1>
 
 <div style="border: 1px solid #bee5eb; background-color: #d1ecf1; color: #0c5460; padding: 14px 18px; margin: 18px 0; border-radius: 6px;">
-  <p style="margin: 0;">The 23rd Robotics: Science and Systems conference will be held in Athens, Greece. Venue details will be posted here as they are confirmed.</p>
+  <p style="margin: 0;">The 23rd Robotics: Science and Systems conference will be held in Athens, Greece. See the <a href="{{ site.baseurl }}/attending/travel/">Venue page</a> for venue and travel information.</p>
 </div>
 
 ---
 
 ### Call for Participation
 
-We are pleased to announce the 23rd edition of the “Robotics: Science and Systems” (RSS) conference, to be held in Athens, Greece from July 6–11, 2027. The specific venue will be announced when it is confirmed.
+We are pleased to announce the 23rd edition of the “Robotics: Science and Systems” (RSS) conference, to be held in Athens, Greece from July 6–11, 2027. Venue details are available [here]({{ site.baseurl }}/attending/travel/).
 
 RSS has a long history of bringing together researchers in all areas of robotics from around the world for an engaging and focused week of single-track presentations, workshops, poster sessions, and tutorials.
 
