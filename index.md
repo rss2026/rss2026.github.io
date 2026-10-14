@@ -6,10 +6,6 @@ title: Home
 <h1 class="page-title">{{ site.title }}<br>
 July 6&ndash;11, 2027<br>Athens, Greece</h1>
 
-<div style="border: 1px solid #bee5eb; background-color: #d1ecf1; color: #0c5460; padding: 14px 18px; margin: 18px 0; border-radius: 6px;">
-  <p style="margin: 0;">The 23rd Robotics: Science and Systems conference will be held in Athens, Greece. See the <a href="{{ site.baseurl }}/attending/travel/">Venue page</a> for venue and travel information.</p>
-</div>
-
 ---
 
 ### Call for Participation
