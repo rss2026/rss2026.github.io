@@ -46,6 +46,14 @@
                     <ul class="nav navbar-nav">
                         {% if site.landing_page_only %}
                         <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">attending<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="{{ site.baseurl }}/attending/travel/">Venue</a></li>
+                                <li><a href="{{ site.baseurl }}/attending/visa/">Visa Information</a></li>
+                                <li><a href="{{ site.baseurl }}/attending/city/">The City</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
                             <a class="dropdown-toggle" data-toggle="dropdown" href="#">information<span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="{{ site.baseurl }}/information/cfp/">Call for Papers</a></li>
