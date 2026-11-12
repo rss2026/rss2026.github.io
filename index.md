@@ -8,6 +8,10 @@ July 6&ndash;11, 2027<br>Athens, Greece</h1>
 
 ---
 
+The RSS 2027 submission portal is now open on [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2027/Conference#tab-recent-activity).
+
+---
+
 ### Call for Participation
 
 We are pleased to announce the 23rd edition of the “Robotics: Science and Systems” (RSS) conference, to be held in Athens, Greece from July 6–11, 2027. Venue details are available [here]({{ site.baseurl }}/attending/travel/).
