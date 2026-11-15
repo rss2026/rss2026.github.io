@@ -23,7 +23,7 @@ Yes. The strict page limit for Stage 1 submissions is "5+1" (up to 5 pages of ma
 ## **4. Can we include links to an (anonymous) external website in our Stage 1 submission?**
 {: .h4 .text-left}
 
-We strongly discourage including a link to an anonymous website at this stage, and can be provided in the final camera-ready version of the paper. Please be aware that reviewers are explicitly instructed **not** to review or consider any material beyond the strict 5+1 page limit during Stage 1. Websites, external videos, or supplementary code repositories will not factor into the initial decision. Therefore, you must ensure that all critical information, hypotheses, and methodological details necessary to evaluate your submission are fully contained within the main text of your initial manuscript.
+We strongly discourage including a link to an anonymous website at this stage. Please be aware that reviewers are explicitly instructed **not** to review or consider any material beyond the strict 5+1 page limit during Stage 1. Websites, external videos, or supplementary code repositories will not factor into the initial decision. Therefore, you must ensure that all critical information, hypotheses, and methodological details necessary to evaluate your submission are fully contained within the main text of your initial manuscript.
 
 ## **5. May an appendix containing detailed proofs and additional results be submitted as a separate PDF within a supplementary ZIP file? Are there page limits for this?**
 {: .h4 .text-left}
