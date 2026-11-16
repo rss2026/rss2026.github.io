@@ -123,7 +123,7 @@ A subset of papers will be invited to the rebuttal period. A template for the re
 
 ## Review Guidelines
 
-Review guidelines will be made available in due course.
+See the [Reviewer Guidelines]({{ site.baseurl }}/information/reviewer-guidelines/).
 
 ---
 
