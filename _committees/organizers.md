@@ -146,7 +146,7 @@ priority: 10
     <tr>
       <td style="width:200px;vertical-align:top;">
         <a target="_blank" href="https://www.dangersteve.com/">Steven Morad</a><br>
-        <i>University of Macau, Macau</i><br>
+        <i>University of Bath, UK</i><br>
       </td>
       <td style="width:45px;"></td>
       <td style="width:200px;vertical-align:top;">
