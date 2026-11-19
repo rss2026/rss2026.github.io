@@ -58,8 +58,8 @@ priority: 9
       </td>
       <td style="width:45px;"></td>
       <td style="width:200px;vertical-align:top;">
-        <a style="display:block;" href="https://robotics.umich.edu/people/faculty/nima-fazeli/" target="_blank">Nima Fazeli</a>
-        <i style="display:block;margin-top:-0.5ex;margin-bottom:1ex;">University of Michigan, USA</i>
+        <a style="display:block;" href="https://eng.ox.ac.uk/people/perla-maiolino" target="_blank">Perla Maiolino</a>
+        <i style="display:block;margin-top:-0.5ex;margin-bottom:1ex;">University of Oxford, UK</i>
       </td>
     </tr>
     <tr>
