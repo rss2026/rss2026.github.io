@@ -63,9 +63,9 @@ All deadlines are 23:59 Anywhere on Earth (AoE).
 
 Submit one PDF per stage via **OpenReview: <mark>[link to be announced soon]</mark>**.
 
-**Stage 1 — Pre-Proposal:** use the [Pre-Proposal Template]({{ '/information/workshop-pre-proposal/' | relative_url }}). Include the title and track, organizers, a topic description of up to **300 words**, a brief focus/timeliness statement, intended format, requested duration and justification, and tentative invited participants where applicable. Speaker confirmation is not required at this stage.
+**Stage 1 — Pre-Proposal:** use the [Pre-Proposal Template](https://docs.google.com/document/d/1qk8gJMw650De7QG5TZQ6F-yyLk-yQD4bLke6dAWtTTw/edit?tab=t.vtvjeat9an64). Include the title and track, organizers, a topic description of up to **300 words**, a brief focus/timeliness statement, intended format, requested duration and justification, and tentative invited participants where applicable. Speaker confirmation is not required at this stage.
 
-**Stage 2 — Full Proposal:** invited teams use the [Full Proposal Template]({{ '/information/workshop-full-proposal/' | relative_url }}) to provide the detailed scope, invited program and confirmation status, schedule, participation and inclusion plans, contribution/review arrangements, resource needs, draft website, and any awards or sponsorship plans. Invitation to Stage 2 is not workshop acceptance.
+**Stage 2 — Full Proposal:** invited teams use the [Full Proposal Template](https://docs.google.com/document/d/1qk8gJMw650De7QG5TZQ6F-yyLk-yQD4bLke6dAWtTTw/edit?tab=t.4962tuwuwm7z) to provide the detailed scope, invited program and confirmation status, schedule, participation and inclusion plans, contribution/review arrangements, resource needs, draft website, and any awards or sponsorship plans. Invitation to Stage 2 is not workshop acceptance.
 
 Select exactly one track; the Chairs may reclassify proposals and coordinate implementation changes with organizers.
 

@@ -62,7 +62,7 @@ Submit a single PDF at each stage using the corresponding template. The pre-prop
 
 ### Stage 1 — Pre-Proposal: December 20, 2026
 
-Use the [Pre-Proposal Template]({{ '/information/workshop-pre-proposal/' | relative_url }}). This stage lets the Chairs see the landscape of proposed topics, identify overlaps, and give feedback before organizers invest in a full proposal. Include:
+Use the [Pre-Proposal Template](https://docs.google.com/document/d/1qk8gJMw650De7QG5TZQ6F-yyLk-yQD4bLke6dAWtTTw/edit?tab=t.vtvjeat9an64). This stage lets the Chairs see the landscape of proposed topics, identify overlaps, and give feedback before organizers invest in a full proposal. Include:
 
 1. Workshop title and selected track.
 2. A topic description of up to 300 words, including a one- or two-sentence statement of the shared question, problem, or research agenda.
@@ -76,7 +76,7 @@ On February 8, 2027, organizers will be told whether they are invited to submit 
 
 ### Stage 2 — Full Proposal: April 8, 2027
 
-Use the [Full Proposal Template]({{ '/information/workshop-full-proposal/' | relative_url }}) and complete all applicable sections. Update any information that has changed since the pre-proposal. Provide:
+Use the [Full Proposal Template](https://docs.google.com/document/d/1qk8gJMw650De7QG5TZQ6F-yyLk-yQD4bLke6dAWtTTw/edit?tab=t.4962tuwuwm7z) and complete all applicable sections. Update any information that has changed since the pre-proposal. Provide:
 
 1. Title, track, and an abstract suitable for the RSS website.
 2. Detailed scope and relevance, including how the workshop builds on and differs from related recent events at RSS, ICRA, CoRL, IROS, and other venues.
