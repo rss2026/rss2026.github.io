@@ -1,110 +1,84 @@
 ---
 layout: page
 title: Call for Workshops
-description: Request for Participation in Workshops
-invisible: true
-published: false
+description: RSS 2027 call for workshop proposals.
+invisible: false
+published: true
 priority: 7
 ---
 
+{% include workshop-proposal-nav.html %}
 
+**Robotics: Science and Systems · Athens, Greece · July 6–11, 2027**<br>
+Workshop days: **July 10–11, 2027**
 
-We invite proposals for half-day workshops and tutorials to take place in conjunction with the “Robotics: Science and Systems” (RSS) 2026 conference. Proposals should be submitted by **February 12, 2026, 23:59 AOE**. The conference, including its workshops and tutorials, is planned as an in-person event.
+We invite proposals for half-day or full-day workshops at RSS 2027. Workshops should bring people together around a coherent scientific or community purpose, with time for substantive discussion, practical learning, or collaboration. Proposals from communities of all sizes are welcome.
 
-The RSS workshops and tutorials provide high-quality, topically focused forums for researchers at the forefront of robotics. They will take place at the [University of Technology Sydney](https://www.uts.edu.au/) in Sydney, Australia, on **Monday, July 13 (morning half-day events)** and **Friday, July 17, 2026 (two half-day events)**.
+## What’s New in 2027
 
-Workshops are intended to supplement the research presented in the main proceedings. Tutorials should support researchers new to the field in quickly gaining the necessary skills and knowledge. We are encouraging events that will promote discussion and interaction among the participants. We will prioritize proposals with high educational value, interest, and relevance.
+* **A two-stage process:** submit a lightweight pre-proposal first. The Chairs will give feedback, identify overlaps, and may request mergers or revisions before inviting full proposals.
+* **Three tracks:** Submit workshops to one of three tracks, Technical Deep Dive, Dirty Laundry, and Unconventional, each with a distinct purpose. See details below.
+* **Early-career participation:** programs with invited talks must include a full invited talk by an early-career non-organizer. Panel-only programs must include an early-career non-organizer panelist. Programs without invited talks or panels are exempt.
+* **A speaker cap:** an individual may give invited talks or serve as a panelist at no more than two RSS 2027 workshops.
 
-**This year, ALL workshops will be half-day events, arranged into three time slots.** Workshop organizers should keep this format change in mind when proposing events. Workshops which are focused and targeted on specific topics are preferred, as opposed to overly broad (e.g. a workshop on robot manipulation).
+## Workshop Tracks
 
-Specifically, we welcome:
+<div class="table-responsive" markdown="1">
 
-* Proposals with a diverse set of confirmed speakers as well as with a plan for active participation from the audience (e.g., submissions for posters/presentations, discussion sessions, interactive hands-on tutorials, etc.).
+| Track | Purpose | Planned number |
+| :---- | :---- | :---- |
+| Technical Deep Dive | Examine a coherent technical topic or connected research questions in depth; research discussions, tutorials, and hands-on sessions are welcome. | 20 |
+| Dirty Laundry | Discuss failures, negative results, evaluation pitfalls, and the gap between demonstrations and deployment, with a clear path to useful lessons. | 5 |
+| Unconventional | New workshop formats or topics that a conventional research workshop or tutorial would not adequately support. | 5 |
+{: .table .table-bordered}
 
-* We encourage organizers to consider, among others, the diversity of presenters in terms of: i) Seniority and academic rank (speaking opportunities for junior researchers, including Ph.D. students and postdocs are strongly encouraged), ii) Geographic location and institution, iii) Gender, iv) Race and ethnicity, v) Professional backgrounds (e.g., industry, government, and academia).
+</div>
 
-* Innovative event structures that will encourage discussion and interaction among the participants. Previous examples include structured debates or groupings of senior and junior researchers for brainstorming new research directions.
+These numbers are planning estimates, not fixed acceptance quotas. They may change with proposal quality, room availability, and workshop duration; all three tracks will be represented. See [Detailed Guidance]({{ '/information/workshop-guidance/' | relative_url }}) for examples and track-specific expectations.
 
-* Proposals that will encourage the participation of communities that have not traditionally participated in RSS but are relevant to robotics science and systems, or the practice and philosophy of the discipline.
-
-* Workshops that will encourage analysis and reflection on topics and issues, which formulate challenging problems and promote discussion, debates, and long-term vision. This includes workshops on ideas that may be important for the field but may be poorly treated by the formal peer-review process.
-
-* This year, we particularly encourage workshops which emphasize forward-thinking discussions over presentation of previously published results. For example, presentations and posters which highlight new or in-progress ideas are encouraged, and duplicate presentations of papers at the main RSS conference or a prior conference are discouraged.
-
-**Invited speakers and panelists are limited to accepting a speaking and/or panel slot at a maximum of ONE workshop. It is acceptable to agree to two proposed workshops tentatively during the application process, but speakers must decide on one workshop upon acceptance. Organizers should explicitly remind and verify this recommendation with the invited speakers.**
-
-RSS requires that at least one of the organizers be present in person at the event in person.
-
-Workshop/tutorial schedules should adhere to a 4 hour time block (morning or afternoon) with a 30 minute coffee break which may overlap with poster sessions.
-<!-- <div style="text-align: center;">
-    <img alt="Lely" src="/2024/images/RSS-workshops-map.png" style="width: 70%;" />
-</div> -->
-
-## Submission
-
-All proposals must be prepared using the template [here](https://docs.google.com/document/d/1akvXpaXYQbY-PaDCBvDOH3BaqWA4RtlAN4A0TB-7Ox4/edit?usp=sharing) and should be **no more than 4 pages** in length. Workshop and tutorial proposals should be submitted via OpenReview [here](https://openreview.net/group?id=roboticsfoundation.org/RSS/2026/Workshop_Proposal#).
-
-Please contact the workshop chairs Masha Itkina (<a href="mailto:masha.itkina@tri.global">masha.itkina@tri.global</a>) and Michael Posa  (<a href="mailto:posa@seas.upenn.edu">posa@seas.upenn.edu</a>)  for any clarifications.
-
-## Review Process
-
-Workshop proposals will receive two **single-blind expert** reviews, which will be considered by the workshop chairs when accepting proposals. Workshop chairs will also consider topics to ensure a breadth of coverage at the conference.
-
-Reviewers will be asked to rate workshops on the four criteria below.
-
-* Workshop topic or theme
-    * What does the workshop topic add to the conference, beyond the traditional presentation of papers at the main conference?
-    * Is the topic timely and novel / unique? Why should this workshop be held in 2026?
-* Format
-    * Does the workshop format foster interaction between researchers?
-    * Is the workshop format forward-thinking, encouraging discussion of the future, or does it focus on presentation of completed work?
-    * Highlight any interesting or creative elements to the format.
-* Participants
-    * How will the workshop promote diversity among its participants and speakers? Consider, among other criteria, ensuring opportunities for junior researchers, diversity across gender, ethnicity, geographic location, institution, and professional background. These opportunities should ideally extend beyond presenting at poster sessions and/or “lightning talks.”
-    * Are the invited participants active experts in the topic?
-    * Reviewers this year are explicitly instructed to **NOT** evaluate proposals based on the stature or prestige of invited speakers.
-* Workshop feasibility:
-    * Evidence that organizers have thought through the logistics to enable the workshop to succeed.
+Workshops serving smaller or less widely represented communities are welcome. Scope is judged relative to the audience and duration; expected attendance informs room planning.
 
 ## Important Dates
 
-<style>
-  .nowrap {
-    white-space: nowrap;
-  }
-  .wrap {
-    white-space: normal;
-  }
-</style>
+All deadlines are 23:59 Anywhere on Earth (AoE).
 
-<table class="table">
-    <thead>
-      <tr>
-        <th colspan="3">Timeline</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><s>February 12, 2026</s></td>
-        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td class="wrap">Workshop/Tutorial  Proposal Submission Deadline</td>
-      </tr>
-      <tr>
-        <td>April 23, 2026 <s>April 17</s></td>
-        <td></td>
-        <td class="wrap">Proposal Acceptance Notification</td>
-      </tr>
-      <tr>
-        <td>End of April / Early May, 2026</td>
-        <td></td>
-        <td class="wrap">RSS Accepted Workshop Organizers Meeting (virtual)</td>
-      </tr>
-      <tr>
-        <td>July 13&ndash;17, 2026</td>
-        <td></td>
-        <td class="wrap">Workshops/Tutorial Dates</td>
-      </tr>
-    </tbody>
-</table>
+<div class="table-responsive" markdown="1">
 
-Please check the conference website and the conference’s social media accounts for more information.
+| Milestone | Date |
+| :---- | :---- |
+| Pre-proposal deadline | December 20, 2026 |
+| Invitations to submit full proposals | February 8, 2027 |
+| Full proposal deadline — by invitation | April 8, 2027 |
+| Workshop acceptance notification | April 23, 2027 |
+| Virtual organizers meeting | May 3, 2027 |
+| Workshop websites online | May 7, 2027 |
+| Contributor acceptance notifications | May 31, 2027 |
+| Awards/travel-grant approval applications | June 26, 2027 |
+| Workshops at RSS 2027 | July 10–11, 2027 |
+{: .table .table-bordered}
+
+</div>
+
+## How to Submit
+
+Submit one PDF per stage via **OpenReview: <mark>[link to be announced soon]</mark>**.
+
+**Stage 1 — Pre-Proposal:** use the [Pre-Proposal Template](https://docs.google.com/document/d/1qk8gJMw650De7QG5TZQ6F-yyLk-yQD4bLke6dAWtTTw/edit?tab=t.vtvjeat9an64). Include the title and track, organizers, a topic description of up to **300 words**, a brief focus/timeliness statement, intended format, requested duration and justification, and tentative invited participants where applicable. Speaker confirmation is not required at this stage.
+
+**Stage 2 — Full Proposal:** invited teams use the [Full Proposal Template](https://docs.google.com/document/d/1qk8gJMw650De7QG5TZQ6F-yyLk-yQD4bLke6dAWtTTw/edit?tab=t.4962tuwuwm7z) to provide the detailed scope, invited program and confirmation status, schedule, participation and inclusion plans, contribution/review arrangements, resource needs, draft website, and any awards or sponsorship plans. Invitation to Stage 2 is not workshop acceptance.
+
+Select exactly one track; the Chairs may reclassify proposals and coordinate implementation changes with organizers.
+
+## Essential Requirements
+
+* **Format and attendance:** justify the requested half-day or full-day duration. Workshops are in person, with at least one organizer present throughout. At least one organizer must attend the May 3 virtual meeting.
+* **Early-career eligibility:** PhD students, postdocs, or researchers within five years of their first faculty or equivalent independent research appointment, excluding career breaks. Contributed/spotlight talks do not satisfy the full invited-talk requirement.
+* **Speaker-cap counting:** each workshop counts once. Organizing, moderating, or giving a contributed presentation alone does not count; an organizer who gives an invited talk or serves as a panelist is subject to the cap.
+* **Contributions and registration:** workshop contributions are non-archival. Contributor decisions are due by May 31. Organizers, speakers, and attendees follow the conference registration policy; acceptance does not itself confer a fee waiver.
+* **Awards, travel grants, and sponsorship:** prior Chair approval and a qualified, conflict-free committee are required. Monetary awards are capped at US$1,000 per contribution; organizer-co-authored contributions are ineligible for monetary awards. RSSF cannot administer or pass through sponsorship funds. Declare plans in the full proposal and submit the approval application by June 26; see the [full requirements in Detailed Guidance]({{ '/information/workshop-guidance/' | relative_url }}).
+
+Selection considers focus, relevance, track fit, the quality and diversity of contributors, audience engagement, feasibility, and complementarity across the program. Read [Detailed Guidance]({{ '/information/workshop-guidance/' | relative_url }}) before preparing your proposal.
+
+## Contact
+
+**Workshop Chairs:** Andrea Bajcsy (CMU), abajcsy@cmu.edu; Georgia Chalvatzaki (TU Darmstadt), georgia.chalvatzaki@tu-darmstadt.de.
