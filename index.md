@@ -38,6 +38,11 @@ RSS has a long history of bringing together researchers in all areas of robotics
         <td class="wrap">Extended Abstract submission deadline</td>
       </tr>
       <tr>
+        <td>December 20, 2026</td>
+        <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td class="wrap">Workshop pre-proposal submission deadline</td>
+      </tr>
+      <tr>
         <td>February 5, 2027</td>
         <td class="nowrap">11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td class="wrap">Decision Stage 1 (Reject or Invitation to Rebuttal)</td>
