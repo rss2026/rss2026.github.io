@@ -128,13 +128,18 @@ priority: 10
   <table style="margin-left:auto;margin-right:auto;">
     <tr>
       <td style="width:200px;vertical-align:top;">
-        <a target="_blank" href="https://www.qut.edu.au/about/our-people/academic-profiles/peyman.moghadam">Peyman Moghadam</a><br>
-        <i>Queensland University of Technology, Australia</i><br>
+        <a target="_blank" href="https://profiles.ucl.ac.uk/73094-dimitrios-kanoulas">Dimitrios Kanoulas</a><br>
+        <i>University College London, UK</i><br>
       </td>
       <td style="width:45px;"></td>
       <td style="width:200px;vertical-align:top;">
-        <a target="_blank" href="https://profiles.ucl.ac.uk/73094-dimitrios-kanoulas">Dimitris Kanoulas</a><br>
-        <i>University College London, UK</i><br>
+        <a target="_blank" href="https://mkae.mech.ntua.gr/en/liarokapis">Minas Liarokapis</a><br>
+        <i>National Technical University of Athens, Greece</i><br>
+      </td>
+      <td style="width:45px;"></td>
+      <td style="width:200px;vertical-align:top;">
+        <a target="_blank" href="https://www.qut.edu.au/about/our-people/academic-profiles/peyman.moghadam">Peyman Moghadam</a><br>
+        <i>Queensland University of Technology, Australia</i><br>
       </td>
     </tr>
   </table>
